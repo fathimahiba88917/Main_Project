@@ -1,0 +1,101 @@
+﻿ Product_ID,Product_Name,Brand,Category,Subcategory,Price,Cost_Price,Rating,Stock_Quantity,Shade_Count
+P001,Lakme Pressed Powder 001,Lakme,Compact,Pressed Powder,599,306,3.7,46,30
+P002,Kay Beauty Corrector Concealer 002,Kay Beauty,Concealer,Corrector Concealer,249,114,3.8,149,6
+P003,Insight Powder Highlighter 003,Insight,Highlighter,Powder Highlighter,899,454,4.3,227,6
+P004,Kay Beauty Matte Setting Spray 004,Kay Beauty,Setting Spray,Matte Setting Spray,699,363,3.8,215,18
+P005,Kay Beauty Liquid Concealer 005,Kay Beauty,Concealer,Liquid Concealer,349,188,4,87,6
+P006,Insight Pore Primer 006,Insight,Primer,Pore Primer,349,242,4,161,15
+P007,Mamaearth Makeup Remover 007,Mamaearth,Makeup Remover,Makeup Remover,749,445,4.5,31,12
+P008,Maybelline Dewy Setting Spray 008,Maybelline,Setting Spray,Dewy Setting Spray,549,366,4,136,18
+P009,Faces Canada Liquid Lipstick 009,Faces Canada,Lipstick,Liquid Lipstick,499,308,4.5,194,8
+P010,Sugar Shimmer Palette 010,Sugar,Eyeshadow,Shimmer Palette,549,269,4,183,30
+P011,Faces Canada Tinted Lip Gloss 011,Faces Canada,Lip Gloss,Tinted Lip Gloss,249,126,3.5,100,20
+P012,Nykaa Cosmetics Waterproof Kajal 012,Nykaa Cosmetics,Kajal,Waterproof Kajal,699,352,4.2,246,24
+P013,Sugar Liquid Lipstick 013,Sugar,Lipstick,Liquid Lipstick,549,349,4.3,211,20
+P014,Faces Canada Single Eyeshadow 014,Faces Canada,Eyeshadow,Single Eyeshadow,549,384,3.7,146,8
+P015,Maybelline Matte Setting Spray 015,Maybelline,Setting Spray,Matte Setting Spray,399,242,4.6,128,8
+P016,Mamaearth Lengthening Mascara 016,Mamaearth,Mascara,Lengthening Mascara,999,582,4.9,240,6
+P017,Maybelline Setting Powder 017,Maybelline,Compact,Setting Powder,599,385,4,95,20
+P018,Lakme Bullet Lipstick 018,Lakme,Lipstick,Bullet Lipstick,599,415,4.6,149,8
+P019,Colorbar Makeup Remover 019,Colorbar,Makeup Remover,Makeup Remover,1199,722,3.7,215,10
+P020,Lakme Cream Highlighter 020,Lakme,Highlighter,Cream Highlighter,699,400,3.7,112,15
+P021,Nykaa Cosmetics Shine Lip Gloss 021,Nykaa Cosmetics,Lip Gloss,Shine Lip Gloss,299,141,4.2,37,30
+P022,Sugar Matte Setting Spray 022,Sugar,Setting Spray,Matte Setting Spray,1099,755,3.7,155,20
+P023,Nykaa Cosmetics Tinted Lip Gloss 023,Nykaa Cosmetics,Lip Gloss,Tinted Lip Gloss,649,357,4.4,115,24
+P024,Maybelline Liquid Highlighter 024,Maybelline,Highlighter,Liquid Highlighter,549,278,4,170,30
+P025,Nykaa Cosmetics Tinted Lip Gloss 025,Nykaa Cosmetics,Lip Gloss,Tinted Lip Gloss,199,93,4.4,78,8
+P026,Maybelline Dewy Foundation 026,Maybelline,Foundation,Dewy Foundation,1199,611,4.4,74,30
+P027,Nykaa Cosmetics Bullet Lipstick 027,Nykaa Cosmetics,Lipstick,Bullet Lipstick,1099,716,3.8,44,20
+P028,Kay Beauty Gel Eyeliner 028,Kay Beauty,Eyeliner,Gel Eyeliner,999,665,3.6,187,8
+P029,Faces Canada Full Coverage Foundation 029,Faces Canada,Foundation,Full Coverage Foundation,349,179,3.8,134,10
+P030,Colorbar Volume Mascara 030,Colorbar,Mascara,Volume Mascara,999,512,4.8,133,30
+P031,Insight Liquid Concealer 031,Insight,Concealer,Liquid Concealer,199,138,4.8,237,12
+P032,Swiss Beauty Bullet Lipstick 032,Swiss Beauty,Lipstick,Bullet Lipstick,1099,553,4.1,35,10
+P033,Kay Beauty Volume Mascara 033,Kay Beauty,Mascara,Volume Mascara,599,408,4.6,93,20
+P034,Insight Hydrating Primer 034,Insight,Primer,Hydrating Primer,1099,537,3.9,34,30
+P035,Lakme Dewy Foundation 035,Lakme,Foundation,Dewy Foundation,249,148,4.2,238,30
+P036,Insight Matte Lipstick 036,Insight,Lipstick,Matte Lipstick,299,198,3.6,37,12
+P037,Mamaearth Volume Mascara 037,Mamaearth,Mascara,Volume Mascara,549,327,3.6,40,20
+P038,Mamaearth Setting Powder 038,Mamaearth,Compact,Setting Powder,1199,634,3.9,191,18
+P039,Kay Beauty Plumping Lip Gloss 039,Kay Beauty,Lip Gloss,Plumping Lip Gloss,399,247,3.9,100,8
+P040,Mamaearth Full Coverage Foundation 040,Mamaearth,Foundation,Full Coverage Foundation,349,163,3.8,87,10
+P041,Nykaa Cosmetics Liquid Eyeliner 041,Nykaa Cosmetics,Eyeliner,Liquid Eyeliner,749,390,4.1,159,15
+P042,Insight Shimmer Palette 042,Insight,Eyeshadow,Shimmer Palette,199,123,4.3,189,8
+P043,Maybelline Liquid Lipstick 043,Maybelline,Lipstick,Liquid Lipstick,349,222,3.7,92,12
+P044,Nykaa Cosmetics Pore Primer 044,Nykaa Cosmetics,Primer,Pore Primer,599,345,3.9,236,6
+P045,Kay Beauty Corrector Concealer 045,Kay Beauty,Concealer,Corrector Concealer,599,276,4,53,15
+P046,Insight Bullet Lipstick 046,Insight,Lipstick,Bullet Lipstick,899,531,3.7,246,10
+P047,Faces Canada Powder Highlighter 047,Faces Canada,Highlighter,Powder Highlighter,399,222,3.6,113,6
+P048,Nykaa Cosmetics Liquid Eyeliner 048,Nykaa Cosmetics,Eyeliner,Liquid Eyeliner,349,188,4.3,243,20
+P049,Sugar Shimmer Palette 049,Sugar,Eyeshadow,Shimmer Palette,549,366,4.9,227,10
+P050,Sugar Volume Mascara 050,Sugar,Mascara,Volume Mascara,699,451,4.1,191,12
+P051,Maybelline Waterproof Kajal 051,Maybelline,Kajal,Waterproof Kajal,799,534,4.7,76,12
+P052,Faces Canada Micellar Water 052,Faces Canada,Makeup Remover,Micellar Water,649,425,4.7,77,6
+P053,Kay Beauty Pressed Powder 053,Kay Beauty,Compact,Pressed Powder,699,363,3.6,217,15
+P054,Insight Pencil Eyeliner 054,Insight,Eyeliner,Pencil Eyeliner,799,495,4.7,104,6
+P055,Sugar Full Coverage Concealer 055,Sugar,Concealer,Full Coverage Concealer,599,275,4.3,108,18
+P056,Insight Waterproof Mascara 056,Insight,Mascara,Waterproof Mascara,349,191,4.3,85,6
+P057,Lakme Pore Primer 057,Lakme,Primer,Pore Primer,1199,817,4.3,204,12
+P058,Maybelline Gel Eyeliner 058,Maybelline,Eyeliner,Gel Eyeliner,699,423,4.4,51,15
+P059,Kay Beauty Liquid Highlighter 059,Kay Beauty,Highlighter,Liquid Highlighter,699,385,3.9,52,12
+P060,Kay Beauty Waterproof Mascara 060,Kay Beauty,Mascara,Waterproof Mascara,449,271,3.9,160,6
+P061,Nykaa Cosmetics Gel Kajal 061,Nykaa Cosmetics,Kajal,Gel Kajal,899,581,4.3,102,24
+P062,Nykaa Cosmetics Cream Blush 062,Nykaa Cosmetics,Blush,Cream Blush,1199,681,4.8,223,10
+P063,Colorbar Pressed Powder 063,Colorbar,Compact,Pressed Powder,1199,739,4.4,43,12
+P064,Nykaa Cosmetics Compact Powder 064,Nykaa Cosmetics,Compact,Compact Powder,499,243,3.6,141,8
+P065,Mamaearth Cream Blush 065,Mamaearth,Blush,Cream Blush,499,314,4,122,12
+P066,Maybelline Matte Lipstick 066,Maybelline,Lipstick,Matte Lipstick,899,454,4.6,198,30
+P067,Insight Powder Blush 067,Insight,Blush,Powder Blush,549,373,3.7,54,24
+P068,Insight Setting Powder 068,Insight,Compact,Setting Powder,699,481,4.7,176,30
+P069,Swiss Beauty Waterproof Mascara 069,Swiss Beauty,Mascara,Waterproof Mascara,449,286,4.2,86,12
+P070,Colorbar Makeup Remover 070,Colorbar,Makeup Remover,Makeup Remover,1199,685,3.8,132,8
+P071,Nykaa Cosmetics Pore Primer 071,Nykaa Cosmetics,Primer,Pore Primer,599,320,4.8,40,10
+P072,Kay Beauty Cream Lipstick 072,Kay Beauty,Lipstick,Cream Lipstick,399,250,3.6,124,18
+P073,Kay Beauty Liquid Highlighter 073,Kay Beauty,Highlighter,Liquid Highlighter,249,125,4.1,217,6
+P074,Kay Beauty Makeup Remover 074,Kay Beauty,Makeup Remover,Makeup Remover,1099,496,4,212,20
+P075,Insight Micellar Water 075,Insight,Makeup Remover,Micellar Water,549,314,3.9,144,6
+P076,Kay Beauty Lengthening Mascara 076,Kay Beauty,Mascara,Lengthening Mascara,449,296,4.8,179,30
+P077,Mamaearth Full Coverage Foundation 077,Mamaearth,Foundation,Full Coverage Foundation,199,94,4.1,241,24
+P078,Colorbar Matte Lipstick 078,Colorbar,Lipstick,Matte Lipstick,799,425,4.1,106,20
+P079,Colorbar Gel Kajal 079,Colorbar,Kajal,Gel Kajal,299,170,4.5,33,18
+P080,Maybelline Tinted Lip Gloss 080,Maybelline,Lip Gloss,Tinted Lip Gloss,249,159,4.8,71,6
+P081,Nykaa Cosmetics Eyeshadow Palette 081,Nykaa Cosmetics,Eyeshadow,Eyeshadow Palette,399,227,3.7,75,24
+P082,Faces Canada Pore Primer 082,Faces Canada,Primer,Pore Primer,449,270,4.8,203,8
+P083,Colorbar Matte Setting Spray 083,Colorbar,Setting Spray,Matte Setting Spray,349,208,4.8,167,20
+P084,Nykaa Cosmetics Waterproof Mascara 084,Nykaa Cosmetics,Mascara,Waterproof Mascara,299,179,4.7,82,8
+P085,Mamaearth Pore Primer 085,Mamaearth,Primer,Pore Primer,349,227,4.3,30,18
+P086,Faces Canada Liquid Highlighter 086,Faces Canada,Highlighter,Liquid Highlighter,299,172,4,237,20
+P087,Maybelline Micellar Water 087,Maybelline,Makeup Remover,Micellar Water,899,620,4.4,232,24
+P088,Kay Beauty Face Primer 088,Kay Beauty,Primer,Face Primer,449,284,4.9,89,30
+P089,Swiss Beauty Dewy Setting Spray 089,Swiss Beauty,Setting Spray,Dewy Setting Spray,899,590,4.3,102,12
+P090,Colorbar Cleansing Balm 090,Colorbar,Makeup Remover,Cleansing Balm,999,510,4.2,176,20
+P091,Swiss Beauty Liquid Eyeliner 091,Swiss Beauty,Eyeliner,Liquid Eyeliner,699,346,3.8,224,15
+P092,Mamaearth Gel Eyeliner 092,Mamaearth,Eyeliner,Gel Eyeliner,599,353,4.2,68,8
+P093,Kay Beauty Tinted Lip Gloss 093,Kay Beauty,Lip Gloss,Tinted Lip Gloss,1099,647,3.8,141,24
+P094,Maybelline Powder Blush 094,Maybelline,Blush,Powder Blush,649,328,4.5,98,18
+P095,Insight Liquid Blush 095,Insight,Blush,Liquid Blush,749,417,4.5,104,18
+P096,Colorbar Pore Primer 096,Colorbar,Primer,Pore Primer,649,333,3.7,69,18
+P097,Insight Corrector Concealer 097,Insight,Concealer,Corrector Concealer,449,224,4.5,90,30
+P098,Maybelline Single Eyeshadow 098,Maybelline,Eyeshadow,Single Eyeshadow,499,262,4,97,6
+P099,Sugar Hydrating Primer 099,Sugar,Primer,Hydrating Primer,599,276,3.6,94,10
+P100,Maybelline Compact Powder 100,Maybelline,Compact,Compact Powder,199,118,4.2,132,18

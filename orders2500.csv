@@ -1,0 +1,2501 @@
+﻿Order_ID,Customer_ID ,Order_Date,Payment_Method,Order_Status,Shipping_City
+O00001,C103,2025-01-01 00:00:00,UPI,Delivered,Kollam
+O00002,C436,2025-01-01 06:07:04,UPI,Delivered,Delhi
+O00003,C349,2025-01-01 12:14:07,UPI,Delivered,Mysuru
+O00004,C271,2025-01-01 18:21:11,UPI,Returned,Coimbatore
+O00005,C107,2025-01-02 00:28:14,Credit Card,Delivered,Thiruvananthapuram
+O00006,C072,2025-01-02 06:35:18,UPI,Delivered,Chennai
+O00007,C189,2025-01-02 12:42:21,Credit Card,Delivered,Kozhikode
+O00008,C021,2025-01-02 18:49:25,Debit Card,Delivered,Jaipur
+O00009,C103,2025-01-03 00:56:28,Cash on Delivery,Delivered,Bengaluru
+O00010,C122,2025-01-03 07:03:32,UPI,Delivered,Indore
+O00011,C467,2025-01-03 13:10:35,UPI,Delivered,Kolkata
+O00012,C215,2025-01-03 19:17:39,UPI,Delivered,Jaipur
+O00013,C331,2025-01-04 01:24:42,Debit Card,Delivered,Kozhikode
+O00014,C459,2025-01-04 07:31:46,Debit Card,Delivered,Bhopal
+O00015,C088,2025-01-04 13:38:49,UPI,Delivered,Thiruvananthapuram
+O00016,C373,2025-01-04 19:45:53,Net Banking,Cancelled,Bhopal
+O00017,C100,2025-01-05 01:52:56,UPI,Shipped,Mumbai
+O00018,C360,2025-01-05 08:00:00,Credit Card,Returned,Hyderabad
+O00019,C152,2025-01-05 14:07:04,Debit Card,Delivered,Mysuru
+O00020,C131,2025-01-05 20:14:07,Cash on Delivery,Returned,Bengaluru
+O00021,C150,2025-01-06 02:21:11,Debit Card,Delivered,Mumbai
+O00022,C309,2025-01-06 08:28:14,Cash on Delivery,Delivered,Kozhikode
+O00023,C258,2025-01-06 14:35:18,UPI,Delivered,Delhi
+O00024,C344,2025-01-06 20:42:21,Cash on Delivery,Delivered,Bhopal
+O00025,C492,2025-01-07 02:49:25,UPI,Delivered,Kottayam
+O00026,C414,2025-01-07 08:56:28,Cash on Delivery,Delivered,Mysuru
+O00027,C294,2025-01-07 15:03:32,Credit Card,Delivered,Kollam
+O00028,C386,2025-01-07 21:10:35,Cash on Delivery,Delivered,Mysuru
+O00029,C192,2025-01-08 03:17:39,Credit Card,Delivered,Thiruvananthapuram
+O00030,C444,2025-01-08 09:24:42,Debit Card,Delivered,Indore
+O00031,C277,2025-01-08 15:31:46,Credit Card,Delivered,Pune
+O00032,C161,2025-01-08 21:38:49,Debit Card,Shipped,Delhi
+O00033,C460,2025-01-09 03:45:53,UPI,Shipped,Kochi
+O00034,C314,2025-01-09 09:52:56,UPI,Delivered,Indore
+O00035,C022,2025-01-09 16:00:00,UPI,Delivered,Bhopal
+O00036,C253,2025-01-09 22:07:04,UPI,Delivered,Kolkata
+O00037,C236,2025-01-10 04:14:07,Cash on Delivery,Shipped,Hyderabad
+O00038,C345,2025-01-10 10:21:11,UPI,Delivered,Chennai
+O00039,C049,2025-01-10 16:28:14,Net Banking,Delivered,Kochi
+O00040,C475,2025-01-10 22:35:18,UPI,Delivered,Delhi
+O00041,C059,2025-01-11 04:42:21,UPI,Delivered,Nashik
+O00042,C170,2025-01-11 10:49:25,Cash on Delivery,Delivered,Kollam
+O00043,C476,2025-01-11 16:56:28,Debit Card,Shipped,Coimbatore
+O00044,C188,2025-01-11 23:03:32,Credit Card,Delivered,Kottayam
+O00045,C464,2025-01-12 05:10:35,Credit Card,Delivered,Ahmedabad
+O00046,C271,2025-01-12 11:17:39,Debit Card,Shipped,Nashik
+O00047,C190,2025-01-12 17:24:42,UPI,Shipped,Kochi
+O00048,C446,2025-01-12 23:31:46,Net Banking,Delivered,Kolkata
+O00049,C175,2025-01-13 05:38:49,Net Banking,Delivered,Indore
+O00050,C446,2025-01-13 11:45:53,Debit Card,Delivered,Bhopal
+O00051,C051,2025-01-13 17:52:56,UPI,Cancelled,Mysuru
+O00052,C364,2025-01-14 00:00:00,Debit Card,Delivered,Coimbatore
+O00053,C055,2025-01-14 06:07:04,UPI,Cancelled,Chennai
+O00054,C244,2025-01-14 12:14:07,UPI,Delivered,Delhi
+O00055,C320,2025-01-14 18:21:11,UPI,Delivered,Chennai
+O00056,C131,2025-01-15 00:28:14,Credit Card,Delivered,Kozhikode
+O00057,C485,2025-01-15 06:35:18,Cash on Delivery,Delivered,Mumbai
+O00058,C307,2025-01-15 12:42:21,Debit Card,Delivered,Pune
+O00059,C135,2025-01-15 18:49:25,Debit Card,Delivered,Coimbatore
+O00060,C021,2025-01-16 00:56:28,Credit Card,Delivered,Delhi
+O00061,C329,2025-01-16 07:03:32,UPI,Returned,Delhi
+O00062,C167,2025-01-16 13:10:35,UPI,Delivered,Mumbai
+O00063,C274,2025-01-16 19:17:39,Net Banking,Delivered,Thrissur
+O00064,C388,2025-01-17 01:24:42,UPI,Delivered,Bengaluru
+O00065,C089,2025-01-17 07:31:46,Cash on Delivery,Delivered,Bhopal
+O00066,C316,2025-01-17 13:38:49,Credit Card,Delivered,Bengaluru
+O00067,C014,2025-01-17 19:45:53,Credit Card,Delivered,Mysuru
+O00068,C242,2025-01-18 01:52:56,Debit Card,Cancelled,Kochi
+O00069,C265,2025-01-18 08:00:00,Credit Card,Delivered,Thrissur
+O00070,C346,2025-01-18 14:07:04,Cash on Delivery,Delivered,Pune
+O00071,C053,2025-01-18 20:14:07,Net Banking,Delivered,Kozhikode
+O00072,C386,2025-01-19 02:21:11,Credit Card,Delivered,Nashik
+O00073,C340,2025-01-19 08:28:14,UPI,Delivered,Kolkata
+O00074,C092,2025-01-19 14:35:18,Credit Card,Shipped,Kottayam
+O00075,C367,2025-01-19 20:42:21,Net Banking,Shipped,Mumbai
+O00076,C444,2025-01-20 02:49:25,UPI,Delivered,Thrissur
+O00077,C455,2025-01-20 08:56:28,Debit Card,Delivered,Kolkata
+O00078,C428,2025-01-20 15:03:32,Debit Card,Delivered,Hyderabad
+O00079,C264,2025-01-20 21:10:35,Debit Card,Delivered,Bengaluru
+O00080,C431,2025-01-21 03:17:39,UPI,Delivered,Mumbai
+O00081,C035,2025-01-21 09:24:42,Debit Card,Delivered,Kochi
+O00082,C206,2025-01-21 15:31:46,Net Banking,Delivered,Bengaluru
+O00083,C081,2025-01-21 21:38:49,UPI,Delivered,Pune
+O00084,C420,2025-01-22 03:45:53,UPI,Delivered,Bengaluru
+O00085,C050,2025-01-22 09:52:56,Net Banking,Delivered,Bengaluru
+O00086,C360,2025-01-22 16:00:00,UPI,Delivered,Coimbatore
+O00087,C388,2025-01-22 22:07:04,Cash on Delivery,Delivered,Hyderabad
+O00088,C002,2025-01-23 04:14:07,Credit Card,Shipped,Mysuru
+O00089,C390,2025-01-23 10:21:11,UPI,Delivered,Chennai
+O00090,C054,2025-01-23 16:28:14,Cash on Delivery,Delivered,Chennai
+O00091,C106,2025-01-23 22:35:18,Credit Card,Delivered,Thiruvananthapuram
+O00092,C260,2025-01-24 04:42:21,Credit Card,Shipped,Nashik
+O00093,C310,2025-01-24 10:49:25,UPI,Delivered,Nashik
+O00094,C477,2025-01-24 16:56:28,Credit Card,Delivered,Thrissur
+O00095,C191,2025-01-24 23:03:32,UPI,Delivered,Pune
+O00096,C402,2025-01-25 05:10:35,Credit Card,Delivered,Delhi
+O00097,C218,2025-01-25 11:17:39,Net Banking,Returned,Thiruvananthapuram
+O00098,C044,2025-01-25 17:24:42,UPI,Delivered,Nashik
+O00099,C162,2025-01-25 23:31:46,Debit Card,Cancelled,Jaipur
+O00100,C202,2025-01-26 05:38:49,UPI,Cancelled,Indore
+O00101,C446,2025-01-26 11:45:53,Cash on Delivery,Cancelled,Mysuru
+O00102,C484,2025-01-26 17:52:56,UPI,Delivered,Indore
+O00103,C270,2025-01-27 00:00:00,Net Banking,Delivered,Kochi
+O00104,C351,2025-01-27 06:07:04,Credit Card,Delivered,Kolkata
+O00105,C304,2025-01-27 12:14:07,UPI,Delivered,Coimbatore
+O00106,C271,2025-01-27 18:21:11,UPI,Delivered,Pune
+O00107,C456,2025-01-28 00:28:14,UPI,Delivered,Kollam
+O00108,C462,2025-01-28 06:35:18,Credit Card,Delivered,Chennai
+O00109,C215,2025-01-28 12:42:21,UPI,Delivered,Mysuru
+O00110,C252,2025-01-28 18:49:25,Cash on Delivery,Shipped,Hyderabad
+O00111,C190,2025-01-29 00:56:28,Credit Card,Delivered,Bhopal
+O00112,C296,2025-01-29 07:03:32,UPI,Shipped,Nashik
+O00113,C213,2025-01-29 13:10:35,Debit Card,Delivered,Nashik
+O00114,C208,2025-01-29 19:17:39,Debit Card,Shipped,Kollam
+O00115,C237,2025-01-30 01:24:42,UPI,Delivered,Hyderabad
+O00116,C338,2025-01-30 07:31:46,UPI,Delivered,Mumbai
+O00117,C367,2025-01-30 13:38:49,UPI,Cancelled,Kollam
+O00118,C053,2025-01-30 19:45:53,Debit Card,Delivered,Nashik
+O00119,C280,2025-01-31 01:52:56,Debit Card,Shipped,Mumbai
+O00120,C410,2025-01-31 08:00:00,Credit Card,Delivered,Ahmedabad
+O00121,C217,2025-01-31 14:07:04,Cash on Delivery,Delivered,Kozhikode
+O00122,C252,2025-01-31 20:14:07,Cash on Delivery,Delivered,Indore
+O00123,C188,2025-02-01 02:21:11,Credit Card,Delivered,Bengaluru
+O00124,C380,2025-02-01 08:28:14,Cash on Delivery,Delivered,Bengaluru
+O00125,C493,2025-02-01 14:35:18,UPI,Delivered,Kottayam
+O00126,C041,2025-02-01 20:42:21,UPI,Delivered,Kozhikode
+O00127,C157,2025-02-02 02:49:25,UPI,Delivered,Nashik
+O00128,C015,2025-02-02 08:56:28,UPI,Returned,Bengaluru
+O00129,C301,2025-02-02 15:03:32,Credit Card,Returned,Kollam
+O00130,C065,2025-02-02 21:10:35,Net Banking,Delivered,Jaipur
+O00131,C345,2025-02-03 03:17:39,UPI,Delivered,Mysuru
+O00132,C327,2025-02-03 09:24:42,UPI,Delivered,Delhi
+O00133,C009,2025-02-03 15:31:46,Credit Card,Delivered,Kolkata
+O00134,C344,2025-02-03 21:38:49,Net Banking,Shipped,Kochi
+O00135,C129,2025-02-04 03:45:53,UPI,Cancelled,Bhopal
+O00136,C492,2025-02-04 09:52:56,Credit Card,Delivered,Delhi
+O00137,C136,2025-02-04 16:00:00,UPI,Shipped,Coimbatore
+O00138,C472,2025-02-04 22:07:04,UPI,Delivered,Pune
+O00139,C063,2025-02-05 04:14:07,Net Banking,Returned,Hyderabad
+O00140,C139,2025-02-05 10:21:11,Net Banking,Delivered,Bhopal
+O00141,C499,2025-02-05 16:28:14,UPI,Delivered,Hyderabad
+O00142,C081,2025-02-05 22:35:18,Net Banking,Delivered,Mysuru
+O00143,C392,2025-02-06 04:42:21,Debit Card,Delivered,Coimbatore
+O00144,C163,2025-02-06 10:49:25,Cash on Delivery,Delivered,Delhi
+O00145,C419,2025-02-06 16:56:28,Credit Card,Cancelled,Jaipur
+O00146,C289,2025-02-06 23:03:32,Credit Card,Delivered,Kolkata
+O00147,C379,2025-02-07 05:10:35,Credit Card,Delivered,Hyderabad
+O00148,C261,2025-02-07 11:17:39,Debit Card,Delivered,Delhi
+O00149,C490,2025-02-07 17:24:42,UPI,Delivered,Hyderabad
+O00150,C231,2025-02-07 23:31:46,UPI,Delivered,Ahmedabad
+O00151,C041,2025-02-08 05:38:49,UPI,Delivered,Mysuru
+O00152,C028,2025-02-08 11:45:53,Debit Card,Delivered,Kottayam
+O00153,C135,2025-02-08 17:52:56,UPI,Delivered,Kottayam
+O00154,C201,2025-02-09 00:00:00,Debit Card,Delivered,Chennai
+O00155,C328,2025-02-09 06:07:04,Net Banking,Delivered,Thrissur
+O00156,C268,2025-02-09 12:14:07,UPI,Cancelled,Pune
+O00157,C418,2025-02-09 18:21:11,Debit Card,Delivered,Pune
+O00158,C033,2025-02-10 00:28:14,Credit Card,Delivered,Delhi
+O00159,C048,2025-02-10 06:35:18,Cash on Delivery,Delivered,Indore
+O00160,C407,2025-02-10 12:42:21,UPI,Delivered,Chennai
+O00161,C062,2025-02-10 18:49:25,Debit Card,Delivered,Bengaluru
+O00162,C216,2025-02-11 00:56:28,Cash on Delivery,Delivered,Coimbatore
+O00163,C293,2025-02-11 07:03:32,Net Banking,Delivered,Hyderabad
+O00164,C099,2025-02-11 13:10:35,Debit Card,Delivered,Pune
+O00165,C172,2025-02-11 19:17:39,Credit Card,Delivered,Bengaluru
+O00166,C360,2025-02-12 01:24:42,Debit Card,Shipped,Jaipur
+O00167,C214,2025-02-12 07:31:46,Cash on Delivery,Returned,Indore
+O00168,C475,2025-02-12 13:38:49,Credit Card,Delivered,Kottayam
+O00169,C035,2025-02-12 19:45:53,UPI,Delivered,Pune
+O00170,C449,2025-02-13 01:52:56,Net Banking,Shipped,Mumbai
+O00171,C227,2025-02-13 08:00:00,Debit Card,Cancelled,Kolkata
+O00172,C101,2025-02-13 14:07:04,Debit Card,Delivered,Kozhikode
+O00173,C431,2025-02-13 20:14:07,UPI,Delivered,Thiruvananthapuram
+O00174,C462,2025-02-14 02:21:11,Debit Card,Delivered,Kottayam
+O00175,C131,2025-02-14 08:28:14,Credit Card,Delivered,Kollam
+O00176,C257,2025-02-14 14:35:18,Debit Card,Delivered,Jaipur
+O00177,C005,2025-02-14 20:42:21,UPI,Delivered,Hyderabad
+O00178,C218,2025-02-15 02:49:25,Debit Card,Delivered,Mysuru
+O00179,C255,2025-02-15 08:56:28,Net Banking,Delivered,Kolkata
+O00180,C398,2025-02-15 15:03:32,UPI,Shipped,Mumbai
+O00181,C359,2025-02-15 21:10:35,Net Banking,Delivered,Coimbatore
+O00182,C283,2025-02-16 03:17:39,Credit Card,Delivered,Pune
+O00183,C393,2025-02-16 09:24:42,Cash on Delivery,Delivered,Kottayam
+O00184,C207,2025-02-16 15:31:46,Cash on Delivery,Delivered,Kolkata
+O00185,C015,2025-02-16 21:38:49,Credit Card,Returned,Kollam
+O00186,C346,2025-02-17 03:45:53,Debit Card,Delivered,Chennai
+O00187,C042,2025-02-17 09:52:56,Cash on Delivery,Delivered,Hyderabad
+O00188,C380,2025-02-17 16:00:00,Credit Card,Delivered,Bhopal
+O00189,C461,2025-02-17 22:07:04,UPI,Delivered,Mysuru
+O00190,C179,2025-02-18 04:14:07,Debit Card,Cancelled,Kolkata
+O00191,C063,2025-02-18 10:21:11,Cash on Delivery,Delivered,Ahmedabad
+O00192,C352,2025-02-18 16:28:14,Cash on Delivery,Delivered,Bhopal
+O00193,C231,2025-02-18 22:35:18,Cash on Delivery,Delivered,Bengaluru
+O00194,C241,2025-02-19 04:42:21,Credit Card,Delivered,Kollam
+O00195,C052,2025-02-19 10:49:25,Cash on Delivery,Shipped,Jaipur
+O00196,C096,2025-02-19 16:56:28,UPI,Shipped,Thiruvananthapuram
+O00197,C388,2025-02-19 23:03:32,Credit Card,Delivered,Mumbai
+O00198,C222,2025-02-20 05:10:35,UPI,Delivered,Mysuru
+O00199,C485,2025-02-20 11:17:39,UPI,Shipped,Kochi
+O00200,C407,2025-02-20 17:24:42,UPI,Cancelled,Pune
+O00201,C231,2025-02-20 23:31:46,Credit Card,Delivered,Thiruvananthapuram
+O00202,C237,2025-02-21 05:38:49,Debit Card,Delivered,Jaipur
+O00203,C143,2025-02-21 11:45:53,Credit Card,Delivered,Bengaluru
+O00204,C171,2025-02-21 17:52:56,Credit Card,Shipped,Delhi
+O00205,C029,2025-02-22 00:00:00,UPI,Delivered,Bhopal
+O00206,C036,2025-02-22 06:07:04,UPI,Delivered,Bengaluru
+O00207,C013,2025-02-22 12:14:07,UPI,Delivered,Kozhikode
+O00208,C160,2025-02-22 18:21:11,UPI,Delivered,Kottayam
+O00209,C327,2025-02-23 00:28:14,Debit Card,Delivered,Kolkata
+O00210,C187,2025-02-23 06:35:18,Debit Card,Delivered,Thiruvananthapuram
+O00211,C243,2025-02-23 12:42:21,Debit Card,Delivered,Delhi
+O00212,C086,2025-02-23 18:49:25,Credit Card,Delivered,Pune
+O00213,C284,2025-02-24 00:56:28,UPI,Delivered,Pune
+O00214,C066,2025-02-24 07:03:32,Cash on Delivery,Delivered,Delhi
+O00215,C170,2025-02-24 13:10:35,Credit Card,Delivered,Coimbatore
+O00216,C045,2025-02-24 19:17:39,Credit Card,Shipped,Kozhikode
+O00217,C062,2025-02-25 01:24:42,UPI,Delivered,Kolkata
+O00218,C441,2025-02-25 07:31:46,UPI,Delivered,Jaipur
+O00219,C134,2025-02-25 13:38:49,Credit Card,Delivered,Nashik
+O00220,C284,2025-02-25 19:45:53,Credit Card,Delivered,Pune
+O00221,C028,2025-02-26 01:52:56,Credit Card,Delivered,Delhi
+O00222,C108,2025-02-26 08:00:00,Credit Card,Delivered,Thrissur
+O00223,C044,2025-02-26 14:07:04,Debit Card,Delivered,Coimbatore
+O00224,C340,2025-02-26 20:14:07,Cash on Delivery,Delivered,Mumbai
+O00225,C286,2025-02-27 02:21:11,Cash on Delivery,Delivered,Kottayam
+O00226,C446,2025-02-27 08:28:14,Debit Card,Delivered,Kottayam
+O00227,C331,2025-02-27 14:35:18,Net Banking,Delivered,Chennai
+O00228,C128,2025-02-27 20:42:21,UPI,Delivered,Indore
+O00229,C348,2025-02-28 02:49:25,UPI,Delivered,Thiruvananthapuram
+O00230,C473,2025-02-28 08:56:28,UPI,Delivered,Thrissur
+O00231,C231,2025-02-28 15:03:32,Debit Card,Cancelled,Kollam
+O00232,C190,2025-02-28 21:10:35,Cash on Delivery,Cancelled,Delhi
+O00233,C225,2025-03-01 03:17:39,UPI,Delivered,Mysuru
+O00234,C385,2025-03-01 09:24:42,Net Banking,Delivered,Mysuru
+O00235,C377,2025-03-01 15:31:46,UPI,Delivered,Pune
+O00236,C283,2025-03-01 21:38:49,Net Banking,Delivered,Mysuru
+O00237,C446,2025-03-02 03:45:53,UPI,Delivered,Ahmedabad
+O00238,C121,2025-03-02 09:52:56,UPI,Shipped,Kozhikode
+O00239,C116,2025-03-02 16:00:00,Credit Card,Delivered,Jaipur
+O00240,C461,2025-03-02 22:07:04,UPI,Shipped,Ahmedabad
+O00241,C233,2025-03-03 04:14:07,UPI,Delivered,Ahmedabad
+O00242,C259,2025-03-03 10:21:11,UPI,Delivered,Indore
+O00243,C359,2025-03-03 16:28:14,Cash on Delivery,Delivered,Kottayam
+O00244,C198,2025-03-03 22:35:18,Credit Card,Delivered,Hyderabad
+O00245,C456,2025-03-04 04:42:21,UPI,Delivered,Mysuru
+O00246,C411,2025-03-04 10:49:25,Debit Card,Delivered,Hyderabad
+O00247,C137,2025-03-04 16:56:28,Debit Card,Delivered,Jaipur
+O00248,C318,2025-03-04 23:03:32,UPI,Returned,Kolkata
+O00249,C165,2025-03-05 05:10:35,Credit Card,Delivered,Hyderabad
+O00250,C225,2025-03-05 11:17:39,UPI,Returned,Mumbai
+O00251,C307,2025-03-05 17:24:42,UPI,Returned,Bengaluru
+O00252,C234,2025-03-05 23:31:46,Debit Card,Shipped,Delhi
+O00253,C172,2025-03-06 05:38:49,UPI,Delivered,Delhi
+O00254,C152,2025-03-06 11:45:53,Credit Card,Delivered,Pune
+O00255,C463,2025-03-06 17:52:56,Debit Card,Shipped,Nashik
+O00256,C315,2025-03-07 00:00:00,UPI,Delivered,Coimbatore
+O00257,C374,2025-03-07 06:07:04,Credit Card,Delivered,Bengaluru
+O00258,C160,2025-03-07 12:14:07,UPI,Delivered,Bhopal
+O00259,C096,2025-03-07 18:21:11,Net Banking,Delivered,Kochi
+O00260,C472,2025-03-08 00:28:14,Credit Card,Delivered,Delhi
+O00261,C233,2025-03-08 06:35:18,Cash on Delivery,Delivered,Thrissur
+O00262,C180,2025-03-08 12:42:21,Credit Card,Delivered,Kollam
+O00263,C113,2025-03-08 18:49:25,UPI,Shipped,Kolkata
+O00264,C318,2025-03-09 00:56:28,Debit Card,Delivered,Bengaluru
+O00265,C497,2025-03-09 07:03:32,Net Banking,Cancelled,Coimbatore
+O00266,C442,2025-03-09 13:10:35,Debit Card,Delivered,Delhi
+O00267,C052,2025-03-09 19:17:39,Cash on Delivery,Shipped,Bengaluru
+O00268,C268,2025-03-10 01:24:42,Cash on Delivery,Delivered,Kochi
+O00269,C295,2025-03-10 07:31:46,UPI,Delivered,Bengaluru
+O00270,C386,2025-03-10 13:38:49,UPI,Delivered,Mumbai
+O00271,C387,2025-03-10 19:45:53,Debit Card,Shipped,Chennai
+O00272,C113,2025-03-11 01:52:56,Credit Card,Delivered,Pune
+O00273,C101,2025-03-11 08:00:00,Cash on Delivery,Cancelled,Kozhikode
+O00274,C113,2025-03-11 14:07:04,Net Banking,Returned,Thrissur
+O00275,C440,2025-03-11 20:14:07,UPI,Delivered,Thrissur
+O00276,C081,2025-03-12 02:21:11,UPI,Delivered,Nashik
+O00277,C187,2025-03-12 08:28:14,Cash on Delivery,Delivered,Ahmedabad
+O00278,C113,2025-03-12 14:35:18,UPI,Delivered,Coimbatore
+O00279,C002,2025-03-12 20:42:21,Cash on Delivery,Shipped,Kollam
+O00280,C130,2025-03-13 02:49:25,Credit Card,Delivered,Bengaluru
+O00281,C220,2025-03-13 08:56:28,Debit Card,Delivered,Hyderabad
+O00282,C054,2025-03-13 15:03:32,UPI,Returned,Kochi
+O00283,C343,2025-03-13 21:10:35,Debit Card,Delivered,Pune
+O00284,C485,2025-03-14 03:17:39,Credit Card,Shipped,Thiruvananthapuram
+O00285,C224,2025-03-14 09:24:42,Credit Card,Delivered,Bengaluru
+O00286,C225,2025-03-14 15:31:46,UPI,Delivered,Mumbai
+O00287,C385,2025-03-14 21:38:49,Debit Card,Delivered,Nashik
+O00288,C403,2025-03-15 03:45:53,Cash on Delivery,Delivered,Thiruvananthapuram
+O00289,C126,2025-03-15 09:52:56,UPI,Delivered,Bengaluru
+O00290,C130,2025-03-15 16:00:00,UPI,Delivered,Indore
+O00291,C053,2025-03-15 22:07:04,UPI,Delivered,Mumbai
+O00292,C172,2025-03-16 04:14:07,Debit Card,Delivered,Thiruvananthapuram
+O00293,C218,2025-03-16 10:21:11,Debit Card,Delivered,Bengaluru
+O00294,C160,2025-03-16 16:28:14,Credit Card,Delivered,Thrissur
+O00295,C198,2025-03-16 22:35:18,UPI,Delivered,Mumbai
+O00296,C416,2025-03-17 04:42:21,Credit Card,Delivered,Thiruvananthapuram
+O00297,C247,2025-03-17 10:49:25,Credit Card,Delivered,Hyderabad
+O00298,C324,2025-03-17 16:56:28,Credit Card,Delivered,Bengaluru
+O00299,C439,2025-03-17 23:03:32,Net Banking,Delivered,Nashik
+O00300,C203,2025-03-18 05:10:35,UPI,Delivered,Kollam
+O00301,C184,2025-03-18 11:17:39,Debit Card,Delivered,Delhi
+O00302,C123,2025-03-18 17:24:42,Credit Card,Delivered,Pune
+O00303,C401,2025-03-18 23:31:46,Credit Card,Shipped,Ahmedabad
+O00304,C255,2025-03-19 05:38:49,Debit Card,Delivered,Bengaluru
+O00305,C294,2025-03-19 11:45:53,Debit Card,Delivered,Kottayam
+O00306,C280,2025-03-19 17:52:56,Net Banking,Delivered,Mysuru
+O00307,C325,2025-03-20 00:00:00,UPI,Delivered,Nashik
+O00308,C372,2025-03-20 06:07:04,UPI,Cancelled,Kollam
+O00309,C098,2025-03-20 12:14:07,Debit Card,Delivered,Thiruvananthapuram
+O00310,C198,2025-03-20 18:21:11,Credit Card,Delivered,Chennai
+O00311,C470,2025-03-21 00:28:14,UPI,Delivered,Mumbai
+O00312,C395,2025-03-21 06:35:18,UPI,Delivered,Kottayam
+O00313,C240,2025-03-21 12:42:21,UPI,Delivered,Bengaluru
+O00314,C144,2025-03-21 18:49:25,Cash on Delivery,Delivered,Bengaluru
+O00315,C097,2025-03-22 00:56:28,UPI,Delivered,Ahmedabad
+O00316,C201,2025-03-22 07:03:32,UPI,Delivered,Kottayam
+O00317,C124,2025-03-22 13:10:35,UPI,Delivered,Mumbai
+O00318,C187,2025-03-22 19:17:39,UPI,Delivered,Mumbai
+O00319,C326,2025-03-23 01:24:42,UPI,Delivered,Bengaluru
+O00320,C464,2025-03-23 07:31:46,Credit Card,Delivered,Thiruvananthapuram
+O00321,C349,2025-03-23 13:38:49,UPI,Returned,Ahmedabad
+O00322,C259,2025-03-23 19:45:53,Cash on Delivery,Delivered,Thrissur
+O00323,C148,2025-03-24 01:52:56,UPI,Cancelled,Kottayam
+O00324,C252,2025-03-24 08:00:00,Credit Card,Delivered,Delhi
+O00325,C443,2025-03-24 14:07:04,Cash on Delivery,Delivered,Kollam
+O00326,C420,2025-03-24 20:14:07,Debit Card,Delivered,Bengaluru
+O00327,C403,2025-03-25 02:21:11,Credit Card,Delivered,Chennai
+O00328,C346,2025-03-25 08:28:14,UPI,Delivered,Kochi
+O00329,C451,2025-03-25 14:35:18,UPI,Delivered,Kochi
+O00330,C147,2025-03-25 20:42:21,Debit Card,Delivered,Ahmedabad
+O00331,C148,2025-03-26 02:49:25,Net Banking,Cancelled,Kottayam
+O00332,C352,2025-03-26 08:56:28,Debit Card,Delivered,Jaipur
+O00333,C199,2025-03-26 15:03:32,Credit Card,Delivered,Coimbatore
+O00334,C308,2025-03-26 21:10:35,Debit Card,Delivered,Mumbai
+O00335,C489,2025-03-27 03:17:39,Credit Card,Delivered,Kochi
+O00336,C417,2025-03-27 09:24:42,UPI,Delivered,Kochi
+O00337,C424,2025-03-27 15:31:46,Credit Card,Delivered,Nashik
+O00338,C128,2025-03-27 21:38:49,Net Banking,Cancelled,Kollam
+O00339,C039,2025-03-28 03:45:53,UPI,Shipped,Kolkata
+O00340,C338,2025-03-28 09:52:56,Debit Card,Delivered,Kochi
+O00341,C360,2025-03-28 16:00:00,UPI,Delivered,Kolkata
+O00342,C129,2025-03-28 22:07:04,Credit Card,Cancelled,Kozhikode
+O00343,C267,2025-03-29 04:14:07,UPI,Delivered,Jaipur
+O00344,C476,2025-03-29 10:21:11,Credit Card,Delivered,Chennai
+O00345,C441,2025-03-29 16:28:14,Debit Card,Delivered,Bhopal
+O00346,C473,2025-03-29 22:35:18,UPI,Delivered,Delhi
+O00347,C434,2025-03-30 04:42:21,Debit Card,Delivered,Bhopal
+O00348,C151,2025-03-30 10:49:25,Cash on Delivery,Delivered,Thrissur
+O00349,C415,2025-03-30 16:56:28,Net Banking,Delivered,Kollam
+O00350,C478,2025-03-30 23:03:32,UPI,Delivered,Delhi
+O00351,C298,2025-03-31 05:10:35,Credit Card,Delivered,Thiruvananthapuram
+O00352,C099,2025-03-31 11:17:39,UPI,Delivered,Kollam
+O00353,C263,2025-03-31 17:24:42,Net Banking,Delivered,Thrissur
+O00354,C252,2025-03-31 23:31:46,Net Banking,Delivered,Thrissur
+O00355,C144,2025-04-01 05:38:49,Credit Card,Delivered,Kottayam
+O00356,C346,2025-04-01 11:45:53,Cash on Delivery,Delivered,Kolkata
+O00357,C112,2025-04-01 17:52:56,Credit Card,Delivered,Nashik
+O00358,C500,2025-04-02 00:00:00,Debit Card,Shipped,Kollam
+O00359,C060,2025-04-02 06:07:04,UPI,Cancelled,Bengaluru
+O00360,C369,2025-04-02 12:14:07,Debit Card,Delivered,Kolkata
+O00361,C002,2025-04-02 18:21:11,UPI,Delivered,Kochi
+O00362,C385,2025-04-03 00:28:14,Cash on Delivery,Delivered,Bhopal
+O00363,C304,2025-04-03 06:35:18,Cash on Delivery,Delivered,Thrissur
+O00364,C254,2025-04-03 12:42:21,Debit Card,Delivered,Delhi
+O00365,C140,2025-04-03 18:49:25,UPI,Delivered,Bhopal
+O00366,C453,2025-04-04 00:56:28,UPI,Delivered,Hyderabad
+O00367,C037,2025-04-04 07:03:32,UPI,Delivered,Bhopal
+O00368,C160,2025-04-04 13:10:35,UPI,Delivered,Hyderabad
+O00369,C009,2025-04-04 19:17:39,UPI,Delivered,Kolkata
+O00370,C233,2025-04-05 01:24:42,Net Banking,Delivered,Mysuru
+O00371,C099,2025-04-05 07:31:46,Credit Card,Delivered,Kozhikode
+O00372,C147,2025-04-05 13:38:49,UPI,Shipped,Ahmedabad
+O00373,C304,2025-04-05 19:45:53,Credit Card,Returned,Kochi
+O00374,C208,2025-04-06 01:52:56,Credit Card,Delivered,Thiruvananthapuram
+O00375,C131,2025-04-06 08:00:00,Debit Card,Delivered,Indore
+O00376,C404,2025-04-06 14:07:04,Credit Card,Delivered,Coimbatore
+O00377,C152,2025-04-06 20:14:07,Net Banking,Delivered,Jaipur
+O00378,C054,2025-04-07 02:21:11,Credit Card,Delivered,Bhopal
+O00379,C120,2025-04-07 08:28:14,Net Banking,Delivered,Delhi
+O00380,C161,2025-04-07 14:35:18,Cash on Delivery,Delivered,Nashik
+O00381,C408,2025-04-07 20:42:21,UPI,Delivered,Kochi
+O00382,C116,2025-04-08 02:49:25,Net Banking,Delivered,Kollam
+O00383,C075,2025-04-08 08:56:28,UPI,Delivered,Nashik
+O00384,C113,2025-04-08 15:03:32,Cash on Delivery,Delivered,Bhopal
+O00385,C456,2025-04-08 21:10:35,Credit Card,Delivered,Kozhikode
+O00386,C420,2025-04-09 03:17:39,Cash on Delivery,Returned,Indore
+O00387,C422,2025-04-09 09:24:42,Cash on Delivery,Delivered,Ahmedabad
+O00388,C104,2025-04-09 15:31:46,Cash on Delivery,Delivered,Delhi
+O00389,C340,2025-04-09 21:38:49,Cash on Delivery,Shipped,Kozhikode
+O00390,C254,2025-04-10 03:45:53,UPI,Returned,Hyderabad
+O00391,C227,2025-04-10 09:52:56,UPI,Delivered,Bhopal
+O00392,C112,2025-04-10 16:00:00,Credit Card,Shipped,Pune
+O00393,C473,2025-04-10 22:07:04,UPI,Delivered,Pune
+O00394,C099,2025-04-11 04:14:07,Debit Card,Delivered,Mumbai
+O00395,C153,2025-04-11 10:21:11,UPI,Delivered,Delhi
+O00396,C349,2025-04-11 16:28:14,Net Banking,Delivered,Mysuru
+O00397,C402,2025-04-11 22:35:18,Debit Card,Delivered,Delhi
+O00398,C384,2025-04-12 04:42:21,Cash on Delivery,Delivered,Kolkata
+O00399,C366,2025-04-12 10:49:25,UPI,Delivered,Mumbai
+O00400,C338,2025-04-12 16:56:28,Cash on Delivery,Delivered,Thiruvananthapuram
+O00401,C194,2025-04-12 23:03:32,Net Banking,Delivered,Coimbatore
+O00402,C310,2025-04-13 05:10:35,Credit Card,Delivered,Coimbatore
+O00403,C163,2025-04-13 11:17:39,Debit Card,Delivered,Mumbai
+O00404,C208,2025-04-13 17:24:42,Cash on Delivery,Delivered,Kottayam
+O00405,C445,2025-04-13 23:31:46,UPI,Delivered,Thrissur
+O00406,C169,2025-04-14 05:38:49,Credit Card,Shipped,Pune
+O00407,C484,2025-04-14 11:45:53,Credit Card,Delivered,Mumbai
+O00408,C161,2025-04-14 17:52:56,UPI,Delivered,Nashik
+O00409,C068,2025-04-15 00:00:00,UPI,Delivered,Kollam
+O00410,C289,2025-04-15 06:07:04,UPI,Delivered,Kottayam
+O00411,C398,2025-04-15 12:14:07,UPI,Delivered,Kochi
+O00412,C277,2025-04-15 18:21:11,UPI,Delivered,Kottayam
+O00413,C304,2025-04-16 00:28:14,Net Banking,Delivered,Jaipur
+O00414,C404,2025-04-16 06:35:18,Credit Card,Delivered,Chennai
+O00415,C384,2025-04-16 12:42:21,Net Banking,Shipped,Indore
+O00416,C392,2025-04-16 18:49:25,Credit Card,Delivered,Mysuru
+O00417,C135,2025-04-17 00:56:28,UPI,Delivered,Ahmedabad
+O00418,C195,2025-04-17 07:03:32,Credit Card,Returned,Hyderabad
+O00419,C401,2025-04-17 13:10:35,Credit Card,Delivered,Kottayam
+O00420,C128,2025-04-17 19:17:39,UPI,Delivered,Kottayam
+O00421,C033,2025-04-18 01:24:42,Debit Card,Delivered,Kozhikode
+O00422,C176,2025-04-18 07:31:46,UPI,Delivered,Coimbatore
+O00423,C460,2025-04-18 13:38:49,Debit Card,Delivered,Kochi
+O00424,C443,2025-04-18 19:45:53,Debit Card,Delivered,Bhopal
+O00425,C371,2025-04-19 01:52:56,UPI,Delivered,Thrissur
+O00426,C470,2025-04-19 08:00:00,UPI,Delivered,Pune
+O00427,C375,2025-04-19 14:07:04,Cash on Delivery,Delivered,Kottayam
+O00428,C022,2025-04-19 20:14:07,Credit Card,Delivered,Mumbai
+O00429,C238,2025-04-20 02:21:11,UPI,Delivered,Pune
+O00430,C158,2025-04-20 08:28:14,Net Banking,Shipped,Coimbatore
+O00431,C038,2025-04-20 14:35:18,UPI,Delivered,Jaipur
+O00432,C230,2025-04-20 20:42:21,Debit Card,Delivered,Bengaluru
+O00433,C365,2025-04-21 02:49:25,Net Banking,Delivered,Bengaluru
+O00434,C051,2025-04-21 08:56:28,UPI,Delivered,Mumbai
+O00435,C438,2025-04-21 15:03:32,UPI,Delivered,Thrissur
+O00436,C264,2025-04-21 21:10:35,UPI,Delivered,Kolkata
+O00437,C283,2025-04-22 03:17:39,UPI,Cancelled,Kochi
+O00438,C027,2025-04-22 09:24:42,UPI,Shipped,Nashik
+O00439,C226,2025-04-22 15:31:46,Debit Card,Delivered,Jaipur
+O00440,C277,2025-04-22 21:38:49,UPI,Delivered,Chennai
+O00441,C286,2025-04-23 03:45:53,Credit Card,Delivered,Chennai
+O00442,C097,2025-04-23 09:52:56,Net Banking,Delivered,Chennai
+O00443,C284,2025-04-23 16:00:00,Cash on Delivery,Delivered,Coimbatore
+O00444,C367,2025-04-23 22:07:04,Debit Card,Delivered,Thiruvananthapuram
+O00445,C448,2025-04-24 04:14:07,UPI,Delivered,Kottayam
+O00446,C481,2025-04-24 10:21:11,Debit Card,Delivered,Indore
+O00447,C453,2025-04-24 16:28:14,Credit Card,Delivered,Kozhikode
+O00448,C317,2025-04-24 22:35:18,Credit Card,Cancelled,Mumbai
+O00449,C304,2025-04-25 04:42:21,UPI,Delivered,Kottayam
+O00450,C147,2025-04-25 10:49:25,Cash on Delivery,Delivered,Kozhikode
+O00451,C004,2025-04-25 16:56:28,Credit Card,Delivered,Mumbai
+O00452,C035,2025-04-25 23:03:32,UPI,Delivered,Indore
+O00453,C192,2025-04-26 05:10:35,UPI,Delivered,Nashik
+O00454,C049,2025-04-26 11:17:39,Credit Card,Delivered,Kolkata
+O00455,C017,2025-04-26 17:24:42,Cash on Delivery,Delivered,Coimbatore
+O00456,C172,2025-04-26 23:31:46,Debit Card,Delivered,Kottayam
+O00457,C220,2025-04-27 05:38:49,Cash on Delivery,Delivered,Indore
+O00458,C158,2025-04-27 11:45:53,UPI,Delivered,Jaipur
+O00459,C477,2025-04-27 17:52:56,Credit Card,Delivered,Jaipur
+O00460,C046,2025-04-28 00:00:00,Credit Card,Cancelled,Bengaluru
+O00461,C373,2025-04-28 06:07:04,UPI,Delivered,Indore
+O00462,C006,2025-04-28 12:14:07,UPI,Delivered,Jaipur
+O00463,C099,2025-04-28 18:21:11,Cash on Delivery,Delivered,Jaipur
+O00464,C380,2025-04-29 00:28:14,UPI,Returned,Kolkata
+O00465,C233,2025-04-29 06:35:18,Credit Card,Delivered,Chennai
+O00466,C037,2025-04-29 12:42:21,UPI,Delivered,Thiruvananthapuram
+O00467,C280,2025-04-29 18:49:25,UPI,Delivered,Mysuru
+O00468,C349,2025-04-30 00:56:28,UPI,Delivered,Kolkata
+O00469,C497,2025-04-30 07:03:32,Net Banking,Delivered,Thiruvananthapuram
+O00470,C302,2025-04-30 13:10:35,Cash on Delivery,Delivered,Mumbai
+O00471,C181,2025-04-30 19:17:39,Net Banking,Returned,Bengaluru
+O00472,C095,2025-05-01 01:24:42,Credit Card,Delivered,Kottayam
+O00473,C099,2025-05-01 07:31:46,UPI,Delivered,Coimbatore
+O00474,C188,2025-05-01 13:38:49,Credit Card,Delivered,Kollam
+O00475,C481,2025-05-01 19:45:53,Credit Card,Delivered,Mumbai
+O00476,C116,2025-05-02 01:52:56,Cash on Delivery,Cancelled,Kochi
+O00477,C191,2025-05-02 08:00:00,UPI,Delivered,Thiruvananthapuram
+O00478,C253,2025-05-02 14:07:04,Credit Card,Delivered,Kochi
+O00479,C469,2025-05-02 20:14:07,UPI,Delivered,Ahmedabad
+O00480,C416,2025-05-03 02:21:11,UPI,Delivered,Thiruvananthapuram
+O00481,C471,2025-05-03 08:28:14,Debit Card,Delivered,Kolkata
+O00482,C161,2025-05-03 14:35:18,Credit Card,Delivered,Thrissur
+O00483,C256,2025-05-03 20:42:21,UPI,Shipped,Pune
+O00484,C323,2025-05-04 02:49:25,Credit Card,Cancelled,Kolkata
+O00485,C128,2025-05-04 08:56:28,Credit Card,Delivered,Jaipur
+O00486,C018,2025-05-04 15:03:32,Cash on Delivery,Returned,Kochi
+O00487,C281,2025-05-04 21:10:35,Cash on Delivery,Delivered,Kochi
+O00488,C490,2025-05-05 03:17:39,Net Banking,Delivered,Bhopal
+O00489,C223,2025-05-05 09:24:42,Cash on Delivery,Delivered,Thrissur
+O00490,C054,2025-05-05 15:31:46,UPI,Delivered,Kollam
+O00491,C058,2025-05-05 21:38:49,Debit Card,Delivered,Mumbai
+O00492,C323,2025-05-06 03:45:53,Credit Card,Delivered,Nashik
+O00493,C360,2025-05-06 09:52:56,UPI,Delivered,Hyderabad
+O00494,C174,2025-05-06 16:00:00,Cash on Delivery,Delivered,Nashik
+O00495,C280,2025-05-06 22:07:04,UPI,Delivered,Thiruvananthapuram
+O00496,C114,2025-05-07 04:14:07,Net Banking,Delivered,Hyderabad
+O00497,C288,2025-05-07 10:21:11,Credit Card,Delivered,Kottayam
+O00498,C431,2025-05-07 16:28:14,Debit Card,Delivered,Bhopal
+O00499,C342,2025-05-07 22:35:18,Debit Card,Delivered,Kochi
+O00500,C151,2025-05-08 04:42:21,Cash on Delivery,Delivered,Delhi
+O00501,C450,2025-05-08 10:49:25,Debit Card,Shipped,Mumbai
+O00502,C127,2025-05-08 16:56:28,Debit Card,Delivered,Ahmedabad
+O00503,C155,2025-05-08 23:03:32,UPI,Delivered,Kozhikode
+O00504,C490,2025-05-09 05:10:35,Credit Card,Shipped,Mumbai
+O00505,C386,2025-05-09 11:17:39,UPI,Delivered,Kollam
+O00506,C474,2025-05-09 17:24:42,Debit Card,Delivered,Delhi
+O00507,C273,2025-05-09 23:31:46,Credit Card,Delivered,Bengaluru
+O00508,C104,2025-05-10 05:38:49,Debit Card,Cancelled,Coimbatore
+O00509,C417,2025-05-10 11:45:53,UPI,Delivered,Mumbai
+O00510,C393,2025-05-10 17:52:56,UPI,Delivered,Kozhikode
+O00511,C299,2025-05-11 00:00:00,Debit Card,Delivered,Kolkata
+O00512,C246,2025-05-11 06:07:04,UPI,Delivered,Coimbatore
+O00513,C176,2025-05-11 12:14:07,UPI,Delivered,Coimbatore
+O00514,C039,2025-05-11 18:21:11,UPI,Delivered,Bhopal
+O00515,C477,2025-05-12 00:28:14,Net Banking,Delivered,Pune
+O00516,C170,2025-05-12 06:35:18,Debit Card,Cancelled,Indore
+O00517,C247,2025-05-12 12:42:21,UPI,Delivered,Coimbatore
+O00518,C026,2025-05-12 18:49:25,UPI,Delivered,Coimbatore
+O00519,C355,2025-05-13 00:56:28,UPI,Shipped,Ahmedabad
+O00520,C306,2025-05-13 07:03:32,Cash on Delivery,Delivered,Kochi
+O00521,C409,2025-05-13 13:10:35,Debit Card,Delivered,Coimbatore
+O00522,C408,2025-05-13 19:17:39,UPI,Delivered,Thiruvananthapuram
+O00523,C013,2025-05-14 01:24:42,UPI,Shipped,Delhi
+O00524,C316,2025-05-14 07:31:46,UPI,Shipped,Bengaluru
+O00525,C391,2025-05-14 13:38:49,Debit Card,Delivered,Bengaluru
+O00526,C313,2025-05-14 19:45:53,Cash on Delivery,Cancelled,Kolkata
+O00527,C036,2025-05-15 01:52:56,UPI,Delivered,Chennai
+O00528,C173,2025-05-15 08:00:00,UPI,Shipped,Thiruvananthapuram
+O00529,C020,2025-05-15 14:07:04,UPI,Returned,Bhopal
+O00530,C321,2025-05-15 20:14:07,Net Banking,Delivered,Delhi
+O00531,C264,2025-05-16 02:21:11,UPI,Delivered,Kochi
+O00532,C494,2025-05-16 08:28:14,Cash on Delivery,Delivered,Chennai
+O00533,C400,2025-05-16 14:35:18,Debit Card,Delivered,Kolkata
+O00534,C142,2025-05-16 20:42:21,Credit Card,Delivered,Ahmedabad
+O00535,C460,2025-05-17 02:49:25,UPI,Delivered,Thrissur
+O00536,C371,2025-05-17 08:56:28,UPI,Cancelled,Mysuru
+O00537,C471,2025-05-17 15:03:32,Debit Card,Delivered,Nashik
+O00538,C143,2025-05-17 21:10:35,Cash on Delivery,Delivered,Thrissur
+O00539,C092,2025-05-18 03:17:39,Debit Card,Shipped,Chennai
+O00540,C354,2025-05-18 09:24:42,Credit Card,Returned,Chennai
+O00541,C322,2025-05-18 15:31:46,UPI,Delivered,Jaipur
+O00542,C288,2025-05-18 21:38:49,Net Banking,Returned,Pune
+O00543,C215,2025-05-19 03:45:53,Cash on Delivery,Delivered,Coimbatore
+O00544,C447,2025-05-19 09:52:56,UPI,Shipped,Mumbai
+O00545,C342,2025-05-19 16:00:00,Net Banking,Delivered,Bengaluru
+O00546,C051,2025-05-19 22:07:04,Debit Card,Delivered,Chennai
+O00547,C153,2025-05-20 04:14:07,Credit Card,Delivered,Kottayam
+O00548,C186,2025-05-20 10:21:11,Debit Card,Delivered,Ahmedabad
+O00549,C063,2025-05-20 16:28:14,Cash on Delivery,Delivered,Hyderabad
+O00550,C190,2025-05-20 22:35:18,Debit Card,Delivered,Indore
+O00551,C125,2025-05-21 04:42:21,UPI,Delivered,Bengaluru
+O00552,C150,2025-05-21 10:49:25,UPI,Cancelled,Hyderabad
+O00553,C314,2025-05-21 16:56:28,Net Banking,Delivered,Kollam
+O00554,C058,2025-05-21 23:03:32,UPI,Delivered,Hyderabad
+O00555,C342,2025-05-22 05:10:35,UPI,Delivered,Kochi
+O00556,C305,2025-05-22 11:17:39,Credit Card,Delivered,Ahmedabad
+O00557,C180,2025-05-22 17:24:42,Credit Card,Shipped,Kollam
+O00558,C170,2025-05-22 23:31:46,Debit Card,Shipped,Bengaluru
+O00559,C326,2025-05-23 05:38:49,Net Banking,Delivered,Ahmedabad
+O00560,C271,2025-05-23 11:45:53,UPI,Delivered,Kollam
+O00561,C054,2025-05-23 17:52:56,UPI,Shipped,Delhi
+O00562,C491,2025-05-24 00:00:00,UPI,Delivered,Mysuru
+O00563,C444,2025-05-24 06:07:04,Cash on Delivery,Shipped,Kochi
+O00564,C101,2025-05-24 12:14:07,Debit Card,Delivered,Thiruvananthapuram
+O00565,C481,2025-05-24 18:21:11,UPI,Shipped,Indore
+O00566,C264,2025-05-25 00:28:14,Cash on Delivery,Delivered,Kolkata
+O00567,C053,2025-05-25 06:35:18,Cash on Delivery,Delivered,Jaipur
+O00568,C060,2025-05-25 12:42:21,Cash on Delivery,Returned,Mumbai
+O00569,C492,2025-05-25 18:49:25,Net Banking,Delivered,Coimbatore
+O00570,C108,2025-05-26 00:56:28,UPI,Delivered,Thrissur
+O00571,C005,2025-05-26 07:03:32,Debit Card,Delivered,Kollam
+O00572,C103,2025-05-26 13:10:35,Credit Card,Delivered,Thrissur
+O00573,C196,2025-05-26 19:17:39,Cash on Delivery,Delivered,Nashik
+O00574,C262,2025-05-27 01:24:42,Debit Card,Delivered,Nashik
+O00575,C365,2025-05-27 07:31:46,Cash on Delivery,Delivered,Jaipur
+O00576,C480,2025-05-27 13:38:49,Debit Card,Delivered,Thiruvananthapuram
+O00577,C372,2025-05-27 19:45:53,UPI,Delivered,Hyderabad
+O00578,C350,2025-05-28 01:52:56,Credit Card,Delivered,Kochi
+O00579,C047,2025-05-28 08:00:00,Net Banking,Delivered,Ahmedabad
+O00580,C355,2025-05-28 14:07:04,Net Banking,Delivered,Chennai
+O00581,C311,2025-05-28 20:14:07,UPI,Delivered,Kozhikode
+O00582,C424,2025-05-29 02:21:11,UPI,Delivered,Bengaluru
+O00583,C308,2025-05-29 08:28:14,UPI,Delivered,Coimbatore
+O00584,C144,2025-05-29 14:35:18,Debit Card,Delivered,Kochi
+O00585,C269,2025-05-29 20:42:21,Cash on Delivery,Delivered,Coimbatore
+O00586,C370,2025-05-30 02:49:25,UPI,Delivered,Chennai
+O00587,C124,2025-05-30 08:56:28,Credit Card,Delivered,Indore
+O00588,C106,2025-05-30 15:03:32,Cash on Delivery,Delivered,Indore
+O00589,C158,2025-05-30 21:10:35,Debit Card,Delivered,Kozhikode
+O00590,C147,2025-05-31 03:17:39,Credit Card,Delivered,Kollam
+O00591,C145,2025-05-31 09:24:42,Credit Card,Delivered,Chennai
+O00592,C120,2025-05-31 15:31:46,Credit Card,Shipped,Chennai
+O00593,C319,2025-05-31 21:38:49,UPI,Delivered,Bengaluru
+O00594,C275,2025-06-01 03:45:53,Credit Card,Delivered,Pune
+O00595,C092,2025-06-01 09:52:56,Debit Card,Delivered,Chennai
+O00596,C058,2025-06-01 16:00:00,Cash on Delivery,Delivered,Kottayam
+O00597,C439,2025-06-01 22:07:04,Debit Card,Delivered,Thiruvananthapuram
+O00598,C346,2025-06-02 04:14:07,Cash on Delivery,Delivered,Chennai
+O00599,C229,2025-06-02 10:21:11,UPI,Shipped,Delhi
+O00600,C474,2025-06-02 16:28:14,Credit Card,Delivered,Kochi
+O00601,C117,2025-06-02 22:35:18,UPI,Returned,Ahmedabad
+O00602,C318,2025-06-03 04:42:21,UPI,Delivered,Kottayam
+O00603,C279,2025-06-03 10:49:25,Debit Card,Delivered,Kollam
+O00604,C127,2025-06-03 16:56:28,Net Banking,Delivered,Thiruvananthapuram
+O00605,C393,2025-06-03 23:03:32,UPI,Delivered,Chennai
+O00606,C396,2025-06-04 05:10:35,Credit Card,Delivered,Bhopal
+O00607,C129,2025-06-04 11:17:39,Cash on Delivery,Delivered,Thrissur
+O00608,C058,2025-06-04 17:24:42,UPI,Delivered,Thrissur
+O00609,C122,2025-06-04 23:31:46,Credit Card,Cancelled,Indore
+O00610,C001,2025-06-05 05:38:49,Debit Card,Shipped,Mysuru
+O00611,C239,2025-06-05 11:45:53,Debit Card,Delivered,Thrissur
+O00612,C290,2025-06-05 17:52:56,UPI,Delivered,Hyderabad
+O00613,C096,2025-06-06 00:00:00,UPI,Delivered,Thrissur
+O00614,C126,2025-06-06 06:07:04,Cash on Delivery,Delivered,Hyderabad
+O00615,C118,2025-06-06 12:14:07,Credit Card,Delivered,Pune
+O00616,C048,2025-06-06 18:21:11,UPI,Delivered,Hyderabad
+O00617,C089,2025-06-07 00:28:14,Cash on Delivery,Delivered,Ahmedabad
+O00618,C488,2025-06-07 06:35:18,UPI,Delivered,Mysuru
+O00619,C237,2025-06-07 12:42:21,Debit Card,Returned,Kottayam
+O00620,C373,2025-06-07 18:49:25,UPI,Delivered,Coimbatore
+O00621,C385,2025-06-08 00:56:28,Net Banking,Cancelled,Kollam
+O00622,C272,2025-06-08 07:03:32,UPI,Delivered,Jaipur
+O00623,C189,2025-06-08 13:10:35,UPI,Delivered,Coimbatore
+O00624,C487,2025-06-08 19:17:39,UPI,Delivered,Coimbatore
+O00625,C192,2025-06-09 01:24:42,UPI,Delivered,Bengaluru
+O00626,C447,2025-06-09 07:31:46,Cash on Delivery,Delivered,Jaipur
+O00627,C069,2025-06-09 13:38:49,Net Banking,Delivered,Kochi
+O00628,C278,2025-06-09 19:45:53,UPI,Delivered,Bengaluru
+O00629,C349,2025-06-10 01:52:56,Credit Card,Delivered,Kochi
+O00630,C247,2025-06-10 08:00:00,Debit Card,Delivered,Indore
+O00631,C451,2025-06-10 14:07:04,Cash on Delivery,Delivered,Thrissur
+O00632,C076,2025-06-10 20:14:07,Credit Card,Delivered,Kolkata
+O00633,C154,2025-06-11 02:21:11,Credit Card,Delivered,Coimbatore
+O00634,C144,2025-06-11 08:28:14,Credit Card,Delivered,Chennai
+O00635,C435,2025-06-11 14:35:18,Debit Card,Delivered,Thiruvananthapuram
+O00636,C485,2025-06-11 20:42:21,UPI,Returned,Bhopal
+O00637,C086,2025-06-12 02:49:25,Debit Card,Delivered,Hyderabad
+O00638,C185,2025-06-12 08:56:28,UPI,Delivered,Kochi
+O00639,C285,2025-06-12 15:03:32,Cash on Delivery,Delivered,Thiruvananthapuram
+O00640,C462,2025-06-12 21:10:35,UPI,Delivered,Bengaluru
+O00641,C220,2025-06-13 03:17:39,Credit Card,Delivered,Coimbatore
+O00642,C069,2025-06-13 09:24:42,Credit Card,Delivered,Kolkata
+O00643,C047,2025-06-13 15:31:46,Debit Card,Delivered,Kochi
+O00644,C497,2025-06-13 21:38:49,UPI,Shipped,Nashik
+O00645,C094,2025-06-14 03:45:53,Credit Card,Delivered,Kochi
+O00646,C238,2025-06-14 09:52:56,Credit Card,Delivered,Kollam
+O00647,C446,2025-06-14 16:00:00,Credit Card,Delivered,Hyderabad
+O00648,C500,2025-06-14 22:07:04,Debit Card,Cancelled,Indore
+O00649,C453,2025-06-15 04:14:07,Debit Card,Delivered,Delhi
+O00650,C204,2025-06-15 10:21:11,Cash on Delivery,Delivered,Hyderabad
+O00651,C400,2025-06-15 16:28:14,UPI,Delivered,Nashik
+O00652,C218,2025-06-15 22:35:18,Cash on Delivery,Shipped,Mumbai
+O00653,C474,2025-06-16 04:42:21,Credit Card,Returned,Delhi
+O00654,C432,2025-06-16 10:49:25,UPI,Delivered,Delhi
+O00655,C341,2025-06-16 16:56:28,UPI,Shipped,Thiruvananthapuram
+O00656,C039,2025-06-16 23:03:32,UPI,Shipped,Nashik
+O00657,C100,2025-06-17 05:10:35,Cash on Delivery,Delivered,Bhopal
+O00658,C289,2025-06-17 11:17:39,Debit Card,Delivered,Mumbai
+O00659,C254,2025-06-17 17:24:42,Cash on Delivery,Delivered,Coimbatore
+O00660,C222,2025-06-17 23:31:46,Credit Card,Returned,Kozhikode
+O00661,C357,2025-06-18 05:38:49,Credit Card,Delivered,Delhi
+O00662,C023,2025-06-18 11:45:53,UPI,Shipped,Indore
+O00663,C250,2025-06-18 17:52:56,UPI,Delivered,Chennai
+O00664,C010,2025-06-19 00:00:00,Credit Card,Delivered,Coimbatore
+O00665,C246,2025-06-19 06:07:04,UPI,Delivered,Mysuru
+O00666,C325,2025-06-19 12:14:07,UPI,Delivered,Nashik
+O00667,C100,2025-06-19 18:21:11,Credit Card,Shipped,Jaipur
+O00668,C290,2025-06-20 00:28:14,Debit Card,Shipped,Kollam
+O00669,C180,2025-06-20 06:35:18,Net Banking,Shipped,Kottayam
+O00670,C223,2025-06-20 12:42:21,Net Banking,Delivered,Delhi
+O00671,C394,2025-06-20 18:49:25,Debit Card,Delivered,Mumbai
+O00672,C250,2025-06-21 00:56:28,Credit Card,Delivered,Kolkata
+O00673,C147,2025-06-21 07:03:32,Debit Card,Delivered,Hyderabad
+O00674,C442,2025-06-21 13:10:35,Cash on Delivery,Delivered,Chennai
+O00675,C096,2025-06-21 19:17:39,UPI,Delivered,Thiruvananthapuram
+O00676,C257,2025-06-22 01:24:42,Credit Card,Delivered,Kollam
+O00677,C325,2025-06-22 07:31:46,Cash on Delivery,Returned,Kochi
+O00678,C493,2025-06-22 13:38:49,Credit Card,Delivered,Thrissur
+O00679,C004,2025-06-22 19:45:53,Credit Card,Delivered,Thrissur
+O00680,C016,2025-06-23 01:52:56,Credit Card,Delivered,Kozhikode
+O00681,C280,2025-06-23 08:00:00,UPI,Delivered,Chennai
+O00682,C336,2025-06-23 14:07:04,UPI,Delivered,Pune
+O00683,C247,2025-06-23 20:14:07,UPI,Cancelled,Coimbatore
+O00684,C258,2025-06-24 02:21:11,UPI,Shipped,Thiruvananthapuram
+O00685,C497,2025-06-24 08:28:14,UPI,Cancelled,Mumbai
+O00686,C476,2025-06-24 14:35:18,Cash on Delivery,Returned,Coimbatore
+O00687,C384,2025-06-24 20:42:21,UPI,Delivered,Kottayam
+O00688,C160,2025-06-25 02:49:25,Credit Card,Delivered,Jaipur
+O00689,C475,2025-06-25 08:56:28,UPI,Delivered,Thiruvananthapuram
+O00690,C340,2025-06-25 15:03:32,Net Banking,Delivered,Thiruvananthapuram
+O00691,C152,2025-06-25 21:10:35,UPI,Delivered,Coimbatore
+O00692,C396,2025-06-26 03:17:39,Credit Card,Delivered,Hyderabad
+O00693,C178,2025-06-26 09:24:42,Cash on Delivery,Delivered,Pune
+O00694,C163,2025-06-26 15:31:46,Cash on Delivery,Delivered,Kochi
+O00695,C380,2025-06-26 21:38:49,UPI,Delivered,Mysuru
+O00696,C033,2025-06-27 03:45:53,Cash on Delivery,Delivered,Hyderabad
+O00697,C417,2025-06-27 09:52:56,Credit Card,Delivered,Jaipur
+O00698,C445,2025-06-27 16:00:00,Credit Card,Delivered,Nashik
+O00699,C179,2025-06-27 22:07:04,UPI,Delivered,Indore
+O00700,C427,2025-06-28 04:14:07,UPI,Delivered,Pune
+O00701,C101,2025-06-28 10:21:11,Debit Card,Delivered,Mysuru
+O00702,C268,2025-06-28 16:28:14,Credit Card,Delivered,Coimbatore
+O00703,C323,2025-06-28 22:35:18,Credit Card,Shipped,Bhopal
+O00704,C065,2025-06-29 04:42:21,Debit Card,Delivered,Kollam
+O00705,C417,2025-06-29 10:49:25,Cash on Delivery,Delivered,Jaipur
+O00706,C168,2025-06-29 16:56:28,UPI,Delivered,Ahmedabad
+O00707,C330,2025-06-29 23:03:32,Debit Card,Delivered,Indore
+O00708,C043,2025-06-30 05:10:35,UPI,Shipped,Kottayam
+O00709,C044,2025-06-30 11:17:39,Debit Card,Delivered,Mumbai
+O00710,C285,2025-06-30 17:24:42,Debit Card,Delivered,Mumbai
+O00711,C397,2025-06-30 23:31:46,Net Banking,Delivered,Kolkata
+O00712,C012,2025-07-01 05:38:49,UPI,Delivered,Kolkata
+O00713,C095,2025-07-01 11:45:53,UPI,Delivered,Jaipur
+O00714,C302,2025-07-01 17:52:56,UPI,Delivered,Jaipur
+O00715,C386,2025-07-02 00:00:00,UPI,Delivered,Coimbatore
+O00716,C253,2025-07-02 06:07:04,UPI,Delivered,Thiruvananthapuram
+O00717,C499,2025-07-02 12:14:07,Net Banking,Delivered,Chennai
+O00718,C242,2025-07-02 18:21:11,UPI,Delivered,Bhopal
+O00719,C035,2025-07-03 00:28:14,UPI,Delivered,Ahmedabad
+O00720,C215,2025-07-03 06:35:18,Debit Card,Delivered,Coimbatore
+O00721,C337,2025-07-03 12:42:21,Credit Card,Delivered,Thrissur
+O00722,C090,2025-07-03 18:49:25,Cash on Delivery,Delivered,Kottayam
+O00723,C264,2025-07-04 00:56:28,UPI,Delivered,Bhopal
+O00724,C093,2025-07-04 07:03:32,Credit Card,Cancelled,Thrissur
+O00725,C410,2025-07-04 13:10:35,UPI,Delivered,Indore
+O00726,C458,2025-07-04 19:17:39,UPI,Delivered,Hyderabad
+O00727,C090,2025-07-05 01:24:42,Net Banking,Delivered,Bengaluru
+O00728,C418,2025-07-05 07:31:46,UPI,Delivered,Delhi
+O00729,C115,2025-07-05 13:38:49,Credit Card,Delivered,Ahmedabad
+O00730,C105,2025-07-05 19:45:53,Credit Card,Delivered,Ahmedabad
+O00731,C391,2025-07-06 01:52:56,UPI,Delivered,Delhi
+O00732,C196,2025-07-06 08:00:00,Cash on Delivery,Cancelled,Kottayam
+O00733,C314,2025-07-06 14:07:04,UPI,Delivered,Mumbai
+O00734,C114,2025-07-06 20:14:07,Debit Card,Delivered,Hyderabad
+O00735,C493,2025-07-07 02:21:11,Net Banking,Shipped,Mysuru
+O00736,C075,2025-07-07 08:28:14,Credit Card,Delivered,Mumbai
+O00737,C413,2025-07-07 14:35:18,Net Banking,Cancelled,Bengaluru
+O00738,C376,2025-07-07 20:42:21,UPI,Delivered,Ahmedabad
+O00739,C420,2025-07-08 02:49:25,Credit Card,Shipped,Coimbatore
+O00740,C217,2025-07-08 08:56:28,UPI,Delivered,Chennai
+O00741,C277,2025-07-08 15:03:32,Debit Card,Delivered,Thrissur
+O00742,C249,2025-07-08 21:10:35,Net Banking,Cancelled,Indore
+O00743,C164,2025-07-09 03:17:39,UPI,Delivered,Nashik
+O00744,C394,2025-07-09 09:24:42,Debit Card,Delivered,Thiruvananthapuram
+O00745,C357,2025-07-09 15:31:46,UPI,Delivered,Thiruvananthapuram
+O00746,C457,2025-07-09 21:38:49,Credit Card,Delivered,Hyderabad
+O00747,C408,2025-07-10 03:45:53,Credit Card,Delivered,Chennai
+O00748,C192,2025-07-10 09:52:56,Net Banking,Delivered,Nashik
+O00749,C227,2025-07-10 16:00:00,Debit Card,Delivered,Kozhikode
+O00750,C177,2025-07-10 22:07:04,UPI,Delivered,Chennai
+O00751,C099,2025-07-11 04:14:07,UPI,Delivered,Nashik
+O00752,C496,2025-07-11 10:21:11,UPI,Delivered,Thiruvananthapuram
+O00753,C036,2025-07-11 16:28:14,UPI,Delivered,Mysuru
+O00754,C466,2025-07-11 22:35:18,UPI,Delivered,Chennai
+O00755,C497,2025-07-12 04:42:21,Cash on Delivery,Delivered,Hyderabad
+O00756,C487,2025-07-12 10:49:25,Credit Card,Delivered,Thiruvananthapuram
+O00757,C096,2025-07-12 16:56:28,Credit Card,Delivered,Kottayam
+O00758,C152,2025-07-12 23:03:32,UPI,Delivered,Mysuru
+O00759,C151,2025-07-13 05:10:35,Cash on Delivery,Delivered,Kollam
+O00760,C190,2025-07-13 11:17:39,Debit Card,Shipped,Chennai
+O00761,C224,2025-07-13 17:24:42,UPI,Delivered,Kochi
+O00762,C037,2025-07-13 23:31:46,Debit Card,Delivered,Chennai
+O00763,C268,2025-07-14 05:38:49,Credit Card,Delivered,Coimbatore
+O00764,C369,2025-07-14 11:45:53,UPI,Shipped,Thrissur
+O00765,C183,2025-07-14 17:52:56,Credit Card,Cancelled,Kozhikode
+O00766,C013,2025-07-15 00:00:00,Credit Card,Delivered,Coimbatore
+O00767,C279,2025-07-15 06:07:04,UPI,Delivered,Indore
+O00768,C217,2025-07-15 12:14:07,Net Banking,Cancelled,Mumbai
+O00769,C355,2025-07-15 18:21:11,Cash on Delivery,Delivered,Bhopal
+O00770,C361,2025-07-16 00:28:14,Debit Card,Delivered,Kottayam
+O00771,C286,2025-07-16 06:35:18,Credit Card,Delivered,Pune
+O00772,C273,2025-07-16 12:42:21,Credit Card,Delivered,Nashik
+O00773,C369,2025-07-16 18:49:25,Debit Card,Cancelled,Delhi
+O00774,C062,2025-07-17 00:56:28,Credit Card,Returned,Hyderabad
+O00775,C084,2025-07-17 07:03:32,UPI,Delivered,Kozhikode
+O00776,C368,2025-07-17 13:10:35,Credit Card,Delivered,Thiruvananthapuram
+O00777,C217,2025-07-17 19:17:39,Cash on Delivery,Shipped,Mumbai
+O00778,C342,2025-07-18 01:24:42,Credit Card,Delivered,Chennai
+O00779,C397,2025-07-18 07:31:46,UPI,Delivered,Kozhikode
+O00780,C187,2025-07-18 13:38:49,Cash on Delivery,Cancelled,Jaipur
+O00781,C019,2025-07-18 19:45:53,UPI,Delivered,Kolkata
+O00782,C177,2025-07-19 01:52:56,UPI,Delivered,Indore
+O00783,C100,2025-07-19 08:00:00,UPI,Delivered,Bhopal
+O00784,C396,2025-07-19 14:07:04,UPI,Shipped,Thiruvananthapuram
+O00785,C445,2025-07-19 20:14:07,Debit Card,Delivered,Delhi
+O00786,C233,2025-07-20 02:21:11,Credit Card,Delivered,Mysuru
+O00787,C403,2025-07-20 08:28:14,UPI,Delivered,Coimbatore
+O00788,C076,2025-07-20 14:35:18,Cash on Delivery,Delivered,Jaipur
+O00789,C265,2025-07-20 20:42:21,Cash on Delivery,Delivered,Ahmedabad
+O00790,C455,2025-07-21 02:49:25,Cash on Delivery,Delivered,Mysuru
+O00791,C284,2025-07-21 08:56:28,UPI,Delivered,Mysuru
+O00792,C206,2025-07-21 15:03:32,Credit Card,Delivered,Kozhikode
+O00793,C223,2025-07-21 21:10:35,Net Banking,Returned,Kozhikode
+O00794,C384,2025-07-22 03:17:39,Cash on Delivery,Delivered,Pune
+O00795,C052,2025-07-22 09:24:42,UPI,Cancelled,Delhi
+O00796,C339,2025-07-22 15:31:46,UPI,Delivered,Thrissur
+O00797,C367,2025-07-22 21:38:49,Credit Card,Shipped,Delhi
+O00798,C144,2025-07-23 03:45:53,Net Banking,Delivered,Bhopal
+O00799,C373,2025-07-23 09:52:56,Credit Card,Delivered,Ahmedabad
+O00800,C069,2025-07-23 16:00:00,Credit Card,Returned,Chennai
+O00801,C099,2025-07-23 22:07:04,UPI,Delivered,Pune
+O00802,C396,2025-07-24 04:14:07,Debit Card,Delivered,Kollam
+O00803,C025,2025-07-24 10:21:11,Cash on Delivery,Delivered,Mumbai
+O00804,C436,2025-07-24 16:28:14,Credit Card,Delivered,Kolkata
+O00805,C379,2025-07-24 22:35:18,Cash on Delivery,Delivered,Kozhikode
+O00806,C469,2025-07-25 04:42:21,Net Banking,Delivered,Indore
+O00807,C484,2025-07-25 10:49:25,UPI,Delivered,Bhopal
+O00808,C053,2025-07-25 16:56:28,Credit Card,Delivered,Mumbai
+O00809,C151,2025-07-25 23:03:32,UPI,Delivered,Kolkata
+O00810,C144,2025-07-26 05:10:35,Cash on Delivery,Delivered,Mysuru
+O00811,C057,2025-07-26 11:17:39,Credit Card,Delivered,Thrissur
+O00812,C039,2025-07-26 17:24:42,Debit Card,Delivered,Pune
+O00813,C109,2025-07-26 23:31:46,Cash on Delivery,Delivered,Mysuru
+O00814,C181,2025-07-27 05:38:49,Credit Card,Delivered,Kottayam
+O00815,C042,2025-07-27 11:45:53,Net Banking,Delivered,Indore
+O00816,C186,2025-07-27 17:52:56,Credit Card,Shipped,Pune
+O00817,C423,2025-07-28 00:00:00,UPI,Cancelled,Hyderabad
+O00818,C398,2025-07-28 06:07:04,Debit Card,Delivered,Hyderabad
+O00819,C223,2025-07-28 12:14:07,Cash on Delivery,Delivered,Kolkata
+O00820,C122,2025-07-28 18:21:11,UPI,Cancelled,Kolkata
+O00821,C133,2025-07-29 00:28:14,Cash on Delivery,Shipped,Thrissur
+O00822,C163,2025-07-29 06:35:18,Net Banking,Delivered,Mumbai
+O00823,C215,2025-07-29 12:42:21,UPI,Returned,Nashik
+O00824,C221,2025-07-29 18:49:25,Net Banking,Delivered,Chennai
+O00825,C235,2025-07-30 00:56:28,UPI,Delivered,Thrissur
+O00826,C331,2025-07-30 07:03:32,UPI,Delivered,Pune
+O00827,C146,2025-07-30 13:10:35,UPI,Delivered,Chennai
+O00828,C239,2025-07-30 19:17:39,Cash on Delivery,Delivered,Nashik
+O00829,C076,2025-07-31 01:24:42,Debit Card,Delivered,Hyderabad
+O00830,C009,2025-07-31 07:31:46,UPI,Delivered,Kottayam
+O00831,C074,2025-07-31 13:38:49,Credit Card,Shipped,Coimbatore
+O00832,C442,2025-07-31 19:45:53,Debit Card,Shipped,Nashik
+O00833,C492,2025-08-01 01:52:56,UPI,Delivered,Bengaluru
+O00834,C401,2025-08-01 08:00:00,Cash on Delivery,Shipped,Ahmedabad
+O00835,C253,2025-08-01 14:07:04,Cash on Delivery,Shipped,Ahmedabad
+O00836,C230,2025-08-01 20:14:07,Credit Card,Delivered,Delhi
+O00837,C007,2025-08-02 02:21:11,Net Banking,Delivered,Nashik
+O00838,C174,2025-08-02 08:28:14,Credit Card,Delivered,Nashik
+O00839,C141,2025-08-02 14:35:18,Net Banking,Cancelled,Thiruvananthapuram
+O00840,C168,2025-08-02 20:42:21,Debit Card,Delivered,Coimbatore
+O00841,C170,2025-08-03 02:49:25,Debit Card,Delivered,Nashik
+O00842,C393,2025-08-03 08:56:28,UPI,Delivered,Chennai
+O00843,C434,2025-08-03 15:03:32,Cash on Delivery,Delivered,Kochi
+O00844,C283,2025-08-03 21:10:35,Credit Card,Delivered,Bhopal
+O00845,C122,2025-08-04 03:17:39,UPI,Delivered,Hyderabad
+O00846,C194,2025-08-04 09:24:42,UPI,Delivered,Kolkata
+O00847,C005,2025-08-04 15:31:46,Credit Card,Shipped,Indore
+O00848,C029,2025-08-04 21:38:49,Credit Card,Shipped,Kochi
+O00849,C165,2025-08-05 03:45:53,Debit Card,Delivered,Delhi
+O00850,C422,2025-08-05 09:52:56,Cash on Delivery,Returned,Nashik
+O00851,C339,2025-08-05 16:00:00,UPI,Delivered,Indore
+O00852,C136,2025-08-05 22:07:04,Debit Card,Delivered,Hyderabad
+O00853,C496,2025-08-06 04:14:07,UPI,Delivered,Hyderabad
+O00854,C365,2025-08-06 10:21:11,Cash on Delivery,Shipped,Thiruvananthapuram
+O00855,C321,2025-08-06 16:28:14,Cash on Delivery,Cancelled,Delhi
+O00856,C342,2025-08-06 22:35:18,Credit Card,Delivered,Mumbai
+O00857,C500,2025-08-07 04:42:21,Debit Card,Shipped,Mysuru
+O00858,C145,2025-08-07 10:49:25,UPI,Delivered,Kolkata
+O00859,C327,2025-08-07 16:56:28,Credit Card,Delivered,Kozhikode
+O00860,C217,2025-08-07 23:03:32,Cash on Delivery,Delivered,Pune
+O00861,C301,2025-08-08 05:10:35,Credit Card,Delivered,Kolkata
+O00862,C132,2025-08-08 11:17:39,UPI,Delivered,Hyderabad
+O00863,C292,2025-08-08 17:24:42,Credit Card,Shipped,Bhopal
+O00864,C070,2025-08-08 23:31:46,Cash on Delivery,Delivered,Hyderabad
+O00865,C252,2025-08-09 05:38:49,UPI,Delivered,Delhi
+O00866,C415,2025-08-09 11:45:53,UPI,Delivered,Mumbai
+O00867,C275,2025-08-09 17:52:56,Debit Card,Delivered,Delhi
+O00868,C445,2025-08-10 00:00:00,Cash on Delivery,Shipped,Ahmedabad
+O00869,C364,2025-08-10 06:07:04,UPI,Delivered,Kochi
+O00870,C182,2025-08-10 12:14:07,UPI,Delivered,Pune
+O00871,C167,2025-08-10 18:21:11,UPI,Shipped,Indore
+O00872,C091,2025-08-11 00:28:14,UPI,Delivered,Jaipur
+O00873,C202,2025-08-11 06:35:18,Credit Card,Delivered,Bhopal
+O00874,C346,2025-08-11 12:42:21,Debit Card,Delivered,Kochi
+O00875,C019,2025-08-11 18:49:25,Debit Card,Delivered,Nashik
+O00876,C039,2025-08-12 00:56:28,Debit Card,Delivered,Indore
+O00877,C126,2025-08-12 07:03:32,UPI,Delivered,Bengaluru
+O00878,C451,2025-08-12 13:10:35,Cash on Delivery,Shipped,Indore
+O00879,C173,2025-08-12 19:17:39,Credit Card,Shipped,Kolkata
+O00880,C141,2025-08-13 01:24:42,Net Banking,Delivered,Coimbatore
+O00881,C242,2025-08-13 07:31:46,Debit Card,Delivered,Bhopal
+O00882,C220,2025-08-13 13:38:49,UPI,Shipped,Kottayam
+O00883,C126,2025-08-13 19:45:53,Debit Card,Delivered,Bhopal
+O00884,C058,2025-08-14 01:52:56,UPI,Delivered,Pune
+O00885,C148,2025-08-14 08:00:00,Debit Card,Delivered,Mumbai
+O00886,C476,2025-08-14 14:07:04,UPI,Shipped,Kolkata
+O00887,C456,2025-08-14 20:14:07,UPI,Delivered,Ahmedabad
+O00888,C317,2025-08-15 02:21:11,Cash on Delivery,Delivered,Thiruvananthapuram
+O00889,C383,2025-08-15 08:28:14,UPI,Delivered,Kolkata
+O00890,C361,2025-08-15 14:35:18,Cash on Delivery,Cancelled,Kochi
+O00891,C423,2025-08-15 20:42:21,UPI,Delivered,Mysuru
+O00892,C001,2025-08-16 02:49:25,Debit Card,Returned,Bhopal
+O00893,C387,2025-08-16 08:56:28,Debit Card,Delivered,Chennai
+O00894,C461,2025-08-16 15:03:32,Credit Card,Delivered,Thiruvananthapuram
+O00895,C348,2025-08-16 21:10:35,UPI,Delivered,Kollam
+O00896,C190,2025-08-17 03:17:39,UPI,Delivered,Mysuru
+O00897,C191,2025-08-17 09:24:42,UPI,Cancelled,Hyderabad
+O00898,C369,2025-08-17 15:31:46,UPI,Delivered,Hyderabad
+O00899,C409,2025-08-17 21:38:49,Debit Card,Delivered,Nashik
+O00900,C312,2025-08-18 03:45:53,Net Banking,Delivered,Kolkata
+O00901,C417,2025-08-18 09:52:56,Cash on Delivery,Delivered,Indore
+O00902,C422,2025-08-18 16:00:00,Cash on Delivery,Delivered,Kochi
+O00903,C117,2025-08-18 22:07:04,Cash on Delivery,Delivered,Kozhikode
+O00904,C134,2025-08-19 04:14:07,Debit Card,Returned,Kottayam
+O00905,C058,2025-08-19 10:21:11,UPI,Delivered,Bhopal
+O00906,C044,2025-08-19 16:28:14,Net Banking,Delivered,Thrissur
+O00907,C173,2025-08-19 22:35:18,Debit Card,Delivered,Jaipur
+O00908,C160,2025-08-20 04:42:21,Credit Card,Delivered,Indore
+O00909,C173,2025-08-20 10:49:25,UPI,Delivered,Chennai
+O00910,C317,2025-08-20 16:56:28,Credit Card,Shipped,Jaipur
+O00911,C303,2025-08-20 23:03:32,Credit Card,Delivered,Kozhikode
+O00912,C149,2025-08-21 05:10:35,Cash on Delivery,Delivered,Coimbatore
+O00913,C080,2025-08-21 11:17:39,Credit Card,Delivered,Delhi
+O00914,C374,2025-08-21 17:24:42,Credit Card,Returned,Bengaluru
+O00915,C213,2025-08-21 23:31:46,Net Banking,Delivered,Indore
+O00916,C203,2025-08-22 05:38:49,UPI,Delivered,Kochi
+O00917,C252,2025-08-22 11:45:53,Credit Card,Delivered,Mumbai
+O00918,C229,2025-08-22 17:52:56,UPI,Delivered,Delhi
+O00919,C164,2025-08-23 00:00:00,Debit Card,Delivered,Kollam
+O00920,C227,2025-08-23 06:07:04,Net Banking,Delivered,Bengaluru
+O00921,C147,2025-08-23 12:14:07,UPI,Shipped,Ahmedabad
+O00922,C020,2025-08-23 18:21:11,Cash on Delivery,Delivered,Indore
+O00923,C441,2025-08-24 00:28:14,UPI,Shipped,Kozhikode
+O00924,C402,2025-08-24 06:35:18,Net Banking,Delivered,Indore
+O00925,C047,2025-08-24 12:42:21,Debit Card,Delivered,Kollam
+O00926,C233,2025-08-24 18:49:25,Cash on Delivery,Delivered,Pune
+O00927,C305,2025-08-25 00:56:28,UPI,Delivered,Kolkata
+O00928,C014,2025-08-25 07:03:32,Net Banking,Delivered,Kollam
+O00929,C143,2025-08-25 13:10:35,Debit Card,Delivered,Kozhikode
+O00930,C415,2025-08-25 19:17:39,UPI,Delivered,Chennai
+O00931,C001,2025-08-26 01:24:42,Cash on Delivery,Delivered,Chennai
+O00932,C373,2025-08-26 07:31:46,UPI,Returned,Bengaluru
+O00933,C054,2025-08-26 13:38:49,Cash on Delivery,Delivered,Thiruvananthapuram
+O00934,C374,2025-08-26 19:45:53,UPI,Cancelled,Hyderabad
+O00935,C259,2025-08-27 01:52:56,Debit Card,Delivered,Chennai
+O00936,C144,2025-08-27 08:00:00,Credit Card,Delivered,Nashik
+O00937,C471,2025-08-27 14:07:04,UPI,Delivered,Ahmedabad
+O00938,C441,2025-08-27 20:14:07,UPI,Delivered,Kolkata
+O00939,C459,2025-08-28 02:21:11,UPI,Delivered,Delhi
+O00940,C012,2025-08-28 08:28:14,Credit Card,Delivered,Kottayam
+O00941,C330,2025-08-28 14:35:18,UPI,Cancelled,Thrissur
+O00942,C224,2025-08-28 20:42:21,Credit Card,Shipped,Kochi
+O00943,C272,2025-08-29 02:49:25,UPI,Delivered,Jaipur
+O00944,C456,2025-08-29 08:56:28,UPI,Delivered,Ahmedabad
+O00945,C358,2025-08-29 15:03:32,Debit Card,Delivered,Chennai
+O00946,C460,2025-08-29 21:10:35,UPI,Delivered,Nashik
+O00947,C408,2025-08-30 03:17:39,Net Banking,Delivered,Mysuru
+O00948,C156,2025-08-30 09:24:42,Cash on Delivery,Cancelled,Nashik
+O00949,C373,2025-08-30 15:31:46,Debit Card,Delivered,Indore
+O00950,C008,2025-08-30 21:38:49,Credit Card,Delivered,Mumbai
+O00951,C122,2025-08-31 03:45:53,Cash on Delivery,Delivered,Pune
+O00952,C348,2025-08-31 09:52:56,UPI,Delivered,Bhopal
+O00953,C164,2025-08-31 16:00:00,UPI,Delivered,Thrissur
+O00954,C090,2025-08-31 22:07:04,UPI,Delivered,Kochi
+O00955,C136,2025-09-01 04:14:07,Cash on Delivery,Delivered,Thrissur
+O00956,C186,2025-09-01 10:21:11,UPI,Delivered,Ahmedabad
+O00957,C316,2025-09-01 16:28:14,Credit Card,Delivered,Chennai
+O00958,C178,2025-09-01 22:35:18,Net Banking,Returned,Coimbatore
+O00959,C028,2025-09-02 04:42:21,Cash on Delivery,Delivered,Thrissur
+O00960,C220,2025-09-02 10:49:25,Credit Card,Delivered,Kolkata
+O00961,C357,2025-09-02 16:56:28,UPI,Delivered,Chennai
+O00962,C041,2025-09-02 23:03:32,Cash on Delivery,Delivered,Nashik
+O00963,C228,2025-09-03 05:10:35,Credit Card,Delivered,Pune
+O00964,C192,2025-09-03 11:17:39,UPI,Shipped,Mumbai
+O00965,C411,2025-09-03 17:24:42,UPI,Delivered,Pune
+O00966,C447,2025-09-03 23:31:46,Net Banking,Delivered,Jaipur
+O00967,C145,2025-09-04 05:38:49,Debit Card,Delivered,Pune
+O00968,C201,2025-09-04 11:45:53,Cash on Delivery,Delivered,Hyderabad
+O00969,C417,2025-09-04 17:52:56,Cash on Delivery,Shipped,Kollam
+O00970,C212,2025-09-05 00:00:00,Credit Card,Shipped,Kolkata
+O00971,C461,2025-09-05 06:07:04,Credit Card,Delivered,Pune
+O00972,C220,2025-09-05 12:14:07,Credit Card,Delivered,Mumbai
+O00973,C240,2025-09-05 18:21:11,UPI,Delivered,Chennai
+O00974,C413,2025-09-06 00:28:14,Credit Card,Returned,Jaipur
+O00975,C397,2025-09-06 06:35:18,Cash on Delivery,Delivered,Kozhikode
+O00976,C046,2025-09-06 12:42:21,Debit Card,Returned,Kolkata
+O00977,C035,2025-09-06 18:49:25,Cash on Delivery,Delivered,Delhi
+O00978,C253,2025-09-07 00:56:28,Credit Card,Delivered,Bhopal
+O00979,C390,2025-09-07 07:03:32,Debit Card,Delivered,Kochi
+O00980,C082,2025-09-07 13:10:35,Debit Card,Returned,Delhi
+O00981,C371,2025-09-07 19:17:39,Credit Card,Shipped,Mysuru
+O00982,C256,2025-09-08 01:24:42,Debit Card,Delivered,Kollam
+O00983,C197,2025-09-08 07:31:46,UPI,Delivered,Kollam
+O00984,C303,2025-09-08 13:38:49,Credit Card,Delivered,Chennai
+O00985,C409,2025-09-08 19:45:53,UPI,Delivered,Kozhikode
+O00986,C450,2025-09-09 01:52:56,Credit Card,Delivered,Ahmedabad
+O00987,C010,2025-09-09 08:00:00,Credit Card,Delivered,Chennai
+O00988,C312,2025-09-09 14:07:04,Debit Card,Shipped,Jaipur
+O00989,C286,2025-09-09 20:14:07,Net Banking,Delivered,Hyderabad
+O00990,C242,2025-09-10 02:21:11,Debit Card,Shipped,Kochi
+O00991,C251,2025-09-10 08:28:14,Debit Card,Delivered,Thiruvananthapuram
+O00992,C365,2025-09-10 14:35:18,Credit Card,Delivered,Bhopal
+O00993,C005,2025-09-10 20:42:21,Debit Card,Delivered,Bhopal
+O00994,C119,2025-09-11 02:49:25,UPI,Delivered,Kochi
+O00995,C289,2025-09-11 08:56:28,UPI,Delivered,Hyderabad
+O00996,C374,2025-09-11 15:03:32,UPI,Delivered,Indore
+O00997,C065,2025-09-11 21:10:35,Credit Card,Delivered,Indore
+O00998,C146,2025-09-12 03:17:39,UPI,Delivered,Pune
+O00999,C224,2025-09-12 09:24:42,UPI,Delivered,Hyderabad
+O01000,C239,2025-09-12 15:31:46,UPI,Delivered,Bhopal
+O01001,C177,2025-09-12 21:38:49,Net Banking,Shipped,Indore
+O01002,C267,2025-09-13 03:45:53,UPI,Cancelled,Indore
+O01003,C341,2025-09-13 09:52:56,Credit Card,Delivered,Ahmedabad
+O01004,C282,2025-09-13 16:00:00,UPI,Delivered,Mysuru
+O01005,C063,2025-09-13 22:07:04,Debit Card,Delivered,Thiruvananthapuram
+O01006,C217,2025-09-14 04:14:07,UPI,Returned,Thiruvananthapuram
+O01007,C342,2025-09-14 10:21:11,UPI,Delivered,Coimbatore
+O01008,C315,2025-09-14 16:28:14,Credit Card,Delivered,Kozhikode
+O01009,C283,2025-09-14 22:35:18,UPI,Delivered,Delhi
+O01010,C177,2025-09-15 04:42:21,UPI,Delivered,Mysuru
+O01011,C461,2025-09-15 10:49:25,UPI,Delivered,Thrissur
+O01012,C417,2025-09-15 16:56:28,UPI,Shipped,Bhopal
+O01013,C098,2025-09-15 23:03:32,UPI,Delivered,Coimbatore
+O01014,C105,2025-09-16 05:10:35,UPI,Delivered,Kochi
+O01015,C099,2025-09-16 11:17:39,Cash on Delivery,Delivered,Thrissur
+O01016,C385,2025-09-16 17:24:42,Credit Card,Delivered,Kochi
+O01017,C405,2025-09-16 23:31:46,Credit Card,Cancelled,Delhi
+O01018,C496,2025-09-17 05:38:49,UPI,Delivered,Delhi
+O01019,C311,2025-09-17 11:45:53,Net Banking,Shipped,Bengaluru
+O01020,C006,2025-09-17 17:52:56,Credit Card,Delivered,Kolkata
+O01021,C476,2025-09-18 00:00:00,UPI,Delivered,Indore
+O01022,C465,2025-09-18 06:07:04,Debit Card,Returned,Nashik
+O01023,C197,2025-09-18 12:14:07,UPI,Delivered,Thiruvananthapuram
+O01024,C351,2025-09-18 18:21:11,UPI,Shipped,Ahmedabad
+O01025,C133,2025-09-19 00:28:14,Credit Card,Delivered,Nashik
+O01026,C358,2025-09-19 06:35:18,Cash on Delivery,Shipped,Mumbai
+O01027,C259,2025-09-19 12:42:21,Credit Card,Delivered,Indore
+O01028,C437,2025-09-19 18:49:25,Debit Card,Delivered,Coimbatore
+O01029,C023,2025-09-20 00:56:28,Net Banking,Delivered,Chennai
+O01030,C485,2025-09-20 07:03:32,UPI,Cancelled,Chennai
+O01031,C053,2025-09-20 13:10:35,UPI,Cancelled,Kolkata
+O01032,C165,2025-09-20 19:17:39,Credit Card,Shipped,Kochi
+O01033,C202,2025-09-21 01:24:42,Credit Card,Cancelled,Delhi
+O01034,C458,2025-09-21 07:31:46,Credit Card,Delivered,Pune
+O01035,C083,2025-09-21 13:38:49,Net Banking,Delivered,Coimbatore
+O01036,C145,2025-09-21 19:45:53,Debit Card,Delivered,Kollam
+O01037,C085,2025-09-22 01:52:56,Debit Card,Delivered,Jaipur
+O01038,C078,2025-09-22 08:00:00,UPI,Delivered,Indore
+O01039,C457,2025-09-22 14:07:04,Cash on Delivery,Delivered,Kottayam
+O01040,C366,2025-09-22 20:14:07,Net Banking,Delivered,Bengaluru
+O01041,C001,2025-09-23 02:21:11,Cash on Delivery,Delivered,Delhi
+O01042,C051,2025-09-23 08:28:14,UPI,Delivered,Kottayam
+O01043,C173,2025-09-23 14:35:18,Debit Card,Delivered,Mysuru
+O01044,C205,2025-09-23 20:42:21,UPI,Delivered,Pune
+O01045,C260,2025-09-24 02:49:25,UPI,Shipped,Bhopal
+O01046,C446,2025-09-24 08:56:28,UPI,Delivered,Pune
+O01047,C449,2025-09-24 15:03:32,Debit Card,Delivered,Coimbatore
+O01048,C369,2025-09-24 21:10:35,Debit Card,Delivered,Kolkata
+O01049,C488,2025-09-25 03:17:39,UPI,Delivered,Indore
+O01050,C288,2025-09-25 09:24:42,Credit Card,Delivered,Bengaluru
+O01051,C034,2025-09-25 15:31:46,Credit Card,Delivered,Chennai
+O01052,C348,2025-09-25 21:38:49,UPI,Delivered,Coimbatore
+O01053,C095,2025-09-26 03:45:53,UPI,Delivered,Coimbatore
+O01054,C072,2025-09-26 09:52:56,Credit Card,Delivered,Hyderabad
+O01055,C039,2025-09-26 16:00:00,Debit Card,Returned,Bengaluru
+O01056,C154,2025-09-26 22:07:04,UPI,Returned,Kollam
+O01057,C250,2025-09-27 04:14:07,UPI,Delivered,Kozhikode
+O01058,C162,2025-09-27 10:21:11,UPI,Delivered,Jaipur
+O01059,C438,2025-09-27 16:28:14,Net Banking,Delivered,Mumbai
+O01060,C118,2025-09-27 22:35:18,Debit Card,Delivered,Indore
+O01061,C259,2025-09-28 04:42:21,Debit Card,Cancelled,Kolkata
+O01062,C379,2025-09-28 10:49:25,UPI,Delivered,Kollam
+O01063,C306,2025-09-28 16:56:28,Credit Card,Delivered,Pune
+O01064,C268,2025-09-28 23:03:32,UPI,Delivered,Thrissur
+O01065,C449,2025-09-29 05:10:35,Debit Card,Returned,Indore
+O01066,C054,2025-09-29 11:17:39,Net Banking,Delivered,Chennai
+O01067,C236,2025-09-29 17:24:42,Debit Card,Delivered,Bengaluru
+O01068,C389,2025-09-29 23:31:46,Cash on Delivery,Delivered,Coimbatore
+O01069,C478,2025-09-30 05:38:49,Debit Card,Delivered,Nashik
+O01070,C222,2025-09-30 11:45:53,UPI,Delivered,Mysuru
+O01071,C251,2025-09-30 17:52:56,Net Banking,Delivered,Pune
+O01072,C313,2025-10-01 00:00:00,UPI,Cancelled,Ahmedabad
+O01073,C401,2025-10-01 06:07:04,Credit Card,Cancelled,Kochi
+O01074,C112,2025-10-01 12:14:07,UPI,Cancelled,Hyderabad
+O01075,C255,2025-10-01 18:21:11,UPI,Delivered,Delhi
+O01076,C303,2025-10-02 00:28:14,Credit Card,Shipped,Jaipur
+O01077,C407,2025-10-02 06:35:18,UPI,Delivered,Mumbai
+O01078,C207,2025-10-02 12:42:21,Credit Card,Delivered,Jaipur
+O01079,C229,2025-10-02 18:49:25,Credit Card,Delivered,Bengaluru
+O01080,C341,2025-10-03 00:56:28,UPI,Delivered,Jaipur
+O01081,C398,2025-10-03 07:03:32,UPI,Delivered,Mysuru
+O01082,C066,2025-10-03 13:10:35,Credit Card,Delivered,Kottayam
+O01083,C075,2025-10-03 19:17:39,UPI,Delivered,Bengaluru
+O01084,C435,2025-10-04 01:24:42,Debit Card,Shipped,Coimbatore
+O01085,C103,2025-10-04 07:31:46,Debit Card,Delivered,Mumbai
+O01086,C422,2025-10-04 13:38:49,Cash on Delivery,Delivered,Nashik
+O01087,C192,2025-10-04 19:45:53,Debit Card,Delivered,Chennai
+O01088,C252,2025-10-05 01:52:56,Credit Card,Delivered,Bengaluru
+O01089,C226,2025-10-05 08:00:00,Debit Card,Delivered,Chennai
+O01090,C294,2025-10-05 14:07:04,UPI,Delivered,Nashik
+O01091,C306,2025-10-05 20:14:07,UPI,Delivered,Kozhikode
+O01092,C098,2025-10-06 02:21:11,Cash on Delivery,Delivered,Kozhikode
+O01093,C338,2025-10-06 08:28:14,Credit Card,Delivered,Kochi
+O01094,C286,2025-10-06 14:35:18,Cash on Delivery,Shipped,Kolkata
+O01095,C335,2025-10-06 20:42:21,Cash on Delivery,Delivered,Thiruvananthapuram
+O01096,C347,2025-10-07 02:49:25,Cash on Delivery,Delivered,Kozhikode
+O01097,C435,2025-10-07 08:56:28,Net Banking,Shipped,Indore
+O01098,C447,2025-10-07 15:03:32,Credit Card,Delivered,Kottayam
+O01099,C482,2025-10-07 21:10:35,UPI,Delivered,Nashik
+O01100,C308,2025-10-08 03:17:39,Credit Card,Cancelled,Kochi
+O01101,C249,2025-10-08 09:24:42,UPI,Delivered,Kolkata
+O01102,C166,2025-10-08 15:31:46,Debit Card,Delivered,Ahmedabad
+O01103,C481,2025-10-08 21:38:49,Debit Card,Delivered,Kochi
+O01104,C472,2025-10-09 03:45:53,Debit Card,Delivered,Thiruvananthapuram
+O01105,C335,2025-10-09 09:52:56,UPI,Delivered,Indore
+O01106,C030,2025-10-09 16:00:00,UPI,Delivered,Bhopal
+O01107,C247,2025-10-09 22:07:04,Credit Card,Delivered,Ahmedabad
+O01108,C106,2025-10-10 04:14:07,UPI,Delivered,Mumbai
+O01109,C051,2025-10-10 10:21:11,Cash on Delivery,Delivered,Indore
+O01110,C081,2025-10-10 16:28:14,UPI,Delivered,Kottayam
+O01111,C133,2025-10-10 22:35:18,UPI,Delivered,Kolkata
+O01112,C285,2025-10-11 04:42:21,UPI,Delivered,Chennai
+O01113,C388,2025-10-11 10:49:25,Debit Card,Delivered,Kollam
+O01114,C138,2025-10-11 16:56:28,Debit Card,Cancelled,Kolkata
+O01115,C184,2025-10-11 23:03:32,UPI,Delivered,Thiruvananthapuram
+O01116,C401,2025-10-12 05:10:35,UPI,Delivered,Kottayam
+O01117,C330,2025-10-12 11:17:39,Credit Card,Delivered,Jaipur
+O01118,C273,2025-10-12 17:24:42,UPI,Delivered,Ahmedabad
+O01119,C340,2025-10-12 23:31:46,Debit Card,Cancelled,Chennai
+O01120,C472,2025-10-13 05:38:49,Debit Card,Delivered,Kottayam
+O01121,C069,2025-10-13 11:45:53,UPI,Returned,Bhopal
+O01122,C034,2025-10-13 17:52:56,UPI,Delivered,Nashik
+O01123,C262,2025-10-14 00:00:00,Net Banking,Delivered,Mumbai
+O01124,C053,2025-10-14 06:07:04,Credit Card,Delivered,Pune
+O01125,C450,2025-10-14 12:14:07,Debit Card,Cancelled,Ahmedabad
+O01126,C205,2025-10-14 18:21:11,UPI,Delivered,Ahmedabad
+O01127,C126,2025-10-15 00:28:14,Credit Card,Delivered,Ahmedabad
+O01128,C235,2025-10-15 06:35:18,UPI,Delivered,Nashik
+O01129,C043,2025-10-15 12:42:21,Credit Card,Delivered,Bhopal
+O01130,C240,2025-10-15 18:49:25,Net Banking,Cancelled,Jaipur
+O01131,C459,2025-10-16 00:56:28,Credit Card,Delivered,Pune
+O01132,C371,2025-10-16 07:03:32,UPI,Delivered,Thrissur
+O01133,C111,2025-10-16 13:10:35,UPI,Delivered,Coimbatore
+O01134,C249,2025-10-16 19:17:39,Credit Card,Delivered,Delhi
+O01135,C151,2025-10-17 01:24:42,UPI,Returned,Thrissur
+O01136,C183,2025-10-17 07:31:46,UPI,Delivered,Pune
+O01137,C336,2025-10-17 13:38:49,Debit Card,Delivered,Nashik
+O01138,C095,2025-10-17 19:45:53,Credit Card,Cancelled,Thrissur
+O01139,C459,2025-10-18 01:52:56,UPI,Delivered,Coimbatore
+O01140,C374,2025-10-18 08:00:00,Net Banking,Delivered,Kozhikode
+O01141,C400,2025-10-18 14:07:04,UPI,Delivered,Indore
+O01142,C008,2025-10-18 20:14:07,Net Banking,Delivered,Thiruvananthapuram
+O01143,C388,2025-10-19 02:21:11,UPI,Delivered,Delhi
+O01144,C360,2025-10-19 08:28:14,Cash on Delivery,Cancelled,Kottayam
+O01145,C388,2025-10-19 14:35:18,Debit Card,Delivered,Mysuru
+O01146,C184,2025-10-19 20:42:21,Cash on Delivery,Delivered,Kozhikode
+O01147,C281,2025-10-20 02:49:25,Net Banking,Returned,Jaipur
+O01148,C195,2025-10-20 08:56:28,UPI,Delivered,Kochi
+O01149,C352,2025-10-20 15:03:32,Net Banking,Delivered,Hyderabad
+O01150,C195,2025-10-20 21:10:35,Credit Card,Delivered,Bengaluru
+O01151,C155,2025-10-21 03:17:39,Credit Card,Cancelled,Kozhikode
+O01152,C093,2025-10-21 09:24:42,UPI,Delivered,Thrissur
+O01153,C160,2025-10-21 15:31:46,Credit Card,Delivered,Chennai
+O01154,C434,2025-10-21 21:38:49,UPI,Shipped,Kollam
+O01155,C061,2025-10-22 03:45:53,Credit Card,Delivered,Ahmedabad
+O01156,C122,2025-10-22 09:52:56,Credit Card,Delivered,Indore
+O01157,C051,2025-10-22 16:00:00,Cash on Delivery,Shipped,Mysuru
+O01158,C403,2025-10-22 22:07:04,Cash on Delivery,Delivered,Kottayam
+O01159,C277,2025-10-23 04:14:07,Credit Card,Shipped,Jaipur
+O01160,C005,2025-10-23 10:21:11,UPI,Cancelled,Ahmedabad
+O01161,C466,2025-10-23 16:28:14,UPI,Delivered,Indore
+O01162,C092,2025-10-23 22:35:18,UPI,Delivered,Bengaluru
+O01163,C170,2025-10-24 04:42:21,UPI,Shipped,Coimbatore
+O01164,C317,2025-10-24 10:49:25,UPI,Shipped,Kottayam
+O01165,C022,2025-10-24 16:56:28,UPI,Delivered,Bhopal
+O01166,C405,2025-10-24 23:03:32,Net Banking,Delivered,Delhi
+O01167,C326,2025-10-25 05:10:35,Credit Card,Delivered,Chennai
+O01168,C001,2025-10-25 11:17:39,UPI,Delivered,Ahmedabad
+O01169,C133,2025-10-25 17:24:42,Credit Card,Delivered,Kollam
+O01170,C233,2025-10-25 23:31:46,UPI,Delivered,Bengaluru
+O01171,C012,2025-10-26 05:38:49,Credit Card,Delivered,Ahmedabad
+O01172,C346,2025-10-26 11:45:53,Debit Card,Delivered,Kolkata
+O01173,C046,2025-10-26 17:52:56,Credit Card,Delivered,Bengaluru
+O01174,C034,2025-10-27 00:00:00,Credit Card,Delivered,Thiruvananthapuram
+O01175,C433,2025-10-27 06:07:04,Net Banking,Delivered,Hyderabad
+O01176,C078,2025-10-27 12:14:07,Cash on Delivery,Delivered,Nashik
+O01177,C218,2025-10-27 18:21:11,Debit Card,Delivered,Mysuru
+O01178,C301,2025-10-28 00:28:14,Credit Card,Delivered,Kottayam
+O01179,C411,2025-10-28 06:35:18,Debit Card,Delivered,Kottayam
+O01180,C073,2025-10-28 12:42:21,UPI,Delivered,Chennai
+O01181,C282,2025-10-28 18:49:25,Credit Card,Returned,Thrissur
+O01182,C249,2025-10-29 00:56:28,UPI,Delivered,Mumbai
+O01183,C047,2025-10-29 07:03:32,Credit Card,Returned,Kollam
+O01184,C121,2025-10-29 13:10:35,Credit Card,Delivered,Delhi
+O01185,C214,2025-10-29 19:17:39,UPI,Delivered,Kolkata
+O01186,C239,2025-10-30 01:24:42,Net Banking,Cancelled,Bengaluru
+O01187,C056,2025-10-30 07:31:46,Net Banking,Delivered,Indore
+O01188,C350,2025-10-30 13:38:49,Debit Card,Delivered,Indore
+O01189,C107,2025-10-30 19:45:53,Credit Card,Delivered,Bhopal
+O01190,C319,2025-10-31 01:52:56,Cash on Delivery,Delivered,Nashik
+O01191,C048,2025-10-31 08:00:00,UPI,Delivered,Mumbai
+O01192,C061,2025-10-31 14:07:04,Cash on Delivery,Delivered,Nashik
+O01193,C337,2025-10-31 20:14:07,UPI,Delivered,Chennai
+O01194,C026,2025-11-01 02:21:11,Cash on Delivery,Delivered,Coimbatore
+O01195,C292,2025-11-01 08:28:14,UPI,Returned,Thrissur
+O01196,C257,2025-11-01 14:35:18,Cash on Delivery,Delivered,Delhi
+O01197,C008,2025-11-01 20:42:21,Net Banking,Delivered,Bhopal
+O01198,C113,2025-11-02 02:49:25,UPI,Shipped,Jaipur
+O01199,C355,2025-11-02 08:56:28,Credit Card,Delivered,Mumbai
+O01200,C253,2025-11-02 15:03:32,Net Banking,Delivered,Hyderabad
+O01201,C180,2025-11-02 21:10:35,Credit Card,Delivered,Kochi
+O01202,C207,2025-11-03 03:17:39,Cash on Delivery,Delivered,Bengaluru
+O01203,C303,2025-11-03 09:24:42,Credit Card,Delivered,Coimbatore
+O01204,C127,2025-11-03 15:31:46,UPI,Delivered,Chennai
+O01205,C056,2025-11-03 21:38:49,UPI,Returned,Kozhikode
+O01206,C214,2025-11-04 03:45:53,UPI,Delivered,Bhopal
+O01207,C014,2025-11-04 09:52:56,Cash on Delivery,Delivered,Indore
+O01208,C474,2025-11-04 16:00:00,Credit Card,Delivered,Thiruvananthapuram
+O01209,C028,2025-11-04 22:07:04,Credit Card,Delivered,Bhopal
+O01210,C471,2025-11-05 04:14:07,Credit Card,Cancelled,Hyderabad
+O01211,C078,2025-11-05 10:21:11,Credit Card,Delivered,Bengaluru
+O01212,C216,2025-11-05 16:28:14,Cash on Delivery,Delivered,Thrissur
+O01213,C386,2025-11-05 22:35:18,Net Banking,Shipped,Jaipur
+O01214,C365,2025-11-06 04:42:21,Credit Card,Delivered,Kollam
+O01215,C154,2025-11-06 10:49:25,Cash on Delivery,Delivered,Kottayam
+O01216,C014,2025-11-06 16:56:28,Cash on Delivery,Delivered,Bengaluru
+O01217,C187,2025-11-06 23:03:32,Credit Card,Shipped,Indore
+O01218,C312,2025-11-07 05:10:35,Net Banking,Delivered,Kochi
+O01219,C371,2025-11-07 11:17:39,UPI,Shipped,Thrissur
+O01220,C007,2025-11-07 17:24:42,UPI,Delivered,Kochi
+O01221,C003,2025-11-07 23:31:46,Cash on Delivery,Delivered,Mumbai
+O01222,C111,2025-11-08 05:38:49,Credit Card,Shipped,Jaipur
+O01223,C407,2025-11-08 11:45:53,Cash on Delivery,Delivered,Bhopal
+O01224,C238,2025-11-08 17:52:56,Cash on Delivery,Delivered,Mumbai
+O01225,C363,2025-11-09 00:00:00,UPI,Delivered,Coimbatore
+O01226,C239,2025-11-09 06:07:04,Cash on Delivery,Delivered,Delhi
+O01227,C493,2025-11-09 12:14:07,Credit Card,Delivered,Thrissur
+O01228,C274,2025-11-09 18:21:11,Credit Card,Delivered,Indore
+O01229,C294,2025-11-10 00:28:14,Debit Card,Delivered,Hyderabad
+O01230,C227,2025-11-10 06:35:18,Net Banking,Delivered,Nashik
+O01231,C371,2025-11-10 12:42:21,UPI,Delivered,Chennai
+O01232,C015,2025-11-10 18:49:25,Credit Card,Delivered,Mumbai
+O01233,C192,2025-11-11 00:56:28,Debit Card,Delivered,Mumbai
+O01234,C473,2025-11-11 07:03:32,Debit Card,Shipped,Kottayam
+O01235,C119,2025-11-11 13:10:35,Debit Card,Delivered,Kochi
+O01236,C485,2025-11-11 19:17:39,UPI,Delivered,Kottayam
+O01237,C028,2025-11-12 01:24:42,UPI,Returned,Nashik
+O01238,C202,2025-11-12 07:31:46,UPI,Delivered,Kollam
+O01239,C039,2025-11-12 13:38:49,Cash on Delivery,Cancelled,Indore
+O01240,C441,2025-11-12 19:45:53,UPI,Delivered,Jaipur
+O01241,C273,2025-11-13 01:52:56,UPI,Delivered,Kolkata
+O01242,C231,2025-11-13 08:00:00,Net Banking,Delivered,Bhopal
+O01243,C086,2025-11-13 14:07:04,UPI,Delivered,Indore
+O01244,C474,2025-11-13 20:14:07,Net Banking,Delivered,Kollam
+O01245,C126,2025-11-14 02:21:11,Debit Card,Delivered,Thrissur
+O01246,C300,2025-11-14 08:28:14,Cash on Delivery,Delivered,Thiruvananthapuram
+O01247,C025,2025-11-14 14:35:18,UPI,Delivered,Bengaluru
+O01248,C145,2025-11-14 20:42:21,UPI,Delivered,Coimbatore
+O01249,C013,2025-11-15 02:49:25,Debit Card,Delivered,Hyderabad
+O01250,C212,2025-11-15 08:56:28,Cash on Delivery,Delivered,Coimbatore
+O01251,C025,2025-11-15 15:03:32,Debit Card,Delivered,Jaipur
+O01252,C068,2025-11-15 21:10:35,UPI,Returned,Delhi
+O01253,C394,2025-11-16 03:17:39,Debit Card,Delivered,Nashik
+O01254,C067,2025-11-16 09:24:42,Cash on Delivery,Cancelled,Kochi
+O01255,C233,2025-11-16 15:31:46,Debit Card,Delivered,Kochi
+O01256,C109,2025-11-16 21:38:49,Cash on Delivery,Delivered,Indore
+O01257,C146,2025-11-17 03:45:53,Cash on Delivery,Delivered,Kochi
+O01258,C111,2025-11-17 09:52:56,Debit Card,Delivered,Kottayam
+O01259,C228,2025-11-17 16:00:00,UPI,Delivered,Nashik
+O01260,C111,2025-11-17 22:07:04,Credit Card,Delivered,Kochi
+O01261,C470,2025-11-18 04:14:07,UPI,Delivered,Kollam
+O01262,C034,2025-11-18 10:21:11,Credit Card,Delivered,Chennai
+O01263,C111,2025-11-18 16:28:14,Credit Card,Delivered,Delhi
+O01264,C264,2025-11-18 22:35:18,UPI,Delivered,Hyderabad
+O01265,C424,2025-11-19 04:42:21,UPI,Delivered,Mysuru
+O01266,C369,2025-11-19 10:49:25,UPI,Shipped,Delhi
+O01267,C236,2025-11-19 16:56:28,Cash on Delivery,Delivered,Indore
+O01268,C083,2025-11-19 23:03:32,Net Banking,Delivered,Kochi
+O01269,C042,2025-11-20 05:10:35,UPI,Delivered,Pune
+O01270,C425,2025-11-20 11:17:39,Net Banking,Delivered,Kollam
+O01271,C101,2025-11-20 17:24:42,Credit Card,Delivered,Kottayam
+O01272,C006,2025-11-20 23:31:46,UPI,Delivered,Kochi
+O01273,C180,2025-11-21 05:38:49,UPI,Delivered,Kochi
+O01274,C282,2025-11-21 11:45:53,Credit Card,Delivered,Coimbatore
+O01275,C320,2025-11-21 17:52:56,Cash on Delivery,Cancelled,Coimbatore
+O01276,C226,2025-11-22 00:00:00,Debit Card,Cancelled,Kozhikode
+O01277,C443,2025-11-22 06:07:04,UPI,Delivered,Delhi
+O01278,C440,2025-11-22 12:14:07,UPI,Delivered,Ahmedabad
+O01279,C315,2025-11-22 18:21:11,Credit Card,Delivered,Mumbai
+O01280,C365,2025-11-23 00:28:14,UPI,Delivered,Jaipur
+O01281,C454,2025-11-23 06:35:18,UPI,Delivered,Thiruvananthapuram
+O01282,C229,2025-11-23 12:42:21,UPI,Delivered,Chennai
+O01283,C377,2025-11-23 18:49:25,Cash on Delivery,Cancelled,Delhi
+O01284,C289,2025-11-24 00:56:28,Net Banking,Delivered,Bhopal
+O01285,C437,2025-11-24 07:03:32,Credit Card,Delivered,Thrissur
+O01286,C150,2025-11-24 13:10:35,Net Banking,Delivered,Delhi
+O01287,C277,2025-11-24 19:17:39,UPI,Delivered,Delhi
+O01288,C198,2025-11-25 01:24:42,Credit Card,Delivered,Pune
+O01289,C070,2025-11-25 07:31:46,UPI,Returned,Kolkata
+O01290,C112,2025-11-25 13:38:49,Debit Card,Delivered,Jaipur
+O01291,C004,2025-11-25 19:45:53,Net Banking,Delivered,Kozhikode
+O01292,C350,2025-11-26 01:52:56,Debit Card,Delivered,Mumbai
+O01293,C331,2025-11-26 08:00:00,UPI,Delivered,Jaipur
+O01294,C446,2025-11-26 14:07:04,Debit Card,Delivered,Thrissur
+O01295,C318,2025-11-26 20:14:07,UPI,Delivered,Delhi
+O01296,C350,2025-11-27 02:21:11,Cash on Delivery,Delivered,Jaipur
+O01297,C095,2025-11-27 08:28:14,Credit Card,Shipped,Kollam
+O01298,C152,2025-11-27 14:35:18,Credit Card,Delivered,Bhopal
+O01299,C311,2025-11-27 20:42:21,Credit Card,Delivered,Coimbatore
+O01300,C137,2025-11-28 02:49:25,Debit Card,Delivered,Indore
+O01301,C247,2025-11-28 08:56:28,UPI,Delivered,Kochi
+O01302,C387,2025-11-28 15:03:32,Debit Card,Delivered,Hyderabad
+O01303,C243,2025-11-28 21:10:35,UPI,Delivered,Mumbai
+O01304,C031,2025-11-29 03:17:39,Debit Card,Delivered,Kolkata
+O01305,C040,2025-11-29 09:24:42,Cash on Delivery,Delivered,Kottayam
+O01306,C229,2025-11-29 15:31:46,Cash on Delivery,Delivered,Hyderabad
+O01307,C036,2025-11-29 21:38:49,Credit Card,Shipped,Thiruvananthapuram
+O01308,C408,2025-11-30 03:45:53,Credit Card,Delivered,Kochi
+O01309,C223,2025-11-30 09:52:56,UPI,Delivered,Chennai
+O01310,C006,2025-11-30 16:00:00,Cash on Delivery,Delivered,Pune
+O01311,C322,2025-11-30 22:07:04,UPI,Shipped,Delhi
+O01312,C468,2025-12-01 04:14:07,Credit Card,Delivered,Indore
+O01313,C220,2025-12-01 10:21:11,UPI,Delivered,Ahmedabad
+O01314,C075,2025-12-01 16:28:14,UPI,Delivered,Coimbatore
+O01315,C004,2025-12-01 22:35:18,Debit Card,Delivered,Pune
+O01316,C335,2025-12-02 04:42:21,UPI,Delivered,Bhopal
+O01317,C134,2025-12-02 10:49:25,Debit Card,Delivered,Chennai
+O01318,C118,2025-12-02 16:56:28,UPI,Delivered,Nashik
+O01319,C369,2025-12-02 23:03:32,UPI,Delivered,Kozhikode
+O01320,C094,2025-12-03 05:10:35,Credit Card,Delivered,Bhopal
+O01321,C486,2025-12-03 11:17:39,UPI,Delivered,Coimbatore
+O01322,C435,2025-12-03 17:24:42,UPI,Delivered,Hyderabad
+O01323,C062,2025-12-03 23:31:46,Debit Card,Delivered,Bengaluru
+O01324,C441,2025-12-04 05:38:49,UPI,Returned,Thrissur
+O01325,C194,2025-12-04 11:45:53,Cash on Delivery,Returned,Kolkata
+O01326,C335,2025-12-04 17:52:56,UPI,Shipped,Mumbai
+O01327,C203,2025-12-05 00:00:00,UPI,Delivered,Hyderabad
+O01328,C392,2025-12-05 06:07:04,Debit Card,Delivered,Kolkata
+O01329,C026,2025-12-05 12:14:07,UPI,Delivered,Thrissur
+O01330,C435,2025-12-05 18:21:11,UPI,Delivered,Delhi
+O01331,C173,2025-12-06 00:28:14,UPI,Delivered,Nashik
+O01332,C300,2025-12-06 06:35:18,UPI,Delivered,Mumbai
+O01333,C133,2025-12-06 12:42:21,Cash on Delivery,Delivered,Kozhikode
+O01334,C326,2025-12-06 18:49:25,UPI,Delivered,Chennai
+O01335,C410,2025-12-07 00:56:28,Cash on Delivery,Delivered,Kottayam
+O01336,C118,2025-12-07 07:03:32,Cash on Delivery,Cancelled,Mumbai
+O01337,C324,2025-12-07 13:10:35,Credit Card,Delivered,Hyderabad
+O01338,C275,2025-12-07 19:17:39,Net Banking,Delivered,Ahmedabad
+O01339,C212,2025-12-08 01:24:42,UPI,Cancelled,Kollam
+O01340,C225,2025-12-08 07:31:46,Net Banking,Delivered,Bhopal
+O01341,C020,2025-12-08 13:38:49,UPI,Delivered,Delhi
+O01342,C113,2025-12-08 19:45:53,Debit Card,Delivered,Kozhikode
+O01343,C140,2025-12-09 01:52:56,Credit Card,Delivered,Thrissur
+O01344,C047,2025-12-09 08:00:00,Credit Card,Shipped,Hyderabad
+O01345,C001,2025-12-09 14:07:04,Debit Card,Delivered,Hyderabad
+O01346,C090,2025-12-09 20:14:07,Debit Card,Delivered,Thrissur
+O01347,C142,2025-12-10 02:21:11,UPI,Delivered,Ahmedabad
+O01348,C320,2025-12-10 08:28:14,UPI,Delivered,Delhi
+O01349,C038,2025-12-10 14:35:18,Debit Card,Returned,Nashik
+O01350,C293,2025-12-10 20:42:21,Debit Card,Delivered,Kochi
+O01351,C382,2025-12-11 02:49:25,Net Banking,Delivered,Pune
+O01352,C139,2025-12-11 08:56:28,Cash on Delivery,Delivered,Thrissur
+O01353,C356,2025-12-11 15:03:32,Net Banking,Delivered,Mumbai
+O01354,C333,2025-12-11 21:10:35,Debit Card,Cancelled,Kollam
+O01355,C491,2025-12-12 03:17:39,UPI,Delivered,Thiruvananthapuram
+O01356,C259,2025-12-12 09:24:42,UPI,Delivered,Delhi
+O01357,C161,2025-12-12 15:31:46,Cash on Delivery,Delivered,Mysuru
+O01358,C390,2025-12-12 21:38:49,Debit Card,Delivered,Kottayam
+O01359,C178,2025-12-13 03:45:53,UPI,Delivered,Chennai
+O01360,C010,2025-12-13 09:52:56,UPI,Shipped,Nashik
+O01361,C261,2025-12-13 16:00:00,Net Banking,Delivered,Mumbai
+O01362,C407,2025-12-13 22:07:04,Credit Card,Cancelled,Hyderabad
+O01363,C138,2025-12-14 04:14:07,Credit Card,Delivered,Hyderabad
+O01364,C172,2025-12-14 10:21:11,Credit Card,Delivered,Thiruvananthapuram
+O01365,C386,2025-12-14 16:28:14,UPI,Delivered,Coimbatore
+O01366,C013,2025-12-14 22:35:18,UPI,Delivered,Pune
+O01367,C168,2025-12-15 04:42:21,UPI,Cancelled,Mysuru
+O01368,C130,2025-12-15 10:49:25,UPI,Delivered,Mumbai
+O01369,C084,2025-12-15 16:56:28,Cash on Delivery,Delivered,Coimbatore
+O01370,C321,2025-12-15 23:03:32,Credit Card,Delivered,Nashik
+O01371,C319,2025-12-16 05:10:35,Cash on Delivery,Delivered,Delhi
+O01372,C101,2025-12-16 11:17:39,Cash on Delivery,Delivered,Bengaluru
+O01373,C329,2025-12-16 17:24:42,UPI,Delivered,Kozhikode
+O01374,C273,2025-12-16 23:31:46,Debit Card,Delivered,Kolkata
+O01375,C265,2025-12-17 05:38:49,Credit Card,Delivered,Nashik
+O01376,C459,2025-12-17 11:45:53,Cash on Delivery,Delivered,Ahmedabad
+O01377,C399,2025-12-17 17:52:56,UPI,Delivered,Bengaluru
+O01378,C408,2025-12-18 00:00:00,Debit Card,Delivered,Chennai
+O01379,C038,2025-12-18 06:07:04,Debit Card,Delivered,Ahmedabad
+O01380,C419,2025-12-18 12:14:07,UPI,Returned,Nashik
+O01381,C094,2025-12-18 18:21:11,UPI,Delivered,Mysuru
+O01382,C095,2025-12-19 00:28:14,Debit Card,Delivered,Jaipur
+O01383,C305,2025-12-19 06:35:18,Debit Card,Delivered,Thiruvananthapuram
+O01384,C069,2025-12-19 12:42:21,UPI,Delivered,Jaipur
+O01385,C318,2025-12-19 18:49:25,Debit Card,Delivered,Jaipur
+O01386,C444,2025-12-20 00:56:28,Credit Card,Delivered,Mumbai
+O01387,C236,2025-12-20 07:03:32,Debit Card,Delivered,Kochi
+O01388,C434,2025-12-20 13:10:35,UPI,Delivered,Bhopal
+O01389,C334,2025-12-20 19:17:39,Cash on Delivery,Delivered,Hyderabad
+O01390,C373,2025-12-21 01:24:42,UPI,Shipped,Mumbai
+O01391,C376,2025-12-21 07:31:46,UPI,Cancelled,Kochi
+O01392,C459,2025-12-21 13:38:49,UPI,Delivered,Bengaluru
+O01393,C137,2025-12-21 19:45:53,UPI,Delivered,Hyderabad
+O01394,C418,2025-12-22 01:52:56,Credit Card,Cancelled,Bhopal
+O01395,C076,2025-12-22 08:00:00,UPI,Delivered,Indore
+O01396,C483,2025-12-22 14:07:04,Cash on Delivery,Shipped,Bhopal
+O01397,C035,2025-12-22 20:14:07,UPI,Delivered,Mumbai
+O01398,C001,2025-12-23 02:21:11,UPI,Cancelled,Hyderabad
+O01399,C296,2025-12-23 08:28:14,UPI,Delivered,Ahmedabad
+O01400,C320,2025-12-23 14:35:18,UPI,Cancelled,Delhi
+O01401,C406,2025-12-23 20:42:21,UPI,Delivered,Kottayam
+O01402,C060,2025-12-24 02:49:25,Credit Card,Delivered,Mumbai
+O01403,C320,2025-12-24 08:56:28,Credit Card,Cancelled,Delhi
+O01404,C349,2025-12-24 15:03:32,Credit Card,Delivered,Chennai
+O01405,C328,2025-12-24 21:10:35,Credit Card,Delivered,Jaipur
+O01406,C267,2025-12-25 03:17:39,Credit Card,Delivered,Delhi
+O01407,C361,2025-12-25 09:24:42,UPI,Delivered,Pune
+O01408,C229,2025-12-25 15:31:46,Credit Card,Cancelled,Kollam
+O01409,C270,2025-12-25 21:38:49,Net Banking,Delivered,Mumbai
+O01410,C316,2025-12-26 03:45:53,Credit Card,Shipped,Thrissur
+O01411,C286,2025-12-26 09:52:56,Debit Card,Delivered,Thrissur
+O01412,C291,2025-12-26 16:00:00,UPI,Delivered,Kozhikode
+O01413,C213,2025-12-26 22:07:04,Cash on Delivery,Delivered,Delhi
+O01414,C165,2025-12-27 04:14:07,Cash on Delivery,Delivered,Bengaluru
+O01415,C005,2025-12-27 10:21:11,Credit Card,Delivered,Thrissur
+O01416,C339,2025-12-27 16:28:14,Net Banking,Returned,Nashik
+O01417,C379,2025-12-27 22:35:18,UPI,Delivered,Pune
+O01418,C078,2025-12-28 04:42:21,UPI,Delivered,Kochi
+O01419,C410,2025-12-28 10:49:25,Cash on Delivery,Returned,Ahmedabad
+O01420,C062,2025-12-28 16:56:28,Cash on Delivery,Delivered,Kolkata
+O01421,C132,2025-12-28 23:03:32,UPI,Shipped,Jaipur
+O01422,C089,2025-12-29 05:10:35,UPI,Delivered,Mumbai
+O01423,C237,2025-12-29 11:17:39,UPI,Shipped,Kolkata
+O01424,C042,2025-12-29 17:24:42,UPI,Delivered,Kozhikode
+O01425,C089,2025-12-29 23:31:46,Cash on Delivery,Cancelled,Delhi
+O01426,C402,2025-12-30 05:38:49,Credit Card,Delivered,Pune
+O01427,C296,2025-12-30 11:45:53,UPI,Delivered,Coimbatore
+O01428,C328,2025-12-30 17:52:56,UPI,Delivered,Mysuru
+O01429,C295,2025-12-31 00:00:00,UPI,Delivered,Indore
+O01430,C104,2025-12-31 06:07:04,UPI,Delivered,Kollam
+O01431,C014,2025-12-31 12:14:07,Debit Card,Delivered,Thrissur
+O01432,C288,2025-12-31 18:21:11,Net Banking,Delivered,Kolkata
+O01433,C179,2026-01-01 00:28:14,Cash on Delivery,Delivered,Ahmedabad
+O01434,C125,2026-01-01 06:35:18,UPI,Delivered,Thrissur
+O01435,C422,2026-01-01 12:42:21,Cash on Delivery,Delivered,Indore
+O01436,C353,2026-01-01 18:49:25,Cash on Delivery,Delivered,Delhi
+O01437,C023,2026-01-02 00:56:28,Cash on Delivery,Delivered,Pune
+O01438,C063,2026-01-02 07:03:32,Credit Card,Delivered,Kozhikode
+O01439,C143,2026-01-02 13:10:35,Credit Card,Delivered,Coimbatore
+O01440,C481,2026-01-02 19:17:39,UPI,Delivered,Indore
+O01441,C153,2026-01-03 01:24:42,UPI,Delivered,Coimbatore
+O01442,C145,2026-01-03 07:31:46,UPI,Cancelled,Jaipur
+O01443,C225,2026-01-03 13:38:49,UPI,Delivered,Kochi
+O01444,C495,2026-01-03 19:45:53,Credit Card,Delivered,Kozhikode
+O01445,C450,2026-01-04 01:52:56,Debit Card,Delivered,Pune
+O01446,C462,2026-01-04 08:00:00,Credit Card,Delivered,Kochi
+O01447,C309,2026-01-04 14:07:04,UPI,Delivered,Kozhikode
+O01448,C104,2026-01-04 20:14:07,Net Banking,Delivered,Kozhikode
+O01449,C104,2026-01-05 02:21:11,Net Banking,Delivered,Kollam
+O01450,C435,2026-01-05 08:28:14,Cash on Delivery,Delivered,Ahmedabad
+O01451,C039,2026-01-05 14:35:18,Net Banking,Delivered,Kochi
+O01452,C435,2026-01-05 20:42:21,Credit Card,Delivered,Thrissur
+O01453,C198,2026-01-06 02:49:25,Net Banking,Delivered,Thrissur
+O01454,C134,2026-01-06 08:56:28,UPI,Delivered,Delhi
+O01455,C067,2026-01-06 15:03:32,UPI,Returned,Bhopal
+O01456,C391,2026-01-06 21:10:35,UPI,Delivered,Jaipur
+O01457,C179,2026-01-07 03:17:39,UPI,Delivered,Kochi
+O01458,C456,2026-01-07 09:24:42,UPI,Cancelled,Hyderabad
+O01459,C042,2026-01-07 15:31:46,Debit Card,Delivered,Kozhikode
+O01460,C448,2026-01-07 21:38:49,Cash on Delivery,Delivered,Chennai
+O01461,C500,2026-01-08 03:45:53,Credit Card,Shipped,Thrissur
+O01462,C015,2026-01-08 09:52:56,UPI,Shipped,Kollam
+O01463,C111,2026-01-08 16:00:00,Cash on Delivery,Delivered,Mumbai
+O01464,C157,2026-01-08 22:07:04,Debit Card,Delivered,Chennai
+O01465,C289,2026-01-09 04:14:07,Credit Card,Delivered,Kozhikode
+O01466,C500,2026-01-09 10:21:11,Debit Card,Returned,Kottayam
+O01467,C478,2026-01-09 16:28:14,UPI,Delivered,Mumbai
+O01468,C231,2026-01-09 22:35:18,UPI,Delivered,Chennai
+O01469,C411,2026-01-10 04:42:21,Net Banking,Shipped,Indore
+O01470,C420,2026-01-10 10:49:25,UPI,Delivered,Kozhikode
+O01471,C157,2026-01-10 16:56:28,Credit Card,Delivered,Kochi
+O01472,C038,2026-01-10 23:03:32,Cash on Delivery,Delivered,Kolkata
+O01473,C441,2026-01-11 05:10:35,Debit Card,Delivered,Ahmedabad
+O01474,C097,2026-01-11 11:17:39,UPI,Shipped,Bhopal
+O01475,C485,2026-01-11 17:24:42,UPI,Delivered,Delhi
+O01476,C411,2026-01-11 23:31:46,UPI,Shipped,Bhopal
+O01477,C439,2026-01-12 05:38:49,Debit Card,Delivered,Delhi
+O01478,C289,2026-01-12 11:45:53,Credit Card,Delivered,Bhopal
+O01479,C254,2026-01-12 17:52:56,UPI,Returned,Pune
+O01480,C196,2026-01-13 00:00:00,Net Banking,Delivered,Hyderabad
+O01481,C086,2026-01-13 06:07:04,Credit Card,Delivered,Kochi
+O01482,C322,2026-01-13 12:14:07,UPI,Delivered,Nashik
+O01483,C010,2026-01-13 18:21:11,Credit Card,Shipped,Kottayam
+O01484,C005,2026-01-14 00:28:14,Debit Card,Delivered,Delhi
+O01485,C123,2026-01-14 06:35:18,UPI,Delivered,Pune
+O01486,C330,2026-01-14 12:42:21,UPI,Delivered,Ahmedabad
+O01487,C353,2026-01-14 18:49:25,Cash on Delivery,Delivered,Kottayam
+O01488,C118,2026-01-15 00:56:28,Credit Card,Shipped,Bengaluru
+O01489,C294,2026-01-15 07:03:32,Credit Card,Delivered,Kochi
+O01490,C397,2026-01-15 13:10:35,Credit Card,Delivered,Kochi
+O01491,C159,2026-01-15 19:17:39,UPI,Delivered,Kollam
+O01492,C303,2026-01-16 01:24:42,UPI,Delivered,Kottayam
+O01493,C228,2026-01-16 07:31:46,Credit Card,Cancelled,Hyderabad
+O01494,C365,2026-01-16 13:38:49,UPI,Delivered,Hyderabad
+O01495,C216,2026-01-16 19:45:53,UPI,Returned,Bhopal
+O01496,C436,2026-01-17 01:52:56,Cash on Delivery,Delivered,Kochi
+O01497,C184,2026-01-17 08:00:00,Net Banking,Delivered,Nashik
+O01498,C015,2026-01-17 14:07:04,Cash on Delivery,Cancelled,Kolkata
+O01499,C157,2026-01-17 20:14:07,Cash on Delivery,Delivered,Coimbatore
+O01500,C136,2026-01-18 02:21:11,UPI,Delivered,Coimbatore
+O01501,C261,2026-01-18 08:28:14,Net Banking,Returned,Chennai
+O01502,C157,2026-01-18 14:35:18,UPI,Delivered,Nashik
+O01503,C047,2026-01-18 20:42:21,Net Banking,Delivered,Kozhikode
+O01504,C324,2026-01-19 02:49:25,Net Banking,Delivered,Jaipur
+O01505,C332,2026-01-19 08:56:28,Debit Card,Delivered,Kolkata
+O01506,C173,2026-01-19 15:03:32,Net Banking,Delivered,Thiruvananthapuram
+O01507,C130,2026-01-19 21:10:35,Credit Card,Delivered,Delhi
+O01508,C411,2026-01-20 03:17:39,UPI,Delivered,Ahmedabad
+O01509,C095,2026-01-20 09:24:42,Credit Card,Delivered,Nashik
+O01510,C115,2026-01-20 15:31:46,Credit Card,Delivered,Nashik
+O01511,C243,2026-01-20 21:38:49,UPI,Delivered,Kochi
+O01512,C420,2026-01-21 03:45:53,Debit Card,Delivered,Thiruvananthapuram
+O01513,C292,2026-01-21 09:52:56,Net Banking,Delivered,Kochi
+O01514,C282,2026-01-21 16:00:00,UPI,Delivered,Kollam
+O01515,C299,2026-01-21 22:07:04,Cash on Delivery,Shipped,Kozhikode
+O01516,C283,2026-01-22 04:14:07,Net Banking,Delivered,Bengaluru
+O01517,C069,2026-01-22 10:21:11,Net Banking,Delivered,Nashik
+O01518,C148,2026-01-22 16:28:14,Net Banking,Cancelled,Jaipur
+O01519,C011,2026-01-22 22:35:18,Credit Card,Delivered,Bengaluru
+O01520,C254,2026-01-23 04:42:21,Net Banking,Delivered,Kochi
+O01521,C330,2026-01-23 10:49:25,Debit Card,Delivered,Kollam
+O01522,C360,2026-01-23 16:56:28,UPI,Delivered,Delhi
+O01523,C038,2026-01-23 23:03:32,Credit Card,Cancelled,Mysuru
+O01524,C134,2026-01-24 05:10:35,Debit Card,Cancelled,Indore
+O01525,C200,2026-01-24 11:17:39,UPI,Delivered,Kolkata
+O01526,C023,2026-01-24 17:24:42,Debit Card,Delivered,Thrissur
+O01527,C303,2026-01-24 23:31:46,Debit Card,Cancelled,Thiruvananthapuram
+O01528,C346,2026-01-25 05:38:49,UPI,Returned,Kollam
+O01529,C302,2026-01-25 11:45:53,Credit Card,Delivered,Kochi
+O01530,C363,2026-01-25 17:52:56,Cash on Delivery,Delivered,Kollam
+O01531,C396,2026-01-26 00:00:00,Credit Card,Delivered,Kottayam
+O01532,C218,2026-01-26 06:07:04,UPI,Returned,Thiruvananthapuram
+O01533,C141,2026-01-26 12:14:07,UPI,Delivered,Kochi
+O01534,C104,2026-01-26 18:21:11,UPI,Delivered,Thrissur
+O01535,C446,2026-01-27 00:28:14,Net Banking,Delivered,Bengaluru
+O01536,C210,2026-01-27 06:35:18,UPI,Delivered,Kochi
+O01537,C473,2026-01-27 12:42:21,Debit Card,Delivered,Kochi
+O01538,C481,2026-01-27 18:49:25,UPI,Returned,Mysuru
+O01539,C111,2026-01-28 00:56:28,UPI,Delivered,Kolkata
+O01540,C104,2026-01-28 07:03:32,Cash on Delivery,Delivered,Hyderabad
+O01541,C316,2026-01-28 13:10:35,Debit Card,Delivered,Nashik
+O01542,C171,2026-01-28 19:17:39,UPI,Delivered,Jaipur
+O01543,C460,2026-01-29 01:24:42,Credit Card,Delivered,Kolkata
+O01544,C492,2026-01-29 07:31:46,UPI,Delivered,Coimbatore
+O01545,C356,2026-01-29 13:38:49,Credit Card,Delivered,Pune
+O01546,C496,2026-01-29 19:45:53,Debit Card,Delivered,Kochi
+O01547,C324,2026-01-30 01:52:56,UPI,Delivered,Coimbatore
+O01548,C133,2026-01-30 08:00:00,UPI,Delivered,Chennai
+O01549,C376,2026-01-30 14:07:04,Credit Card,Returned,Kozhikode
+O01550,C293,2026-01-30 20:14:07,Net Banking,Cancelled,Ahmedabad
+O01551,C328,2026-01-31 02:21:11,Net Banking,Delivered,Chennai
+O01552,C127,2026-01-31 08:28:14,UPI,Delivered,Coimbatore
+O01553,C106,2026-01-31 14:35:18,Cash on Delivery,Cancelled,Ahmedabad
+O01554,C497,2026-01-31 20:42:21,UPI,Delivered,Hyderabad
+O01555,C092,2026-02-01 02:49:25,Credit Card,Shipped,Jaipur
+O01556,C287,2026-02-01 08:56:28,Debit Card,Cancelled,Bhopal
+O01557,C378,2026-02-01 15:03:32,Net Banking,Delivered,Kozhikode
+O01558,C393,2026-02-01 21:10:35,Net Banking,Delivered,Thiruvananthapuram
+O01559,C051,2026-02-02 03:17:39,Credit Card,Returned,Kochi
+O01560,C029,2026-02-02 09:24:42,UPI,Delivered,Jaipur
+O01561,C462,2026-02-02 15:31:46,Cash on Delivery,Delivered,Chennai
+O01562,C296,2026-02-02 21:38:49,UPI,Delivered,Nashik
+O01563,C297,2026-02-03 03:45:53,Credit Card,Delivered,Thiruvananthapuram
+O01564,C214,2026-02-03 09:52:56,UPI,Delivered,Bengaluru
+O01565,C267,2026-02-03 16:00:00,Debit Card,Delivered,Hyderabad
+O01566,C407,2026-02-03 22:07:04,UPI,Returned,Ahmedabad
+O01567,C257,2026-02-04 04:14:07,UPI,Delivered,Indore
+O01568,C302,2026-02-04 10:21:11,Net Banking,Delivered,Mumbai
+O01569,C101,2026-02-04 16:28:14,UPI,Delivered,Kochi
+O01570,C405,2026-02-04 22:35:18,Credit Card,Delivered,Bengaluru
+O01571,C346,2026-02-05 04:42:21,UPI,Delivered,Kolkata
+O01572,C110,2026-02-05 10:49:25,UPI,Returned,Mysuru
+O01573,C420,2026-02-05 16:56:28,UPI,Shipped,Coimbatore
+O01574,C182,2026-02-05 23:03:32,UPI,Delivered,Kollam
+O01575,C471,2026-02-06 05:10:35,Cash on Delivery,Delivered,Chennai
+O01576,C313,2026-02-06 11:17:39,UPI,Delivered,Kochi
+O01577,C001,2026-02-06 17:24:42,Net Banking,Delivered,Thiruvananthapuram
+O01578,C319,2026-02-06 23:31:46,Credit Card,Delivered,Ahmedabad
+O01579,C438,2026-02-07 05:38:49,Credit Card,Delivered,Bhopal
+O01580,C055,2026-02-07 11:45:53,Credit Card,Returned,Kolkata
+O01581,C371,2026-02-07 17:52:56,Credit Card,Delivered,Coimbatore
+O01582,C424,2026-02-08 00:00:00,Debit Card,Delivered,Chennai
+O01583,C399,2026-02-08 06:07:04,UPI,Delivered,Coimbatore
+O01584,C149,2026-02-08 12:14:07,UPI,Delivered,Kottayam
+O01585,C431,2026-02-08 18:21:11,Cash on Delivery,Delivered,Delhi
+O01586,C457,2026-02-09 00:28:14,Net Banking,Delivered,Kottayam
+O01587,C309,2026-02-09 06:35:18,Cash on Delivery,Delivered,Thrissur
+O01588,C137,2026-02-09 12:42:21,Credit Card,Shipped,Kolkata
+O01589,C202,2026-02-09 18:49:25,Cash on Delivery,Delivered,Kozhikode
+O01590,C436,2026-02-10 00:56:28,Credit Card,Shipped,Ahmedabad
+O01591,C313,2026-02-10 07:03:32,Credit Card,Delivered,Jaipur
+O01592,C117,2026-02-10 13:10:35,UPI,Delivered,Thrissur
+O01593,C154,2026-02-10 19:17:39,Credit Card,Shipped,Mysuru
+O01594,C425,2026-02-11 01:24:42,UPI,Delivered,Delhi
+O01595,C291,2026-02-11 07:31:46,UPI,Delivered,Kollam
+O01596,C063,2026-02-11 13:38:49,Cash on Delivery,Delivered,Nashik
+O01597,C244,2026-02-11 19:45:53,UPI,Delivered,Kochi
+O01598,C025,2026-02-12 01:52:56,UPI,Delivered,Nashik
+O01599,C090,2026-02-12 08:00:00,UPI,Delivered,Thrissur
+O01600,C075,2026-02-12 14:07:04,Net Banking,Delivered,Bhopal
+O01601,C294,2026-02-12 20:14:07,Credit Card,Delivered,Kozhikode
+O01602,C386,2026-02-13 02:21:11,Credit Card,Returned,Kollam
+O01603,C391,2026-02-13 08:28:14,Cash on Delivery,Delivered,Bengaluru
+O01604,C210,2026-02-13 14:35:18,Cash on Delivery,Shipped,Kochi
+O01605,C475,2026-02-13 20:42:21,UPI,Delivered,Pune
+O01606,C418,2026-02-14 02:49:25,Debit Card,Delivered,Mumbai
+O01607,C347,2026-02-14 08:56:28,Cash on Delivery,Shipped,Mysuru
+O01608,C017,2026-02-14 15:03:32,Debit Card,Delivered,Kottayam
+O01609,C128,2026-02-14 21:10:35,UPI,Delivered,Thiruvananthapuram
+O01610,C427,2026-02-15 03:17:39,Cash on Delivery,Delivered,Ahmedabad
+O01611,C443,2026-02-15 09:24:42,Credit Card,Delivered,Kolkata
+O01612,C364,2026-02-15 15:31:46,UPI,Delivered,Kolkata
+O01613,C251,2026-02-15 21:38:49,Credit Card,Delivered,Bhopal
+O01614,C179,2026-02-16 03:45:53,UPI,Shipped,Kochi
+O01615,C182,2026-02-16 09:52:56,UPI,Delivered,Coimbatore
+O01616,C152,2026-02-16 16:00:00,Cash on Delivery,Returned,Hyderabad
+O01617,C025,2026-02-16 22:07:04,UPI,Returned,Thrissur
+O01618,C455,2026-02-17 04:14:07,Credit Card,Delivered,Mumbai
+O01619,C180,2026-02-17 10:21:11,Credit Card,Delivered,Hyderabad
+O01620,C198,2026-02-17 16:28:14,UPI,Cancelled,Kolkata
+O01621,C344,2026-02-17 22:35:18,Net Banking,Returned,Kochi
+O01622,C161,2026-02-18 04:42:21,UPI,Delivered,Hyderabad
+O01623,C177,2026-02-18 10:49:25,UPI,Delivered,Ahmedabad
+O01624,C285,2026-02-18 16:56:28,UPI,Delivered,Chennai
+O01625,C063,2026-02-18 23:03:32,UPI,Delivered,Chennai
+O01626,C491,2026-02-19 05:10:35,UPI,Delivered,Chennai
+O01627,C150,2026-02-19 11:17:39,Debit Card,Delivered,Delhi
+O01628,C154,2026-02-19 17:24:42,Net Banking,Delivered,Pune
+O01629,C156,2026-02-19 23:31:46,UPI,Delivered,Nashik
+O01630,C370,2026-02-20 05:38:49,Debit Card,Delivered,Mysuru
+O01631,C469,2026-02-20 11:45:53,Debit Card,Delivered,Hyderabad
+O01632,C049,2026-02-20 17:52:56,Cash on Delivery,Delivered,Jaipur
+O01633,C455,2026-02-21 00:00:00,Credit Card,Delivered,Kochi
+O01634,C337,2026-02-21 06:07:04,UPI,Delivered,Kochi
+O01635,C084,2026-02-21 12:14:07,UPI,Delivered,Pune
+O01636,C361,2026-02-21 18:21:11,Debit Card,Delivered,Kottayam
+O01637,C177,2026-02-22 00:28:14,Cash on Delivery,Returned,Chennai
+O01638,C148,2026-02-22 06:35:18,UPI,Delivered,Kollam
+O01639,C118,2026-02-22 12:42:21,UPI,Delivered,Hyderabad
+O01640,C342,2026-02-22 18:49:25,Net Banking,Delivered,Jaipur
+O01641,C476,2026-02-23 00:56:28,Cash on Delivery,Returned,Delhi
+O01642,C063,2026-02-23 07:03:32,Net Banking,Delivered,Jaipur
+O01643,C189,2026-02-23 13:10:35,Debit Card,Delivered,Kochi
+O01644,C360,2026-02-23 19:17:39,Credit Card,Delivered,Ahmedabad
+O01645,C049,2026-02-24 01:24:42,Credit Card,Delivered,Mysuru
+O01646,C327,2026-02-24 07:31:46,Debit Card,Delivered,Kozhikode
+O01647,C257,2026-02-24 13:38:49,UPI,Delivered,Kollam
+O01648,C224,2026-02-24 19:45:53,Credit Card,Delivered,Mysuru
+O01649,C141,2026-02-25 01:52:56,Debit Card,Delivered,Ahmedabad
+O01650,C478,2026-02-25 08:00:00,UPI,Delivered,Jaipur
+O01651,C215,2026-02-25 14:07:04,Cash on Delivery,Delivered,Jaipur
+O01652,C435,2026-02-25 20:14:07,Credit Card,Shipped,Kochi
+O01653,C379,2026-02-26 02:21:11,Net Banking,Delivered,Indore
+O01654,C440,2026-02-26 08:28:14,UPI,Shipped,Jaipur
+O01655,C211,2026-02-26 14:35:18,UPI,Delivered,Bengaluru
+O01656,C318,2026-02-26 20:42:21,Debit Card,Delivered,Hyderabad
+O01657,C032,2026-02-27 02:49:25,UPI,Delivered,Hyderabad
+O01658,C158,2026-02-27 08:56:28,Debit Card,Returned,Indore
+O01659,C285,2026-02-27 15:03:32,Debit Card,Delivered,Kottayam
+O01660,C305,2026-02-27 21:10:35,UPI,Delivered,Chennai
+O01661,C429,2026-02-28 03:17:39,Credit Card,Delivered,Bengaluru
+O01662,C477,2026-02-28 09:24:42,Credit Card,Delivered,Bhopal
+O01663,C286,2026-02-28 15:31:46,UPI,Delivered,Mumbai
+O01664,C144,2026-02-28 21:38:49,Net Banking,Delivered,Hyderabad
+O01665,C424,2026-03-01 03:45:53,Cash on Delivery,Delivered,Kottayam
+O01666,C019,2026-03-01 09:52:56,Debit Card,Delivered,Hyderabad
+O01667,C018,2026-03-01 16:00:00,Debit Card,Delivered,Kolkata
+O01668,C257,2026-03-01 22:07:04,Credit Card,Delivered,Hyderabad
+O01669,C078,2026-03-02 04:14:07,Net Banking,Delivered,Pune
+O01670,C371,2026-03-02 10:21:11,Debit Card,Delivered,Delhi
+O01671,C175,2026-03-02 16:28:14,Debit Card,Delivered,Kollam
+O01672,C498,2026-03-02 22:35:18,Cash on Delivery,Delivered,Nashik
+O01673,C194,2026-03-03 04:42:21,UPI,Returned,Mysuru
+O01674,C476,2026-03-03 10:49:25,Cash on Delivery,Returned,Kollam
+O01675,C113,2026-03-03 16:56:28,UPI,Shipped,Pune
+O01676,C114,2026-03-03 23:03:32,UPI,Delivered,Chennai
+O01677,C222,2026-03-04 05:10:35,UPI,Delivered,Kozhikode
+O01678,C166,2026-03-04 11:17:39,Net Banking,Delivered,Kozhikode
+O01679,C435,2026-03-04 17:24:42,Cash on Delivery,Delivered,Kochi
+O01680,C319,2026-03-04 23:31:46,Debit Card,Delivered,Jaipur
+O01681,C132,2026-03-05 05:38:49,Debit Card,Delivered,Pune
+O01682,C385,2026-03-05 11:45:53,Credit Card,Shipped,Chennai
+O01683,C264,2026-03-05 17:52:56,Net Banking,Shipped,Chennai
+O01684,C413,2026-03-06 00:00:00,Credit Card,Delivered,Jaipur
+O01685,C055,2026-03-06 06:07:04,Credit Card,Delivered,Jaipur
+O01686,C359,2026-03-06 12:14:07,UPI,Delivered,Bengaluru
+O01687,C131,2026-03-06 18:21:11,Cash on Delivery,Delivered,Thrissur
+O01688,C288,2026-03-07 00:28:14,Debit Card,Delivered,Nashik
+O01689,C266,2026-03-07 06:35:18,Credit Card,Delivered,Delhi
+O01690,C458,2026-03-07 12:42:21,UPI,Delivered,Thiruvananthapuram
+O01691,C467,2026-03-07 18:49:25,Cash on Delivery,Delivered,Bhopal
+O01692,C366,2026-03-08 00:56:28,UPI,Delivered,Kozhikode
+O01693,C162,2026-03-08 07:03:32,Debit Card,Delivered,Kollam
+O01694,C380,2026-03-08 13:10:35,Net Banking,Delivered,Bhopal
+O01695,C481,2026-03-08 19:17:39,Credit Card,Shipped,Kozhikode
+O01696,C087,2026-03-09 01:24:42,UPI,Delivered,Bengaluru
+O01697,C055,2026-03-09 07:31:46,Debit Card,Delivered,Jaipur
+O01698,C476,2026-03-09 13:38:49,Cash on Delivery,Delivered,Nashik
+O01699,C288,2026-03-09 19:45:53,Credit Card,Delivered,Coimbatore
+O01700,C178,2026-03-10 01:52:56,Net Banking,Returned,Nashik
+O01701,C391,2026-03-10 08:00:00,UPI,Delivered,Hyderabad
+O01702,C349,2026-03-10 14:07:04,Credit Card,Delivered,Chennai
+O01703,C008,2026-03-10 20:14:07,Debit Card,Delivered,Thiruvananthapuram
+O01704,C321,2026-03-11 02:21:11,Cash on Delivery,Cancelled,Kollam
+O01705,C313,2026-03-11 08:28:14,UPI,Delivered,Delhi
+O01706,C247,2026-03-11 14:35:18,Cash on Delivery,Delivered,Thrissur
+O01707,C323,2026-03-11 20:42:21,Credit Card,Delivered,Delhi
+O01708,C472,2026-03-12 02:49:25,Credit Card,Delivered,Chennai
+O01709,C471,2026-03-12 08:56:28,UPI,Delivered,Kolkata
+O01710,C443,2026-03-12 15:03:32,Cash on Delivery,Delivered,Thiruvananthapuram
+O01711,C255,2026-03-12 21:10:35,UPI,Delivered,Jaipur
+O01712,C328,2026-03-13 03:17:39,UPI,Cancelled,Mumbai
+O01713,C054,2026-03-13 09:24:42,UPI,Delivered,Nashik
+O01714,C249,2026-03-13 15:31:46,Cash on Delivery,Delivered,Mysuru
+O01715,C239,2026-03-13 21:38:49,Debit Card,Delivered,Kochi
+O01716,C229,2026-03-14 03:45:53,Cash on Delivery,Delivered,Delhi
+O01717,C067,2026-03-14 09:52:56,UPI,Delivered,Pune
+O01718,C051,2026-03-14 16:00:00,Debit Card,Delivered,Thrissur
+O01719,C097,2026-03-14 22:07:04,Credit Card,Delivered,Nashik
+O01720,C092,2026-03-15 04:14:07,Cash on Delivery,Delivered,Chennai
+O01721,C495,2026-03-15 10:21:11,Net Banking,Delivered,Bengaluru
+O01722,C264,2026-03-15 16:28:14,UPI,Delivered,Kollam
+O01723,C418,2026-03-15 22:35:18,Debit Card,Delivered,Kollam
+O01724,C291,2026-03-16 04:42:21,UPI,Delivered,Delhi
+O01725,C096,2026-03-16 10:49:25,Credit Card,Delivered,Chennai
+O01726,C088,2026-03-16 16:56:28,UPI,Cancelled,Kottayam
+O01727,C078,2026-03-16 23:03:32,UPI,Shipped,Ahmedabad
+O01728,C288,2026-03-17 05:10:35,UPI,Delivered,Hyderabad
+O01729,C120,2026-03-17 11:17:39,Debit Card,Delivered,Thiruvananthapuram
+O01730,C302,2026-03-17 17:24:42,UPI,Delivered,Coimbatore
+O01731,C491,2026-03-17 23:31:46,Debit Card,Shipped,Hyderabad
+O01732,C400,2026-03-18 05:38:49,Credit Card,Delivered,Kollam
+O01733,C452,2026-03-18 11:45:53,UPI,Delivered,Indore
+O01734,C500,2026-03-18 17:52:56,Cash on Delivery,Delivered,Nashik
+O01735,C165,2026-03-19 00:00:00,UPI,Shipped,Nashik
+O01736,C182,2026-03-19 06:07:04,Credit Card,Delivered,Nashik
+O01737,C469,2026-03-19 12:14:07,Debit Card,Delivered,Indore
+O01738,C398,2026-03-19 18:21:11,UPI,Delivered,Bhopal
+O01739,C223,2026-03-20 00:28:14,UPI,Delivered,Mysuru
+O01740,C311,2026-03-20 06:35:18,UPI,Delivered,Mumbai
+O01741,C432,2026-03-20 12:42:21,Net Banking,Delivered,Jaipur
+O01742,C466,2026-03-20 18:49:25,Debit Card,Delivered,Thrissur
+O01743,C007,2026-03-21 00:56:28,Debit Card,Delivered,Coimbatore
+O01744,C330,2026-03-21 07:03:32,Debit Card,Delivered,Kochi
+O01745,C263,2026-03-21 13:10:35,UPI,Delivered,Kollam
+O01746,C161,2026-03-21 19:17:39,Credit Card,Delivered,Nashik
+O01747,C151,2026-03-22 01:24:42,Debit Card,Delivered,Kochi
+O01748,C085,2026-03-22 07:31:46,UPI,Shipped,Mysuru
+O01749,C147,2026-03-22 13:38:49,UPI,Delivered,Kozhikode
+O01750,C112,2026-03-22 19:45:53,UPI,Delivered,Kozhikode
+O01751,C381,2026-03-23 01:52:56,Credit Card,Delivered,Bengaluru
+O01752,C403,2026-03-23 08:00:00,Net Banking,Shipped,Thrissur
+O01753,C036,2026-03-23 14:07:04,UPI,Delivered,Kozhikode
+O01754,C285,2026-03-23 20:14:07,Credit Card,Delivered,Indore
+O01755,C188,2026-03-24 02:21:11,UPI,Delivered,Mysuru
+O01756,C082,2026-03-24 08:28:14,Net Banking,Delivered,Kozhikode
+O01757,C002,2026-03-24 14:35:18,UPI,Shipped,Bengaluru
+O01758,C385,2026-03-24 20:42:21,Credit Card,Shipped,Jaipur
+O01759,C303,2026-03-25 02:49:25,Debit Card,Delivered,Mumbai
+O01760,C197,2026-03-25 08:56:28,Debit Card,Delivered,Mumbai
+O01761,C404,2026-03-25 15:03:32,Credit Card,Delivered,Delhi
+O01762,C011,2026-03-25 21:10:35,UPI,Delivered,Kottayam
+O01763,C234,2026-03-26 03:17:39,Credit Card,Delivered,Mysuru
+O01764,C386,2026-03-26 09:24:42,UPI,Delivered,Kochi
+O01765,C195,2026-03-26 15:31:46,UPI,Delivered,Coimbatore
+O01766,C471,2026-03-26 21:38:49,Credit Card,Delivered,Ahmedabad
+O01767,C119,2026-03-27 03:45:53,UPI,Cancelled,Kozhikode
+O01768,C396,2026-03-27 09:52:56,UPI,Delivered,Thrissur
+O01769,C020,2026-03-27 16:00:00,Debit Card,Shipped,Mumbai
+O01770,C261,2026-03-27 22:07:04,Net Banking,Delivered,Indore
+O01771,C293,2026-03-28 04:14:07,Debit Card,Delivered,Kochi
+O01772,C422,2026-03-28 10:21:11,UPI,Delivered,Chennai
+O01773,C256,2026-03-28 16:28:14,UPI,Delivered,Mumbai
+O01774,C222,2026-03-28 22:35:18,Net Banking,Delivered,Ahmedabad
+O01775,C393,2026-03-29 04:42:21,UPI,Delivered,Nashik
+O01776,C226,2026-03-29 10:49:25,UPI,Returned,Hyderabad
+O01777,C053,2026-03-29 16:56:28,Credit Card,Delivered,Thrissur
+O01778,C428,2026-03-29 23:03:32,Debit Card,Delivered,Kochi
+O01779,C355,2026-03-30 05:10:35,Debit Card,Cancelled,Kolkata
+O01780,C500,2026-03-30 11:17:39,UPI,Delivered,Nashik
+O01781,C342,2026-03-30 17:24:42,UPI,Delivered,Kochi
+O01782,C364,2026-03-30 23:31:46,Net Banking,Delivered,Kollam
+O01783,C280,2026-03-31 05:38:49,UPI,Shipped,Kollam
+O01784,C081,2026-03-31 11:45:53,Debit Card,Returned,Bhopal
+O01785,C202,2026-03-31 17:52:56,Debit Card,Returned,Bhopal
+O01786,C158,2026-04-01 00:00:00,Debit Card,Delivered,Mysuru
+O01787,C120,2026-04-01 06:07:04,UPI,Shipped,Thrissur
+O01788,C059,2026-04-01 12:14:07,UPI,Delivered,Bengaluru
+O01789,C494,2026-04-01 18:21:11,Credit Card,Delivered,Kolkata
+O01790,C215,2026-04-02 00:28:14,Cash on Delivery,Delivered,Ahmedabad
+O01791,C128,2026-04-02 06:35:18,Net Banking,Delivered,Indore
+O01792,C224,2026-04-02 12:42:21,UPI,Returned,Thrissur
+O01793,C209,2026-04-02 18:49:25,UPI,Cancelled,Ahmedabad
+O01794,C370,2026-04-03 00:56:28,Net Banking,Delivered,Chennai
+O01795,C115,2026-04-03 07:03:32,Debit Card,Delivered,Nashik
+O01796,C209,2026-04-03 13:10:35,Cash on Delivery,Delivered,Bhopal
+O01797,C014,2026-04-03 19:17:39,UPI,Shipped,Bhopal
+O01798,C009,2026-04-04 01:24:42,Credit Card,Delivered,Coimbatore
+O01799,C040,2026-04-04 07:31:46,Debit Card,Delivered,Hyderabad
+O01800,C450,2026-04-04 13:38:49,Debit Card,Delivered,Kollam
+O01801,C237,2026-04-04 19:45:53,Credit Card,Delivered,Kottayam
+O01802,C281,2026-04-05 01:52:56,UPI,Delivered,Thiruvananthapuram
+O01803,C359,2026-04-05 08:00:00,Credit Card,Cancelled,Nashik
+O01804,C201,2026-04-05 14:07:04,UPI,Delivered,Nashik
+O01805,C246,2026-04-05 20:14:07,Credit Card,Delivered,Ahmedabad
+O01806,C278,2026-04-06 02:21:11,Net Banking,Delivered,Jaipur
+O01807,C235,2026-04-06 08:28:14,Credit Card,Delivered,Ahmedabad
+O01808,C494,2026-04-06 14:35:18,Cash on Delivery,Returned,Kochi
+O01809,C004,2026-04-06 20:42:21,UPI,Delivered,Mysuru
+O01810,C154,2026-04-07 02:49:25,Debit Card,Delivered,Hyderabad
+O01811,C442,2026-04-07 08:56:28,Net Banking,Delivered,Thiruvananthapuram
+O01812,C029,2026-04-07 15:03:32,UPI,Delivered,Mysuru
+O01813,C109,2026-04-07 21:10:35,UPI,Delivered,Kottayam
+O01814,C098,2026-04-08 03:17:39,Credit Card,Delivered,Hyderabad
+O01815,C215,2026-04-08 09:24:42,UPI,Delivered,Mumbai
+O01816,C293,2026-04-08 15:31:46,Debit Card,Delivered,Delhi
+O01817,C075,2026-04-08 21:38:49,Net Banking,Delivered,Ahmedabad
+O01818,C326,2026-04-09 03:45:53,Credit Card,Delivered,Mumbai
+O01819,C146,2026-04-09 09:52:56,UPI,Delivered,Mysuru
+O01820,C128,2026-04-09 16:00:00,Credit Card,Delivered,Thrissur
+O01821,C341,2026-04-09 22:07:04,Debit Card,Shipped,Mumbai
+O01822,C042,2026-04-10 04:14:07,UPI,Cancelled,Mysuru
+O01823,C356,2026-04-10 10:21:11,Credit Card,Delivered,Chennai
+O01824,C041,2026-04-10 16:28:14,Debit Card,Delivered,Thiruvananthapuram
+O01825,C422,2026-04-10 22:35:18,Debit Card,Delivered,Hyderabad
+O01826,C034,2026-04-11 04:42:21,UPI,Delivered,Kottayam
+O01827,C017,2026-04-11 10:49:25,Debit Card,Shipped,Ahmedabad
+O01828,C165,2026-04-11 16:56:28,UPI,Delivered,Mysuru
+O01829,C153,2026-04-11 23:03:32,UPI,Delivered,Bhopal
+O01830,C486,2026-04-12 05:10:35,Cash on Delivery,Shipped,Hyderabad
+O01831,C378,2026-04-12 11:17:39,Debit Card,Shipped,Pune
+O01832,C076,2026-04-12 17:24:42,UPI,Delivered,Kollam
+O01833,C087,2026-04-12 23:31:46,UPI,Delivered,Ahmedabad
+O01834,C117,2026-04-13 05:38:49,UPI,Delivered,Jaipur
+O01835,C362,2026-04-13 11:45:53,UPI,Delivered,Chennai
+O01836,C342,2026-04-13 17:52:56,UPI,Cancelled,Thiruvananthapuram
+O01837,C469,2026-04-14 00:00:00,UPI,Shipped,Kolkata
+O01838,C027,2026-04-14 06:07:04,Credit Card,Delivered,Pune
+O01839,C313,2026-04-14 12:14:07,Debit Card,Delivered,Thiruvananthapuram
+O01840,C287,2026-04-14 18:21:11,Debit Card,Shipped,Coimbatore
+O01841,C134,2026-04-15 00:28:14,Debit Card,Delivered,Kochi
+O01842,C219,2026-04-15 06:35:18,UPI,Delivered,Thrissur
+O01843,C168,2026-04-15 12:42:21,Net Banking,Delivered,Pune
+O01844,C098,2026-04-15 18:49:25,Cash on Delivery,Delivered,Chennai
+O01845,C268,2026-04-16 00:56:28,Cash on Delivery,Delivered,Thrissur
+O01846,C237,2026-04-16 07:03:32,Cash on Delivery,Delivered,Chennai
+O01847,C309,2026-04-16 13:10:35,Net Banking,Delivered,Kottayam
+O01848,C455,2026-04-16 19:17:39,Credit Card,Delivered,Kochi
+O01849,C394,2026-04-17 01:24:42,UPI,Delivered,Coimbatore
+O01850,C173,2026-04-17 07:31:46,Debit Card,Delivered,Bhopal
+O01851,C401,2026-04-17 13:38:49,Debit Card,Delivered,Jaipur
+O01852,C410,2026-04-17 19:45:53,Debit Card,Shipped,Kottayam
+O01853,C469,2026-04-18 01:52:56,Credit Card,Delivered,Jaipur
+O01854,C476,2026-04-18 08:00:00,UPI,Delivered,Kolkata
+O01855,C190,2026-04-18 14:07:04,UPI,Delivered,Hyderabad
+O01856,C122,2026-04-18 20:14:07,Net Banking,Shipped,Indore
+O01857,C046,2026-04-19 02:21:11,Credit Card,Delivered,Hyderabad
+O01858,C064,2026-04-19 08:28:14,Credit Card,Delivered,Mysuru
+O01859,C130,2026-04-19 14:35:18,UPI,Delivered,Nashik
+O01860,C310,2026-04-19 20:42:21,UPI,Delivered,Mumbai
+O01861,C363,2026-04-20 02:49:25,Cash on Delivery,Delivered,Bengaluru
+O01862,C193,2026-04-20 08:56:28,Debit Card,Delivered,Delhi
+O01863,C307,2026-04-20 15:03:32,Cash on Delivery,Delivered,Jaipur
+O01864,C181,2026-04-20 21:10:35,Credit Card,Delivered,Ahmedabad
+O01865,C292,2026-04-21 03:17:39,Debit Card,Delivered,Nashik
+O01866,C371,2026-04-21 09:24:42,UPI,Delivered,Indore
+O01867,C282,2026-04-21 15:31:46,Debit Card,Delivered,Kochi
+O01868,C029,2026-04-21 21:38:49,Credit Card,Delivered,Hyderabad
+O01869,C149,2026-04-22 03:45:53,Credit Card,Delivered,Kollam
+O01870,C267,2026-04-22 09:52:56,Debit Card,Delivered,Kozhikode
+O01871,C296,2026-04-22 16:00:00,Net Banking,Delivered,Coimbatore
+O01872,C011,2026-04-22 22:07:04,UPI,Shipped,Ahmedabad
+O01873,C164,2026-04-23 04:14:07,Cash on Delivery,Returned,Kollam
+O01874,C113,2026-04-23 10:21:11,UPI,Delivered,Bengaluru
+O01875,C187,2026-04-23 16:28:14,Credit Card,Delivered,Bhopal
+O01876,C295,2026-04-23 22:35:18,UPI,Delivered,Kozhikode
+O01877,C232,2026-04-24 04:42:21,UPI,Shipped,Nashik
+O01878,C227,2026-04-24 10:49:25,Credit Card,Delivered,Nashik
+O01879,C310,2026-04-24 16:56:28,UPI,Delivered,Coimbatore
+O01880,C098,2026-04-24 23:03:32,Credit Card,Shipped,Thiruvananthapuram
+O01881,C055,2026-04-25 05:10:35,Net Banking,Delivered,Kottayam
+O01882,C111,2026-04-25 11:17:39,UPI,Shipped,Mysuru
+O01883,C152,2026-04-25 17:24:42,Cash on Delivery,Delivered,Thrissur
+O01884,C246,2026-04-25 23:31:46,Credit Card,Delivered,Pune
+O01885,C406,2026-04-26 05:38:49,Debit Card,Shipped,Indore
+O01886,C069,2026-04-26 11:45:53,UPI,Delivered,Mysuru
+O01887,C312,2026-04-26 17:52:56,UPI,Delivered,Bengaluru
+O01888,C289,2026-04-27 00:00:00,UPI,Delivered,Bhopal
+O01889,C250,2026-04-27 06:07:04,UPI,Returned,Ahmedabad
+O01890,C036,2026-04-27 12:14:07,UPI,Delivered,Bhopal
+O01891,C239,2026-04-27 18:21:11,Debit Card,Delivered,Nashik
+O01892,C148,2026-04-28 00:28:14,Cash on Delivery,Delivered,Kochi
+O01893,C467,2026-04-28 06:35:18,Cash on Delivery,Delivered,Ahmedabad
+O01894,C227,2026-04-28 12:42:21,Debit Card,Delivered,Kochi
+O01895,C244,2026-04-28 18:49:25,UPI,Delivered,Thrissur
+O01896,C491,2026-04-29 00:56:28,UPI,Delivered,Coimbatore
+O01897,C337,2026-04-29 07:03:32,UPI,Cancelled,Kozhikode
+O01898,C446,2026-04-29 13:10:35,UPI,Delivered,Kolkata
+O01899,C365,2026-04-29 19:17:39,Credit Card,Delivered,Chennai
+O01900,C491,2026-04-30 01:24:42,Credit Card,Delivered,Kozhikode
+O01901,C482,2026-04-30 07:31:46,UPI,Delivered,Kottayam
+O01902,C201,2026-04-30 13:38:49,UPI,Cancelled,Kottayam
+O01903,C154,2026-04-30 19:45:53,Cash on Delivery,Delivered,Pune
+O01904,C450,2026-05-01 01:52:56,Cash on Delivery,Delivered,Kochi
+O01905,C073,2026-05-01 08:00:00,UPI,Delivered,Hyderabad
+O01906,C201,2026-05-01 14:07:04,Net Banking,Delivered,Kollam
+O01907,C296,2026-05-01 20:14:07,Net Banking,Delivered,Chennai
+O01908,C017,2026-05-02 02:21:11,UPI,Delivered,Coimbatore
+O01909,C129,2026-05-02 08:28:14,UPI,Delivered,Nashik
+O01910,C217,2026-05-02 14:35:18,Credit Card,Delivered,Indore
+O01911,C061,2026-05-02 20:42:21,Net Banking,Delivered,Pune
+O01912,C427,2026-05-03 02:49:25,Cash on Delivery,Delivered,Kollam
+O01913,C104,2026-05-03 08:56:28,UPI,Returned,Kollam
+O01914,C042,2026-05-03 15:03:32,Credit Card,Delivered,Jaipur
+O01915,C025,2026-05-03 21:10:35,Credit Card,Delivered,Pune
+O01916,C039,2026-05-04 03:17:39,Credit Card,Delivered,Kozhikode
+O01917,C291,2026-05-04 09:24:42,UPI,Delivered,Bengaluru
+O01918,C131,2026-05-04 15:31:46,Cash on Delivery,Delivered,Delhi
+O01919,C498,2026-05-04 21:38:49,Debit Card,Cancelled,Ahmedabad
+O01920,C229,2026-05-05 03:45:53,Cash on Delivery,Delivered,Jaipur
+O01921,C108,2026-05-05 09:52:56,Cash on Delivery,Cancelled,Kochi
+O01922,C172,2026-05-05 16:00:00,Debit Card,Delivered,Kollam
+O01923,C435,2026-05-05 22:07:04,Credit Card,Delivered,Thiruvananthapuram
+O01924,C478,2026-05-06 04:14:07,Debit Card,Cancelled,Kochi
+O01925,C102,2026-05-06 10:21:11,UPI,Delivered,Bengaluru
+O01926,C354,2026-05-06 16:28:14,Debit Card,Returned,Mumbai
+O01927,C012,2026-05-06 22:35:18,UPI,Delivered,Mumbai
+O01928,C275,2026-05-07 04:42:21,Debit Card,Cancelled,Jaipur
+O01929,C101,2026-05-07 10:49:25,UPI,Delivered,Delhi
+O01930,C044,2026-05-07 16:56:28,UPI,Delivered,Thiruvananthapuram
+O01931,C443,2026-05-07 23:03:32,UPI,Delivered,Bengaluru
+O01932,C305,2026-05-08 05:10:35,UPI,Delivered,Bengaluru
+O01933,C445,2026-05-08 11:17:39,Debit Card,Delivered,Coimbatore
+O01934,C017,2026-05-08 17:24:42,Debit Card,Delivered,Kozhikode
+O01935,C330,2026-05-08 23:31:46,Credit Card,Delivered,Pune
+O01936,C057,2026-05-09 05:38:49,UPI,Delivered,Kozhikode
+O01937,C311,2026-05-09 11:45:53,UPI,Shipped,Mumbai
+O01938,C497,2026-05-09 17:52:56,UPI,Delivered,Pune
+O01939,C303,2026-05-10 00:00:00,UPI,Delivered,Thrissur
+O01940,C012,2026-05-10 06:07:04,Cash on Delivery,Delivered,Hyderabad
+O01941,C318,2026-05-10 12:14:07,UPI,Delivered,Kolkata
+O01942,C080,2026-05-10 18:21:11,UPI,Delivered,Jaipur
+O01943,C216,2026-05-11 00:28:14,UPI,Delivered,Thrissur
+O01944,C339,2026-05-11 06:35:18,UPI,Cancelled,Kottayam
+O01945,C264,2026-05-11 12:42:21,Credit Card,Shipped,Indore
+O01946,C479,2026-05-11 18:49:25,Debit Card,Delivered,Kochi
+O01947,C149,2026-05-12 00:56:28,UPI,Delivered,Kozhikode
+O01948,C081,2026-05-12 07:03:32,UPI,Delivered,Kollam
+O01949,C215,2026-05-12 13:10:35,Credit Card,Delivered,Delhi
+O01950,C485,2026-05-12 19:17:39,UPI,Delivered,Bhopal
+O01951,C374,2026-05-13 01:24:42,UPI,Delivered,Chennai
+O01952,C464,2026-05-13 07:31:46,Net Banking,Delivered,Kozhikode
+O01953,C198,2026-05-13 13:38:49,Debit Card,Delivered,Nashik
+O01954,C200,2026-05-13 19:45:53,Credit Card,Delivered,Kozhikode
+O01955,C025,2026-05-14 01:52:56,Credit Card,Cancelled,Mumbai
+O01956,C466,2026-05-14 08:00:00,Credit Card,Delivered,Thiruvananthapuram
+O01957,C089,2026-05-14 14:07:04,Credit Card,Shipped,Indore
+O01958,C268,2026-05-14 20:14:07,Debit Card,Returned,Nashik
+O01959,C143,2026-05-15 02:21:11,Debit Card,Delivered,Ahmedabad
+O01960,C059,2026-05-15 08:28:14,UPI,Delivered,Hyderabad
+O01961,C410,2026-05-15 14:35:18,Credit Card,Delivered,Jaipur
+O01962,C489,2026-05-15 20:42:21,Credit Card,Returned,Bengaluru
+O01963,C365,2026-05-16 02:49:25,Cash on Delivery,Returned,Nashik
+O01964,C026,2026-05-16 08:56:28,Debit Card,Delivered,Thrissur
+O01965,C047,2026-05-16 15:03:32,Credit Card,Delivered,Chennai
+O01966,C288,2026-05-16 21:10:35,UPI,Shipped,Coimbatore
+O01967,C266,2026-05-17 03:17:39,Debit Card,Delivered,Chennai
+O01968,C016,2026-05-17 09:24:42,UPI,Shipped,Bengaluru
+O01969,C199,2026-05-17 15:31:46,UPI,Cancelled,Indore
+O01970,C401,2026-05-17 21:38:49,UPI,Delivered,Mysuru
+O01971,C407,2026-05-18 03:45:53,Debit Card,Delivered,Ahmedabad
+O01972,C282,2026-05-18 09:52:56,UPI,Delivered,Mumbai
+O01973,C469,2026-05-18 16:00:00,Credit Card,Delivered,Kollam
+O01974,C086,2026-05-18 22:07:04,Cash on Delivery,Delivered,Thiruvananthapuram
+O01975,C250,2026-05-19 04:14:07,UPI,Delivered,Coimbatore
+O01976,C391,2026-05-19 10:21:11,Credit Card,Cancelled,Hyderabad
+O01977,C270,2026-05-19 16:28:14,Credit Card,Cancelled,Nashik
+O01978,C335,2026-05-19 22:35:18,UPI,Delivered,Mysuru
+O01979,C117,2026-05-20 04:42:21,Cash on Delivery,Shipped,Chennai
+O01980,C007,2026-05-20 10:49:25,UPI,Delivered,Mumbai
+O01981,C137,2026-05-20 16:56:28,Credit Card,Delivered,Mumbai
+O01982,C371,2026-05-20 23:03:32,Credit Card,Delivered,Hyderabad
+O01983,C176,2026-05-21 05:10:35,Debit Card,Delivered,Coimbatore
+O01984,C328,2026-05-21 11:17:39,Debit Card,Cancelled,Pune
+O01985,C498,2026-05-21 17:24:42,UPI,Delivered,Kottayam
+O01986,C315,2026-05-21 23:31:46,UPI,Delivered,Pune
+O01987,C215,2026-05-22 05:38:49,Debit Card,Delivered,Coimbatore
+O01988,C477,2026-05-22 11:45:53,Credit Card,Delivered,Jaipur
+O01989,C082,2026-05-22 17:52:56,Cash on Delivery,Delivered,Jaipur
+O01990,C223,2026-05-23 00:00:00,Cash on Delivery,Delivered,Thrissur
+O01991,C478,2026-05-23 06:07:04,Cash on Delivery,Delivered,Chennai
+O01992,C372,2026-05-23 12:14:07,Credit Card,Delivered,Bengaluru
+O01993,C423,2026-05-23 18:21:11,UPI,Shipped,Jaipur
+O01994,C483,2026-05-24 00:28:14,Cash on Delivery,Delivered,Mysuru
+O01995,C402,2026-05-24 06:35:18,Credit Card,Delivered,Mumbai
+O01996,C443,2026-05-24 12:42:21,UPI,Delivered,Bengaluru
+O01997,C490,2026-05-24 18:49:25,Cash on Delivery,Delivered,Chennai
+O01998,C103,2026-05-25 00:56:28,Cash on Delivery,Delivered,Mysuru
+O01999,C273,2026-05-25 07:03:32,Credit Card,Delivered,Kozhikode
+O02000,C014,2026-05-25 13:10:35,UPI,Cancelled,Delhi
+O02001,C159,2026-05-25 19:17:39,Credit Card,Delivered,Thiruvananthapuram
+O02002,C152,2026-05-26 01:24:42,Cash on Delivery,Shipped,Indore
+O02003,C483,2026-05-26 07:31:46,Net Banking,Returned,Bhopal
+O02004,C108,2026-05-26 13:38:49,UPI,Delivered,Jaipur
+O02005,C188,2026-05-26 19:45:53,UPI,Delivered,Hyderabad
+O02006,C301,2026-05-27 01:52:56,Cash on Delivery,Delivered,Kolkata
+O02007,C098,2026-05-27 08:00:00,Credit Card,Returned,Thrissur
+O02008,C131,2026-05-27 14:07:04,Credit Card,Cancelled,Kolkata
+O02009,C293,2026-05-27 20:14:07,Net Banking,Delivered,Kottayam
+O02010,C171,2026-05-28 02:21:11,UPI,Shipped,Kottayam
+O02011,C424,2026-05-28 08:28:14,Debit Card,Delivered,Mumbai
+O02012,C474,2026-05-28 14:35:18,UPI,Returned,Delhi
+O02013,C183,2026-05-28 20:42:21,UPI,Returned,Kozhikode
+O02014,C471,2026-05-29 02:49:25,Cash on Delivery,Delivered,Nashik
+O02015,C364,2026-05-29 08:56:28,Credit Card,Delivered,Kozhikode
+O02016,C039,2026-05-29 15:03:32,Net Banking,Delivered,Hyderabad
+O02017,C015,2026-05-29 21:10:35,Credit Card,Delivered,Indore
+O02018,C376,2026-05-30 03:17:39,UPI,Shipped,Mumbai
+O02019,C497,2026-05-30 09:24:42,UPI,Delivered,Jaipur
+O02020,C004,2026-05-30 15:31:46,UPI,Delivered,Indore
+O02021,C349,2026-05-30 21:38:49,UPI,Delivered,Kollam
+O02022,C470,2026-05-31 03:45:53,UPI,Returned,Hyderabad
+O02023,C409,2026-05-31 09:52:56,UPI,Delivered,Hyderabad
+O02024,C397,2026-05-31 16:00:00,Credit Card,Delivered,Delhi
+O02025,C210,2026-05-31 22:07:04,Debit Card,Delivered,Chennai
+O02026,C161,2026-06-01 04:14:07,Debit Card,Returned,Kozhikode
+O02027,C016,2026-06-01 10:21:11,Debit Card,Shipped,Kolkata
+O02028,C493,2026-06-01 16:28:14,UPI,Delivered,Nashik
+O02029,C426,2026-06-01 22:35:18,UPI,Delivered,Kozhikode
+O02030,C108,2026-06-02 04:42:21,Debit Card,Delivered,Bengaluru
+O02031,C382,2026-06-02 10:49:25,Credit Card,Delivered,Kottayam
+O02032,C450,2026-06-02 16:56:28,UPI,Delivered,Chennai
+O02033,C311,2026-06-02 23:03:32,Cash on Delivery,Cancelled,Pune
+O02034,C227,2026-06-03 05:10:35,Cash on Delivery,Delivered,Indore
+O02035,C170,2026-06-03 11:17:39,Credit Card,Shipped,Kolkata
+O02036,C034,2026-06-03 17:24:42,UPI,Delivered,Kozhikode
+O02037,C414,2026-06-03 23:31:46,Cash on Delivery,Delivered,Coimbatore
+O02038,C251,2026-06-04 05:38:49,Credit Card,Delivered,Kochi
+O02039,C247,2026-06-04 11:45:53,Cash on Delivery,Delivered,Ahmedabad
+O02040,C269,2026-06-04 17:52:56,Debit Card,Delivered,Ahmedabad
+O02041,C141,2026-06-05 00:00:00,Cash on Delivery,Delivered,Nashik
+O02042,C274,2026-06-05 06:07:04,Credit Card,Delivered,Pune
+O02043,C416,2026-06-05 12:14:07,UPI,Delivered,Kochi
+O02044,C096,2026-06-05 18:21:11,Debit Card,Delivered,Ahmedabad
+O02045,C227,2026-06-06 00:28:14,Debit Card,Returned,Hyderabad
+O02046,C379,2026-06-06 06:35:18,Debit Card,Delivered,Indore
+O02047,C039,2026-06-06 12:42:21,UPI,Shipped,Hyderabad
+O02048,C302,2026-06-06 18:49:25,UPI,Delivered,Mumbai
+O02049,C500,2026-06-07 00:56:28,Cash on Delivery,Shipped,Kottayam
+O02050,C029,2026-06-07 07:03:32,Debit Card,Delivered,Mumbai
+O02051,C446,2026-06-07 13:10:35,Net Banking,Cancelled,Kozhikode
+O02052,C497,2026-06-07 19:17:39,Debit Card,Delivered,Indore
+O02053,C477,2026-06-08 01:24:42,Credit Card,Delivered,Kochi
+O02054,C318,2026-06-08 07:31:46,Debit Card,Delivered,Bengaluru
+O02055,C245,2026-06-08 13:38:49,Cash on Delivery,Delivered,Kochi
+O02056,C236,2026-06-08 19:45:53,Credit Card,Delivered,Delhi
+O02057,C185,2026-06-09 01:52:56,Debit Card,Delivered,Chennai
+O02058,C272,2026-06-09 08:00:00,UPI,Delivered,Nashik
+O02059,C440,2026-06-09 14:07:04,Credit Card,Shipped,Mumbai
+O02060,C236,2026-06-09 20:14:07,Debit Card,Delivered,Kolkata
+O02061,C239,2026-06-10 02:21:11,UPI,Delivered,Kottayam
+O02062,C377,2026-06-10 08:28:14,UPI,Delivered,Kochi
+O02063,C266,2026-06-10 14:35:18,UPI,Delivered,Bengaluru
+O02064,C414,2026-06-10 20:42:21,UPI,Delivered,Pune
+O02065,C409,2026-06-11 02:49:25,UPI,Delivered,Kolkata
+O02066,C359,2026-06-11 08:56:28,Credit Card,Returned,Ahmedabad
+O02067,C340,2026-06-11 15:03:32,Net Banking,Shipped,Delhi
+O02068,C389,2026-06-11 21:10:35,Credit Card,Shipped,Thrissur
+O02069,C065,2026-06-12 03:17:39,UPI,Delivered,Kozhikode
+O02070,C478,2026-06-12 09:24:42,UPI,Delivered,Kochi
+O02071,C177,2026-06-12 15:31:46,Debit Card,Delivered,Jaipur
+O02072,C003,2026-06-12 21:38:49,Credit Card,Delivered,Indore
+O02073,C429,2026-06-13 03:45:53,Cash on Delivery,Delivered,Mysuru
+O02074,C142,2026-06-13 09:52:56,Debit Card,Delivered,Kochi
+O02075,C376,2026-06-13 16:00:00,Cash on Delivery,Delivered,Kolkata
+O02076,C158,2026-06-13 22:07:04,UPI,Delivered,Bhopal
+O02077,C498,2026-06-14 04:14:07,Debit Card,Delivered,Thrissur
+O02078,C324,2026-06-14 10:21:11,UPI,Delivered,Kollam
+O02079,C146,2026-06-14 16:28:14,Net Banking,Delivered,Nashik
+O02080,C446,2026-06-14 22:35:18,Debit Card,Delivered,Indore
+O02081,C293,2026-06-15 04:42:21,UPI,Delivered,Kottayam
+O02082,C153,2026-06-15 10:49:25,UPI,Delivered,Kochi
+O02083,C432,2026-06-15 16:56:28,UPI,Shipped,Ahmedabad
+O02084,C193,2026-06-15 23:03:32,Debit Card,Delivered,Nashik
+O02085,C437,2026-06-16 05:10:35,UPI,Delivered,Kottayam
+O02086,C494,2026-06-16 11:17:39,Credit Card,Delivered,Indore
+O02087,C463,2026-06-16 17:24:42,UPI,Delivered,Hyderabad
+O02088,C073,2026-06-16 23:31:46,Debit Card,Shipped,Hyderabad
+O02089,C399,2026-06-17 05:38:49,Cash on Delivery,Delivered,Coimbatore
+O02090,C305,2026-06-17 11:45:53,Cash on Delivery,Delivered,Chennai
+O02091,C377,2026-06-17 17:52:56,Cash on Delivery,Shipped,Chennai
+O02092,C344,2026-06-18 00:00:00,UPI,Delivered,Delhi
+O02093,C452,2026-06-18 06:07:04,UPI,Delivered,Delhi
+O02094,C140,2026-06-18 12:14:07,Debit Card,Delivered,Delhi
+O02095,C187,2026-06-18 18:21:11,UPI,Delivered,Pune
+O02096,C293,2026-06-19 00:28:14,Credit Card,Delivered,Nashik
+O02097,C061,2026-06-19 06:35:18,UPI,Delivered,Pune
+O02098,C485,2026-06-19 12:42:21,UPI,Returned,Bhopal
+O02099,C427,2026-06-19 18:49:25,UPI,Delivered,Coimbatore
+O02100,C380,2026-06-20 00:56:28,Cash on Delivery,Delivered,Ahmedabad
+O02101,C198,2026-06-20 07:03:32,UPI,Delivered,Thiruvananthapuram
+O02102,C295,2026-06-20 13:10:35,Credit Card,Cancelled,Thrissur
+O02103,C440,2026-06-20 19:17:39,UPI,Shipped,Ahmedabad
+O02104,C319,2026-06-21 01:24:42,Debit Card,Delivered,Bengaluru
+O02105,C302,2026-06-21 07:31:46,UPI,Delivered,Indore
+O02106,C344,2026-06-21 13:38:49,Cash on Delivery,Delivered,Indore
+O02107,C011,2026-06-21 19:45:53,Cash on Delivery,Delivered,Kottayam
+O02108,C062,2026-06-22 01:52:56,UPI,Delivered,Kozhikode
+O02109,C333,2026-06-22 08:00:00,Net Banking,Delivered,Kottayam
+O02110,C226,2026-06-22 14:07:04,Net Banking,Delivered,Hyderabad
+O02111,C153,2026-06-22 20:14:07,Cash on Delivery,Cancelled,Thiruvananthapuram
+O02112,C199,2026-06-23 02:21:11,Cash on Delivery,Delivered,Bengaluru
+O02113,C052,2026-06-23 08:28:14,UPI,Returned,Mumbai
+O02114,C260,2026-06-23 14:35:18,Credit Card,Delivered,Bengaluru
+O02115,C059,2026-06-23 20:42:21,UPI,Delivered,Thrissur
+O02116,C072,2026-06-24 02:49:25,UPI,Delivered,Kolkata
+O02117,C148,2026-06-24 08:56:28,Net Banking,Delivered,Bengaluru
+O02118,C349,2026-06-24 15:03:32,UPI,Delivered,Thrissur
+O02119,C063,2026-06-24 21:10:35,Debit Card,Delivered,Pune
+O02120,C310,2026-06-25 03:17:39,Cash on Delivery,Delivered,Kollam
+O02121,C373,2026-06-25 09:24:42,Cash on Delivery,Delivered,Ahmedabad
+O02122,C243,2026-06-25 15:31:46,Net Banking,Delivered,Kollam
+O02123,C493,2026-06-25 21:38:49,UPI,Delivered,Ahmedabad
+O02124,C366,2026-06-26 03:45:53,UPI,Delivered,Kozhikode
+O02125,C330,2026-06-26 09:52:56,Credit Card,Delivered,Mumbai
+O02126,C107,2026-06-26 16:00:00,UPI,Cancelled,Bengaluru
+O02127,C226,2026-06-26 22:07:04,UPI,Delivered,Delhi
+O02128,C313,2026-06-27 04:14:07,UPI,Delivered,Chennai
+O02129,C218,2026-06-27 10:21:11,Cash on Delivery,Delivered,Chennai
+O02130,C425,2026-06-27 16:28:14,Credit Card,Delivered,Coimbatore
+O02131,C241,2026-06-27 22:35:18,UPI,Returned,Nashik
+O02132,C259,2026-06-28 04:42:21,Debit Card,Delivered,Indore
+O02133,C376,2026-06-28 10:49:25,UPI,Delivered,Kollam
+O02134,C262,2026-06-28 16:56:28,UPI,Delivered,Kozhikode
+O02135,C005,2026-06-28 23:03:32,Cash on Delivery,Delivered,Mysuru
+O02136,C261,2026-06-29 05:10:35,Debit Card,Returned,Kolkata
+O02137,C054,2026-06-29 11:17:39,Cash on Delivery,Delivered,Coimbatore
+O02138,C047,2026-06-29 17:24:42,UPI,Delivered,Nashik
+O02139,C215,2026-06-29 23:31:46,Cash on Delivery,Delivered,Kozhikode
+O02140,C177,2026-06-30 05:38:49,Debit Card,Delivered,Mysuru
+O02141,C009,2026-06-30 11:45:53,Credit Card,Delivered,Chennai
+O02142,C099,2026-06-30 17:52:56,Debit Card,Delivered,Pune
+O02143,C020,2026-07-01 00:00:00,Cash on Delivery,Delivered,Mumbai
+O02144,C378,2026-07-01 06:07:04,Credit Card,Cancelled,Thiruvananthapuram
+O02145,C241,2026-07-01 12:14:07,Credit Card,Delivered,Jaipur
+O02146,C061,2026-07-01 18:21:11,Net Banking,Delivered,Chennai
+O02147,C379,2026-07-02 00:28:14,Debit Card,Delivered,Thiruvananthapuram
+O02148,C490,2026-07-02 06:35:18,Credit Card,Returned,Thiruvananthapuram
+O02149,C419,2026-07-02 12:42:21,Debit Card,Delivered,Kozhikode
+O02150,C178,2026-07-02 18:49:25,Credit Card,Delivered,Hyderabad
+O02151,C338,2026-07-03 00:56:28,UPI,Delivered,Ahmedabad
+O02152,C062,2026-07-03 07:03:32,Credit Card,Delivered,Thrissur
+O02153,C145,2026-07-03 13:10:35,Net Banking,Delivered,Jaipur
+O02154,C216,2026-07-03 19:17:39,Net Banking,Delivered,Kolkata
+O02155,C003,2026-07-04 01:24:42,UPI,Delivered,Jaipur
+O02156,C160,2026-07-04 07:31:46,Credit Card,Delivered,Coimbatore
+O02157,C227,2026-07-04 13:38:49,UPI,Delivered,Mumbai
+O02158,C486,2026-07-04 19:45:53,Net Banking,Shipped,Delhi
+O02159,C269,2026-07-05 01:52:56,Net Banking,Returned,Kolkata
+O02160,C120,2026-07-05 08:00:00,Debit Card,Delivered,Hyderabad
+O02161,C381,2026-07-05 14:07:04,Cash on Delivery,Delivered,Kolkata
+O02162,C495,2026-07-05 20:14:07,Debit Card,Delivered,Nashik
+O02163,C089,2026-07-06 02:21:11,Credit Card,Delivered,Thiruvananthapuram
+O02164,C329,2026-07-06 08:28:14,UPI,Shipped,Thiruvananthapuram
+O02165,C068,2026-07-06 14:35:18,Credit Card,Delivered,Bhopal
+O02166,C398,2026-07-06 20:42:21,Debit Card,Delivered,Thrissur
+O02167,C357,2026-07-07 02:49:25,Debit Card,Shipped,Delhi
+O02168,C098,2026-07-07 08:56:28,UPI,Delivered,Nashik
+O02169,C267,2026-07-07 15:03:32,Net Banking,Delivered,Thrissur
+O02170,C105,2026-07-07 21:10:35,UPI,Delivered,Kozhikode
+O02171,C440,2026-07-08 03:17:39,Credit Card,Delivered,Pune
+O02172,C323,2026-07-08 09:24:42,Debit Card,Delivered,Mysuru
+O02173,C123,2026-07-08 15:31:46,Debit Card,Delivered,Thiruvananthapuram
+O02174,C476,2026-07-08 21:38:49,Debit Card,Shipped,Kottayam
+O02175,C029,2026-07-09 03:45:53,UPI,Delivered,Coimbatore
+O02176,C137,2026-07-09 09:52:56,UPI,Cancelled,Pune
+O02177,C195,2026-07-09 16:00:00,Debit Card,Delivered,Coimbatore
+O02178,C409,2026-07-09 22:07:04,Credit Card,Delivered,Coimbatore
+O02179,C226,2026-07-10 04:14:07,UPI,Delivered,Kozhikode
+O02180,C332,2026-07-10 10:21:11,Debit Card,Cancelled,Kolkata
+O02181,C170,2026-07-10 16:28:14,Credit Card,Cancelled,Coimbatore
+O02182,C009,2026-07-10 22:35:18,Debit Card,Delivered,Chennai
+O02183,C463,2026-07-11 04:42:21,Cash on Delivery,Cancelled,Kolkata
+O02184,C040,2026-07-11 10:49:25,UPI,Shipped,Ahmedabad
+O02185,C025,2026-07-11 16:56:28,UPI,Shipped,Bhopal
+O02186,C261,2026-07-11 23:03:32,Cash on Delivery,Delivered,Thiruvananthapuram
+O02187,C395,2026-07-12 05:10:35,Debit Card,Shipped,Kollam
+O02188,C443,2026-07-12 11:17:39,Debit Card,Shipped,Kolkata
+O02189,C226,2026-07-12 17:24:42,Cash on Delivery,Delivered,Mysuru
+O02190,C472,2026-07-12 23:31:46,Cash on Delivery,Returned,Bengaluru
+O02191,C124,2026-07-13 05:38:49,Net Banking,Delivered,Kottayam
+O02192,C463,2026-07-13 11:45:53,Credit Card,Delivered,Mumbai
+O02193,C038,2026-07-13 17:52:56,Credit Card,Delivered,Pune
+O02194,C328,2026-07-14 00:00:00,Credit Card,Delivered,Jaipur
+O02195,C251,2026-07-14 06:07:04,UPI,Delivered,Ahmedabad
+O02196,C389,2026-07-14 12:14:07,Credit Card,Delivered,Coimbatore
+O02197,C176,2026-07-14 18:21:11,UPI,Returned,Bhopal
+O02198,C090,2026-07-15 00:28:14,Net Banking,Delivered,Kozhikode
+O02199,C402,2026-07-15 06:35:18,Credit Card,Delivered,Jaipur
+O02200,C454,2026-07-15 12:42:21,Credit Card,Delivered,Indore
+O02201,C037,2026-07-15 18:49:25,UPI,Delivered,Kottayam
+O02202,C316,2026-07-16 00:56:28,UPI,Cancelled,Coimbatore
+O02203,C176,2026-07-16 07:03:32,UPI,Delivered,Pune
+O02204,C461,2026-07-16 13:10:35,Credit Card,Shipped,Bengaluru
+O02205,C284,2026-07-16 19:17:39,UPI,Delivered,Delhi
+O02206,C453,2026-07-17 01:24:42,Debit Card,Delivered,Kochi
+O02207,C461,2026-07-17 07:31:46,Cash on Delivery,Delivered,Jaipur
+O02208,C081,2026-07-17 13:38:49,Cash on Delivery,Delivered,Indore
+O02209,C114,2026-07-17 19:45:53,Debit Card,Delivered,Ahmedabad
+O02210,C040,2026-07-18 01:52:56,UPI,Delivered,Kochi
+O02211,C301,2026-07-18 08:00:00,Cash on Delivery,Delivered,Kollam
+O02212,C224,2026-07-18 14:07:04,Cash on Delivery,Delivered,Indore
+O02213,C318,2026-07-18 20:14:07,UPI,Delivered,Kozhikode
+O02214,C349,2026-07-19 02:21:11,Debit Card,Delivered,Kochi
+O02215,C115,2026-07-19 08:28:14,UPI,Delivered,Mysuru
+O02216,C186,2026-07-19 14:35:18,Cash on Delivery,Delivered,Pune
+O02217,C323,2026-07-19 20:42:21,Net Banking,Shipped,Ahmedabad
+O02218,C056,2026-07-20 02:49:25,UPI,Delivered,Pune
+O02219,C040,2026-07-20 08:56:28,Cash on Delivery,Delivered,Nashik
+O02220,C354,2026-07-20 15:03:32,Debit Card,Returned,Kochi
+O02221,C040,2026-07-20 21:10:35,Net Banking,Delivered,Ahmedabad
+O02222,C347,2026-07-21 03:17:39,Credit Card,Delivered,Kottayam
+O02223,C461,2026-07-21 09:24:42,Cash on Delivery,Delivered,Mysuru
+O02224,C237,2026-07-21 15:31:46,UPI,Delivered,Thrissur
+O02225,C289,2026-07-21 21:38:49,UPI,Shipped,Kollam
+O02226,C262,2026-07-22 03:45:53,UPI,Shipped,Bengaluru
+O02227,C216,2026-07-22 09:52:56,Net Banking,Returned,Thrissur
+O02228,C147,2026-07-22 16:00:00,Cash on Delivery,Delivered,Kolkata
+O02229,C336,2026-07-22 22:07:04,Cash on Delivery,Delivered,Thrissur
+O02230,C168,2026-07-23 04:14:07,Net Banking,Delivered,Indore
+O02231,C092,2026-07-23 10:21:11,UPI,Delivered,Kollam
+O02232,C353,2026-07-23 16:28:14,Credit Card,Delivered,Chennai
+O02233,C059,2026-07-23 22:35:18,UPI,Delivered,Thiruvananthapuram
+O02234,C059,2026-07-24 04:42:21,UPI,Delivered,Bengaluru
+O02235,C304,2026-07-24 10:49:25,UPI,Delivered,Delhi
+O02236,C169,2026-07-24 16:56:28,Credit Card,Shipped,Hyderabad
+O02237,C269,2026-07-24 23:03:32,UPI,Shipped,Delhi
+O02238,C363,2026-07-25 05:10:35,UPI,Delivered,Kolkata
+O02239,C045,2026-07-25 11:17:39,UPI,Delivered,Thiruvananthapuram
+O02240,C345,2026-07-25 17:24:42,UPI,Delivered,Mumbai
+O02241,C181,2026-07-25 23:31:46,Net Banking,Shipped,Thiruvananthapuram
+O02242,C170,2026-07-26 05:38:49,Debit Card,Delivered,Kochi
+O02243,C356,2026-07-26 11:45:53,Net Banking,Delivered,Thiruvananthapuram
+O02244,C191,2026-07-26 17:52:56,Credit Card,Delivered,Chennai
+O02245,C155,2026-07-27 00:00:00,UPI,Delivered,Thiruvananthapuram
+O02246,C422,2026-07-27 06:07:04,Cash on Delivery,Delivered,Indore
+O02247,C188,2026-07-27 12:14:07,UPI,Shipped,Coimbatore
+O02248,C007,2026-07-27 18:21:11,UPI,Delivered,Indore
+O02249,C133,2026-07-28 00:28:14,UPI,Delivered,Coimbatore
+O02250,C235,2026-07-28 06:35:18,UPI,Delivered,Delhi
+O02251,C045,2026-07-28 12:42:21,UPI,Delivered,Chennai
+O02252,C314,2026-07-28 18:49:25,UPI,Shipped,Jaipur
+O02253,C249,2026-07-29 00:56:28,Debit Card,Delivered,Thrissur
+O02254,C499,2026-07-29 07:03:32,UPI,Shipped,Chennai
+O02255,C031,2026-07-29 13:10:35,UPI,Delivered,Hyderabad
+O02256,C023,2026-07-29 19:17:39,Cash on Delivery,Delivered,Thrissur
+O02257,C426,2026-07-30 01:24:42,UPI,Delivered,Hyderabad
+O02258,C394,2026-07-30 07:31:46,UPI,Delivered,Ahmedabad
+O02259,C160,2026-07-30 13:38:49,Cash on Delivery,Delivered,Kochi
+O02260,C363,2026-07-30 19:45:53,UPI,Delivered,Kottayam
+O02261,C437,2026-07-31 01:52:56,UPI,Delivered,Coimbatore
+O02262,C158,2026-07-31 08:00:00,Credit Card,Delivered,Hyderabad
+O02263,C039,2026-07-31 14:07:04,UPI,Shipped,Thrissur
+O02264,C415,2026-07-31 20:14:07,Credit Card,Cancelled,Nashik
+O02265,C082,2026-08-01 02:21:11,Cash on Delivery,Delivered,Hyderabad
+O02266,C356,2026-08-01 08:28:14,UPI,Returned,Kolkata
+O02267,C258,2026-08-01 14:35:18,Credit Card,Delivered,Kottayam
+O02268,C206,2026-08-01 20:42:21,Credit Card,Delivered,Mumbai
+O02269,C077,2026-08-02 02:49:25,UPI,Shipped,Kozhikode
+O02270,C477,2026-08-02 08:56:28,Debit Card,Delivered,Kolkata
+O02271,C012,2026-08-02 15:03:32,UPI,Delivered,Coimbatore
+O02272,C295,2026-08-02 21:10:35,Credit Card,Delivered,Kochi
+O02273,C450,2026-08-03 03:17:39,UPI,Shipped,Kolkata
+O02274,C224,2026-08-03 09:24:42,Credit Card,Shipped,Mumbai
+O02275,C013,2026-08-03 15:31:46,UPI,Delivered,Pune
+O02276,C046,2026-08-03 21:38:49,Cash on Delivery,Delivered,Bhopal
+O02277,C155,2026-08-04 03:45:53,UPI,Delivered,Mysuru
+O02278,C113,2026-08-04 09:52:56,Credit Card,Delivered,Mumbai
+O02279,C233,2026-08-04 16:00:00,Credit Card,Delivered,Thrissur
+O02280,C017,2026-08-04 22:07:04,Debit Card,Shipped,Bengaluru
+O02281,C360,2026-08-05 04:14:07,Credit Card,Delivered,Coimbatore
+O02282,C223,2026-08-05 10:21:11,Debit Card,Delivered,Ahmedabad
+O02283,C354,2026-08-05 16:28:14,Cash on Delivery,Delivered,Thrissur
+O02284,C188,2026-08-05 22:35:18,Cash on Delivery,Delivered,Thiruvananthapuram
+O02285,C448,2026-08-06 04:42:21,UPI,Cancelled,Jaipur
+O02286,C344,2026-08-06 10:49:25,Credit Card,Delivered,Bhopal
+O02287,C365,2026-08-06 16:56:28,Cash on Delivery,Delivered,Hyderabad
+O02288,C163,2026-08-06 23:03:32,Net Banking,Delivered,Mumbai
+O02289,C496,2026-08-07 05:10:35,Cash on Delivery,Delivered,Coimbatore
+O02290,C326,2026-08-07 11:17:39,UPI,Delivered,Delhi
+O02291,C467,2026-08-07 17:24:42,UPI,Delivered,Bhopal
+O02292,C414,2026-08-07 23:31:46,Credit Card,Delivered,Thrissur
+O02293,C455,2026-08-08 05:38:49,Debit Card,Delivered,Ahmedabad
+O02294,C074,2026-08-08 11:45:53,Credit Card,Delivered,Thiruvananthapuram
+O02295,C233,2026-08-08 17:52:56,Credit Card,Delivered,Bengaluru
+O02296,C224,2026-08-09 00:00:00,Cash on Delivery,Returned,Chennai
+O02297,C482,2026-08-09 06:07:04,UPI,Delivered,Ahmedabad
+O02298,C319,2026-08-09 12:14:07,Cash on Delivery,Delivered,Hyderabad
+O02299,C412,2026-08-09 18:21:11,Credit Card,Delivered,Hyderabad
+O02300,C060,2026-08-10 00:28:14,UPI,Delivered,Jaipur
+O02301,C335,2026-08-10 06:35:18,Credit Card,Delivered,Mumbai
+O02302,C222,2026-08-10 12:42:21,Cash on Delivery,Delivered,Bengaluru
+O02303,C037,2026-08-10 18:49:25,UPI,Delivered,Chennai
+O02304,C477,2026-08-11 00:56:28,UPI,Delivered,Thrissur
+O02305,C278,2026-08-11 07:03:32,Net Banking,Delivered,Nashik
+O02306,C196,2026-08-11 13:10:35,UPI,Delivered,Thrissur
+O02307,C404,2026-08-11 19:17:39,Credit Card,Delivered,Ahmedabad
+O02308,C352,2026-08-12 01:24:42,Credit Card,Delivered,Thiruvananthapuram
+O02309,C484,2026-08-12 07:31:46,Credit Card,Delivered,Chennai
+O02310,C242,2026-08-12 13:38:49,Debit Card,Delivered,Pune
+O02311,C324,2026-08-12 19:45:53,UPI,Delivered,Thiruvananthapuram
+O02312,C219,2026-08-13 01:52:56,Credit Card,Shipped,Kottayam
+O02313,C192,2026-08-13 08:00:00,UPI,Delivered,Kollam
+O02314,C017,2026-08-13 14:07:04,Debit Card,Shipped,Kollam
+O02315,C012,2026-08-13 20:14:07,UPI,Delivered,Kolkata
+O02316,C406,2026-08-14 02:21:11,Credit Card,Delivered,Kollam
+O02317,C401,2026-08-14 08:28:14,UPI,Delivered,Thrissur
+O02318,C394,2026-08-14 14:35:18,UPI,Cancelled,Chennai
+O02319,C374,2026-08-14 20:42:21,UPI,Delivered,Coimbatore
+O02320,C193,2026-08-15 02:49:25,UPI,Delivered,Hyderabad
+O02321,C022,2026-08-15 08:56:28,Cash on Delivery,Delivered,Coimbatore
+O02322,C474,2026-08-15 15:03:32,UPI,Delivered,Coimbatore
+O02323,C120,2026-08-15 21:10:35,Net Banking,Delivered,Ahmedabad
+O02324,C210,2026-08-16 03:17:39,Net Banking,Cancelled,Coimbatore
+O02325,C306,2026-08-16 09:24:42,Credit Card,Returned,Kottayam
+O02326,C270,2026-08-16 15:31:46,UPI,Delivered,Delhi
+O02327,C192,2026-08-16 21:38:49,UPI,Cancelled,Kollam
+O02328,C175,2026-08-17 03:45:53,Cash on Delivery,Delivered,Kottayam
+O02329,C285,2026-08-17 09:52:56,UPI,Delivered,Indore
+O02330,C204,2026-08-17 16:00:00,UPI,Delivered,Ahmedabad
+O02331,C164,2026-08-17 22:07:04,Credit Card,Delivered,Jaipur
+O02332,C251,2026-08-18 04:14:07,Cash on Delivery,Returned,Thrissur
+O02333,C227,2026-08-18 10:21:11,Cash on Delivery,Delivered,Mysuru
+O02334,C436,2026-08-18 16:28:14,UPI,Delivered,Hyderabad
+O02335,C381,2026-08-18 22:35:18,Debit Card,Delivered,Ahmedabad
+O02336,C460,2026-08-19 04:42:21,UPI,Delivered,Kolkata
+O02337,C007,2026-08-19 10:49:25,UPI,Delivered,Kozhikode
+O02338,C029,2026-08-19 16:56:28,Cash on Delivery,Returned,Coimbatore
+O02339,C395,2026-08-19 23:03:32,UPI,Shipped,Thiruvananthapuram
+O02340,C033,2026-08-20 05:10:35,UPI,Shipped,Thrissur
+O02341,C134,2026-08-20 11:17:39,UPI,Delivered,Kottayam
+O02342,C367,2026-08-20 17:24:42,Cash on Delivery,Delivered,Mumbai
+O02343,C079,2026-08-20 23:31:46,Cash on Delivery,Delivered,Bhopal
+O02344,C416,2026-08-21 05:38:49,Debit Card,Delivered,Hyderabad
+O02345,C435,2026-08-21 11:45:53,Debit Card,Delivered,Ahmedabad
+O02346,C459,2026-08-21 17:52:56,UPI,Delivered,Thiruvananthapuram
+O02347,C058,2026-08-22 00:00:00,Credit Card,Delivered,Delhi
+O02348,C471,2026-08-22 06:07:04,UPI,Delivered,Chennai
+O02349,C026,2026-08-22 12:14:07,UPI,Delivered,Delhi
+O02350,C482,2026-08-22 18:21:11,Credit Card,Delivered,Indore
+O02351,C430,2026-08-23 00:28:14,Net Banking,Delivered,Bengaluru
+O02352,C226,2026-08-23 06:35:18,UPI,Cancelled,Ahmedabad
+O02353,C285,2026-08-23 12:42:21,UPI,Delivered,Kozhikode
+O02354,C004,2026-08-23 18:49:25,UPI,Shipped,Kochi
+O02355,C465,2026-08-24 00:56:28,UPI,Delivered,Thrissur
+O02356,C099,2026-08-24 07:03:32,Net Banking,Delivered,Jaipur
+O02357,C397,2026-08-24 13:10:35,Credit Card,Delivered,Mysuru
+O02358,C489,2026-08-24 19:17:39,Credit Card,Shipped,Ahmedabad
+O02359,C039,2026-08-25 01:24:42,Cash on Delivery,Shipped,Kottayam
+O02360,C271,2026-08-25 07:31:46,UPI,Delivered,Kochi
+O02361,C375,2026-08-25 13:38:49,Credit Card,Delivered,Mysuru
+O02362,C285,2026-08-25 19:45:53,Credit Card,Delivered,Kochi
+O02363,C157,2026-08-26 01:52:56,Credit Card,Delivered,Ahmedabad
+O02364,C075,2026-08-26 08:00:00,Net Banking,Cancelled,Mumbai
+O02365,C372,2026-08-26 14:07:04,Cash on Delivery,Delivered,Indore
+O02366,C288,2026-08-26 20:14:07,Credit Card,Delivered,Mumbai
+O02367,C130,2026-08-27 02:21:11,Cash on Delivery,Delivered,Ahmedabad
+O02368,C175,2026-08-27 08:28:14,UPI,Delivered,Coimbatore
+O02369,C462,2026-08-27 14:35:18,UPI,Delivered,Pune
+O02370,C084,2026-08-27 20:42:21,UPI,Delivered,Kochi
+O02371,C022,2026-08-28 02:49:25,UPI,Delivered,Bengaluru
+O02372,C459,2026-08-28 08:56:28,Credit Card,Delivered,Delhi
+O02373,C027,2026-08-28 15:03:32,Debit Card,Delivered,Coimbatore
+O02374,C195,2026-08-28 21:10:35,Net Banking,Shipped,Kottayam
+O02375,C337,2026-08-29 03:17:39,Credit Card,Delivered,Delhi
+O02376,C382,2026-08-29 09:24:42,Credit Card,Delivered,Jaipur
+O02377,C236,2026-08-29 15:31:46,UPI,Delivered,Kollam
+O02378,C440,2026-08-29 21:38:49,UPI,Delivered,Jaipur
+O02379,C092,2026-08-30 03:45:53,Credit Card,Delivered,Delhi
+O02380,C477,2026-08-30 09:52:56,Credit Card,Delivered,Hyderabad
+O02381,C021,2026-08-30 16:00:00,Cash on Delivery,Delivered,Mysuru
+O02382,C303,2026-08-30 22:07:04,UPI,Returned,Nashik
+O02383,C464,2026-08-31 04:14:07,UPI,Delivered,Hyderabad
+O02384,C357,2026-08-31 10:21:11,Credit Card,Delivered,Mumbai
+O02385,C443,2026-08-31 16:28:14,UPI,Delivered,Kottayam
+O02386,C084,2026-08-31 22:35:18,UPI,Delivered,Kozhikode
+O02387,C262,2026-09-01 04:42:21,Debit Card,Delivered,Kochi
+O02388,C147,2026-09-01 10:49:25,UPI,Shipped,Jaipur
+O02389,C441,2026-09-01 16:56:28,Debit Card,Delivered,Kollam
+O02390,C453,2026-09-01 23:03:32,UPI,Delivered,Nashik
+O02391,C387,2026-09-02 05:10:35,UPI,Delivered,Coimbatore
+O02392,C257,2026-09-02 11:17:39,UPI,Delivered,Kollam
+O02393,C058,2026-09-02 17:24:42,Cash on Delivery,Delivered,Bhopal
+O02394,C380,2026-09-02 23:31:46,Credit Card,Delivered,Delhi
+O02395,C422,2026-09-03 05:38:49,Debit Card,Delivered,Kochi
+O02396,C015,2026-09-03 11:45:53,UPI,Delivered,Thiruvananthapuram
+O02397,C162,2026-09-03 17:52:56,Cash on Delivery,Delivered,Bengaluru
+O02398,C445,2026-09-04 00:00:00,UPI,Returned,Coimbatore
+O02399,C163,2026-09-04 06:07:04,Debit Card,Delivered,Kolkata
+O02400,C320,2026-09-04 12:14:07,Credit Card,Shipped,Bengaluru
+O02401,C497,2026-09-04 18:21:11,Net Banking,Shipped,Hyderabad
+O02402,C281,2026-09-05 00:28:14,Credit Card,Delivered,Kollam
+O02403,C280,2026-09-05 06:35:18,UPI,Delivered,Pune
+O02404,C012,2026-09-05 12:42:21,UPI,Delivered,Delhi
+O02405,C274,2026-09-05 18:49:25,Cash on Delivery,Delivered,Hyderabad
+O02406,C271,2026-09-06 00:56:28,Credit Card,Delivered,Kolkata
+O02407,C492,2026-09-06 07:03:32,Cash on Delivery,Shipped,Hyderabad
+O02408,C208,2026-09-06 13:10:35,UPI,Cancelled,Ahmedabad
+O02409,C027,2026-09-06 19:17:39,UPI,Delivered,Indore
+O02410,C072,2026-09-07 01:24:42,UPI,Delivered,Pune
+O02411,C060,2026-09-07 07:31:46,Net Banking,Delivered,Coimbatore
+O02412,C430,2026-09-07 13:38:49,Debit Card,Shipped,Thiruvananthapuram
+O02413,C473,2026-09-07 19:45:53,Net Banking,Delivered,Bengaluru
+O02414,C145,2026-09-08 01:52:56,UPI,Delivered,Nashik
+O02415,C093,2026-09-08 08:00:00,Debit Card,Delivered,Kozhikode
+O02416,C309,2026-09-08 14:07:04,Debit Card,Delivered,Indore
+O02417,C008,2026-09-08 20:14:07,UPI,Cancelled,Kochi
+O02418,C079,2026-09-09 02:21:11,Cash on Delivery,Delivered,Kozhikode
+O02419,C027,2026-09-09 08:28:14,Net Banking,Delivered,Coimbatore
+O02420,C174,2026-09-09 14:35:18,Cash on Delivery,Cancelled,Indore
+O02421,C050,2026-09-09 20:42:21,Debit Card,Delivered,Kottayam
+O02422,C500,2026-09-10 02:49:25,UPI,Delivered,Kolkata
+O02423,C199,2026-09-10 08:56:28,UPI,Delivered,Indore
+O02424,C387,2026-09-10 15:03:32,Net Banking,Delivered,Bengaluru
+O02425,C349,2026-09-10 21:10:35,UPI,Delivered,Kollam
+O02426,C448,2026-09-11 03:17:39,Debit Card,Delivered,Thrissur
+O02427,C428,2026-09-11 09:24:42,Debit Card,Delivered,Jaipur
+O02428,C181,2026-09-11 15:31:46,Debit Card,Delivered,Kozhikode
+O02429,C024,2026-09-11 21:38:49,Net Banking,Delivered,Delhi
+O02430,C316,2026-09-12 03:45:53,UPI,Shipped,Jaipur
+O02431,C378,2026-09-12 09:52:56,UPI,Delivered,Jaipur
+O02432,C387,2026-09-12 16:00:00,UPI,Delivered,Thiruvananthapuram
+O02433,C404,2026-09-12 22:07:04,Credit Card,Delivered,Nashik
+O02434,C046,2026-09-13 04:14:07,UPI,Delivered,Indore
+O02435,C015,2026-09-13 10:21:11,UPI,Shipped,Kollam
+O02436,C153,2026-09-13 16:28:14,Cash on Delivery,Delivered,Kozhikode
+O02437,C222,2026-09-13 22:35:18,Net Banking,Delivered,Kollam
+O02438,C206,2026-09-14 04:42:21,UPI,Delivered,Kollam
+O02439,C455,2026-09-14 10:49:25,UPI,Delivered,Kollam
+O02440,C273,2026-09-14 16:56:28,Net Banking,Delivered,Kozhikode
+O02441,C382,2026-09-14 23:03:32,UPI,Delivered,Kozhikode
+O02442,C236,2026-09-15 05:10:35,UPI,Returned,Kolkata
+O02443,C340,2026-09-15 11:17:39,UPI,Shipped,Jaipur
+O02444,C228,2026-09-15 17:24:42,Credit Card,Delivered,Kolkata
+O02445,C009,2026-09-15 23:31:46,UPI,Delivered,Thrissur
+O02446,C166,2026-09-16 05:38:49,Net Banking,Cancelled,Kochi
+O02447,C432,2026-09-16 11:45:53,Credit Card,Delivered,Hyderabad
+O02448,C444,2026-09-16 17:52:56,Credit Card,Delivered,Mysuru
+O02449,C319,2026-09-17 00:00:00,UPI,Delivered,Delhi
+O02450,C214,2026-09-17 06:07:04,Credit Card,Shipped,Mysuru
+O02451,C117,2026-09-17 12:14:07,Debit Card,Delivered,Bengaluru
+O02452,C386,2026-09-17 18:21:11,Debit Card,Delivered,Mysuru
+O02453,C344,2026-09-18 00:28:14,Debit Card,Shipped,Pune
+O02454,C072,2026-09-18 06:35:18,Credit Card,Cancelled,Hyderabad
+O02455,C395,2026-09-18 12:42:21,Net Banking,Cancelled,Pune
+O02456,C064,2026-09-18 18:49:25,Cash on Delivery,Delivered,Ahmedabad
+O02457,C205,2026-09-19 00:56:28,Debit Card,Delivered,Coimbatore
+O02458,C209,2026-09-19 07:03:32,UPI,Delivered,Bengaluru
+O02459,C072,2026-09-19 13:10:35,UPI,Delivered,Pune
+O02460,C277,2026-09-19 19:17:39,UPI,Delivered,Kolkata
+O02461,C274,2026-09-20 01:24:42,Debit Card,Delivered,Kollam
+O02462,C478,2026-09-20 07:31:46,Credit Card,Shipped,Hyderabad
+O02463,C320,2026-09-20 13:38:49,Credit Card,Delivered,Chennai
+O02464,C338,2026-09-20 19:45:53,Cash on Delivery,Delivered,Bengaluru
+O02465,C366,2026-09-21 01:52:56,Cash on Delivery,Delivered,Kolkata
+O02466,C495,2026-09-21 08:00:00,Net Banking,Delivered,Bhopal
+O02467,C095,2026-09-21 14:07:04,UPI,Delivered,Mumbai
+O02468,C166,2026-09-21 20:14:07,Debit Card,Delivered,Bengaluru
+O02469,C032,2026-09-22 02:21:11,UPI,Delivered,Coimbatore
+O02470,C011,2026-09-22 08:28:14,UPI,Delivered,Chennai
+O02471,C301,2026-09-22 14:35:18,UPI,Delivered,Thrissur
+O02472,C217,2026-09-22 20:42:21,UPI,Delivered,Hyderabad
+O02473,C289,2026-09-23 02:49:25,Credit Card,Shipped,Coimbatore
+O02474,C102,2026-09-23 08:56:28,Cash on Delivery,Delivered,Ahmedabad
+O02475,C425,2026-09-23 15:03:32,UPI,Delivered,Delhi
+O02476,C392,2026-09-23 21:10:35,Debit Card,Shipped,Chennai
+O02477,C267,2026-09-24 03:17:39,Credit Card,Delivered,Nashik
+O02478,C214,2026-09-24 09:24:42,UPI,Returned,Kochi
+O02479,C179,2026-09-24 15:31:46,Credit Card,Shipped,Thiruvananthapuram
+O02480,C088,2026-09-24 21:38:49,UPI,Delivered,Nashik
+O02481,C041,2026-09-25 03:45:53,Credit Card,Returned,Chennai
+O02482,C401,2026-09-25 09:52:56,Credit Card,Delivered,Bengaluru
+O02483,C076,2026-09-25 16:00:00,UPI,Delivered,Hyderabad
+O02484,C377,2026-09-25 22:07:04,UPI,Delivered,Ahmedabad
+O02485,C046,2026-09-26 04:14:07,Credit Card,Delivered,Bengaluru
+O02486,C160,2026-09-26 10:21:11,Net Banking,Cancelled,Kottayam
+O02487,C463,2026-09-26 16:28:14,UPI,Delivered,Jaipur
+O02488,C080,2026-09-26 22:35:18,Debit Card,Delivered,Ahmedabad
+O02489,C310,2026-09-27 04:42:21,Debit Card,Delivered,Mumbai
+O02490,C086,2026-09-27 10:49:25,Net Banking,Delivered,Pune
+O02491,C092,2026-09-27 16:56:28,Cash on Delivery,Delivered,Coimbatore
+O02492,C148,2026-09-27 23:03:32,Credit Card,Delivered,Nashik
+O02493,C161,2026-09-28 05:10:35,Debit Card,Shipped,Pune
+O02494,C202,2026-09-28 11:17:39,Cash on Delivery,Delivered,Coimbatore
+O02495,C424,2026-09-28 17:24:42,Credit Card,Shipped,Kolkata
+O02496,C416,2026-09-28 23:31:46,UPI,Delivered,Jaipur
+O02497,C242,2026-09-29 05:38:49,UPI,Delivered,Thrissur
+O02498,C353,2026-09-29 11:45:53,Cash on Delivery,Delivered,Kollam
+O02499,C002,2026-09-29 17:52:56,Cash on Delivery,Delivered,Kollam
+O02500,C225,2026-09-30 00:00:00,UPI,Delivered,Pune
